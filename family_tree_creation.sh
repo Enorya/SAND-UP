@@ -267,7 +267,7 @@ else
 	## Move to family directory
 	cd ${family}_${amplicon}
 
-	# Retrieve all NCBI sequences containing "mitochondrial" or "mitochondrion" and "12S" or "complete genome"
+	# Retrieve all NCBI sequences containing "mitochondrial" or "mitochondrion" and "gene_name" or "complete genome"
 	## Retrieve all the accession numbers
 	while read line
 	do
