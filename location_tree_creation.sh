@@ -6,14 +6,14 @@
 Help()
 {
 	# Display Help
-	echo "This script create a phylogenetic tree by taking as input a location name, the name of the used amplicon and a taxonomy and occurence tables."
+	echo "This script create a phylogenetic tree by taking as input a location name, the name of the used amplicon, a taxonomy and a sequence table."
 	echo
-	echo "Syntax: script.sh [-t|c|a|u|f|r|g|l|o|h]"
+	echo "Syntax: location_tree_creation.sh [-t|s|a|u|f|r|g|l|o|h]"
 	echo
 	echo "Options:"
 	echo "-n	name of location you want to study (mandatory)"
 	echo "-t	taxonomy table (mandatory)"
-	echo "-c	occurence table (mandatory)"
+	echo "-s	occurence table (mandatory)"
 	echo "-u	unwanted taxa list"
 	echo "-a	amplicon name (mandatory)"
 	echo "-f	forward primer sequence"
@@ -42,7 +42,7 @@ do
 			location=$OPTARG;;
 		(t) # enter taxonomy table name
 			tax_table=$OPTARG;;
-		(c) # enter sequence table name
+		(s) # enter sequence table name
 			occ_table=$OPTARG;;
 		(u) # enter unwanted taxa list
 			unwanted_taxa=$$OPTARG;;
@@ -66,8 +66,7 @@ do
 done
 
 # Load conda environment
-source ~/.bashrc
-conda activate tree-creation
+source activate tree-creation
 
 echo -e "Checking the parameters given by the user to be sure that all needed informations are provided.\n"
 
@@ -140,7 +139,7 @@ else
 			if [ "$length_amp" == "" ]
                         then
                                 echo -e "You didn't provide the maximum length of the amplicon but the amplicon name you provided is in the default list. Default maximum length from the list will be used to remove too long sequences before alignment.\n"
-                                length_amp=`grep "$amplicon" list_primers.tsv | cut -f5`
+                                length_amp=`grep "$amplicon" list_primers.tsv | cut -f5 | tr -d '\r'`
                         else
                                 echo -e "Maximum length of the amplicon detected. The following length will be used to remove too long sequences before the alignment: $length_amp"
                         fi
@@ -173,7 +172,7 @@ else
 			if [ "$length_amp" == "" ]
 			then
 				echo -e "You didn't provide the maximum length of the amplicon but the amplicon name you provided is in the default list. Default maximum length from the list will be used to remove too long sequences before alignment.\n"
-				length_amp=`grep "$amplicon" list_primers.tsv | cut -f5`
+				length_amp=`grep "$amplicon" list_primers.tsv | cut -f5 | tr -d '\r'`
 			else
 				echo -e "Maximum length of the amplicon detected. The following length will be used to remove too long sequences before the alignment: $length_amp"
 			fi
@@ -208,7 +207,7 @@ else
 				exit 1
 			else
 				echo -e "You didn't provide the maximum length of the amplicon but the amplicon name you provided is in the default list. Default maximum length from the list will be used to remove too long sequences before alignment.\n"
-				length_amp=`grep "$amplicon" list_primers.tsv | cut -f5`
+				length_amp=`grep "$amplicon" list_primers.tsv | cut -f5 | tr -d '\r'`
 			fi
 		else
 			echo -e "Maximum length of the amplicon detected. The following length will be used to remove too long sequences before the alignment: $length_amp\n"
@@ -235,141 +234,131 @@ mkdir $location
 cd $location
 
 # Create file containing all ASV sequences of this sample
-## Get column numbers of interesting fields
-DNA_col=`awk -v RS='\t' '/DNA_sequence/{print NR; exit}' ${tax_table}`
-spe_col=`awk -v RS='\t' '/scientificName/{print NR; exit}' ${tax_table}`
-rank_col=`awk -v RS='\t' '/taxonRank/{print NR; exit}' ${tax_table}`
-DNA_col=$(( $DNA_col + 1 ))
-spe_col=$(( $spe_col + 1 ))
-rank_col=$(( $rank_col + 1 ))
-
-## Retrieve ASV sequences
 echo -e "Starting to retrieve all the ASV sequences for this location...\n----------\n"
-grep "^asv" ${tax_table} | sed 's/\t/|/g' | while read line; do asv=`echo $line | cut -d'|' -f1`; species=`echo $line | cut -d'|' -f${spe_col} | sed 's/ /_/g'`; echo -e ">${asv}_${species}" >> ${location}_ASV.fa; seq=`echo $line | cut -d'|' -f${DNA_col}`; echo $seq >> ${location}_ASV.fa; done
 
-## Remove duplicated sequences
-seqkit rmdup -s < ${location}_ASV.fa > ${location}_ASV_nodup.fa
+	## Get column numbers of interesting fields
+	DNA_col=`awk -v RS='\t' '/DNA_sequence/{print NR; exit}' ../${tax_table}`
+	spe_col=`awk -v RS='\t' '/scientificName/{print NR; exit}' ../${tax_table}`
+	rank_col=`awk -v RS='\t' '/taxonRank/{print NR; exit}' ../${tax_table}`
 
-## Transform sequences to get DNA on one line for each ASV
-awk '/^>/ { if(NR>1) print "";  printf("%s\n",$0); next; } { printf("%s",$0);}  END {printf("\n");}' < ${location}_ASV_nodup.fa > ${location}_ASV_nodup_correct.fa
+	## Retrieve ASV sequences
+	grep "^asv" ../${tax_table} | sed 's/\t/|/g' | while read line; do asv=`echo $line | cut -d'|' -f1`; species=`echo $line | cut -d'|' -f${spe_col} | sed 's/ /_/g'`; echo -e ">${asv}_${species}" >> ${location}_ASV.fa; seq=`echo $line | cut -d'|' -f${DNA_col}`; echo $seq >> ${location}_ASV.fa; done
+
+	## Remove duplicated sequences
+	seqkit rmdup -s < ${location}_ASV.fa > ${location}_ASV_nodup.fa
+
+	## Transform sequences to get DNA on one line for each ASV
+	awk '/^>/ { if(NR>1) print "";  printf("%s\n",$0); next; } { printf("%s",$0);}  END {printf("\n");}' < ${location}_ASV_nodup.fa > ${location}_ASV_nodup_correct.fa
 
 # Remove the ASVs identified as human
-while read line
-do
-	grep_res=`echo $line | grep -v "asv." | head -n1 | cut -d' ' -f1`
-	if [ -z $grep_res ] # if lines contains asv. do the following
-	then
-		species=`echo $line | cut -d'_' -f2-` # get species name
-		name=`echo $line | cut -d'>' -f2` # get the complete sequence name
-		if [[ $species == "Homo_sapiens" || $species == "Incertae_sedis" ]] # check if species is human or assigned incertain
-		then
-			num=`grep -n "$name" ${location}_ASV_nodup_correct.fa | cut -d":" -f1` # if it is retrieve line number of the asv sequence
-			other=$(( $num + 1 ))
-			sed -i ''$num','$other'd' ${location}_ASV_nodup_correct.fa # and remove these lines
-		fi
-	fi
-done < ${location}_ASV_nodup_correct.fa
+echo -e "Remove ASVs identified as human...\n----------\n"
 
-## Remove temporary files
-rm ${location}_ASV.fa ${location}_ASV_nodup.fa
-mv ${location}_ASV_nodup_correct.fa ${location}_ASV.fa
+	while read line
+	do
+		grep_res=`echo $line | grep -v "asv." | head -n1 | cut -d' ' -f1`
+		if [ -z $grep_res ] # if lines contains asv. do the following
+		then
+			species=`echo $line | cut -d'_' -f2-` # get species name
+			name=`echo $line | cut -d'>' -f2` # get the complete sequence name
+			if [[ $species == "Homo_sapiens" || $species == "Incertae_sedis" ]] # check if species is human or assigned incertain
+			then
+				num=`grep -n "$name" ${location}_ASV_nodup_correct.fa | cut -d":" -f1` # if it is retrieve line number of the asv sequence
+				other=$(( $num + 1 ))
+				sed -i ''$num','$other'd' ${location}_ASV_nodup_correct.fa # and remove these lines
+			fi
+		fi
+	done < ${location}_ASV_nodup_correct.fa
+
+	## Remove temporary files
+	rm ${location}_ASV.fa ${location}_ASV_nodup.fa
+	mv ${location}_ASV_nodup_correct.fa ${location}_ASV.fa
 
 # Retrieve NCBI sequences to add known species to the tree
 echo -e "Starting to retrieve the NCBI sequences corresponding to the genus or species identified with blast and vsearch...\n----------\n"
 
-
-## Retrieve the accession numbers
-touch temp_spe_file.txt
-while read line
-do
-	grep_res=`echo $line | grep -v "asv."`
-	if [ -z $grep_res ]
-	then
-		asv=`echo $line | cut -d'_' -f1 | cut -d'>' -f2`
-		rank=`grep -P "^$asv\t" ${tax_table} | cut -f${rank_col}`
-		genus=`echo $line | cut -d'_' -f2`
-		grep_gen=`grep "$genus" temp_spe_file.txt | head -n1 | cut -d' ' -f1`
-		if [ -z $grep_gen ]
+	## Retrieve the accession numbers
+	touch temp_spe_file.txt
+	while read line
+	do
+		grep_res=`echo $line | grep -v "asv."`
+		if [ -z $grep_res ]
 		then
-			if [ "$rank" == "genus" ]
+			asv=`echo $line | cut -d'_' -f1 | cut -d'>' -f2`
+			rank=`grep -P "^$asv\t" ../${tax_table} | cut -f${rank_col}`
+			genus=`echo $line | cut -d'_' -f2`
+			grep_gen=`grep "$genus" temp_spe_file.txt | head -n1 | cut -d' ' -f1`
+			if [ -z $grep_gen ]
 			then
-				grep "$genus " ../all_nt_db_acc.txt | grep -E 'genome|${gene_name}' | grep "mitochon" | sort -u -t' ' -k3 | cut -d' ' -f1 | cut -d'>' -f2 >> ${location}_accessions.txt
-				echo $genus >> temp_spe_file.txt
-			elif [ "$rank" == "species" ]
-			then
-				# spe=`echo $line | cut -d'_' -f2- | sed 's/_/ /g'`
-				grep "$genus " ../all_nt_db_acc.txt | grep -E 'genome|${gene_name}' | grep "mitochon" | sort -u -t' ' -k3 | cut -d' ' -f1 | cut -d'>' -f2 >> ${location}_accessions.txt
-				echo $genus >> temp_spe_file.txt
+				if [ "$rank" == "genus" ]
+				then
+					grep "$genus " ../all_nt_db_acc.txt | grep -E 'genome|${gene_name}' | grep "mitochon" | sort -u -t' ' -k3 | cut -d' ' -f1 | cut -d'>' -f2 >> ${location}_accessions.txt
+					echo $genus >> temp_spe_file.txt
+				elif [ "$rank" == "species" ]
+				then
+					# spe=`echo $line | cut -d'_' -f2- | sed 's/_/ /g'`
+					grep "$genus " ../all_nt_db_acc.txt | grep -E 'genome|${gene_name}' | grep "mitochon" | sort -u -t' ' -k3 | cut -d' ' -f1 | cut -d'>' -f2 >> ${location}_accessions.txt
+					echo $genus >> temp_spe_file.txt
+				fi
 			fi
 		fi
-	fi
-done < ${location}_ASV.fa
+	done < ${location}_ASV.fa
 
-## Remove temporary files
-# rm temp_spe_file.txt
+	## Remove temporary files
+	rm temp_spe_file.txt
 
-## Download sequences of these accession numbers
-echo -e "Downloading the sequences from NCBI...\n----------\n"
-sort ${location}_accessions.txt | uniq > ${location}_acc_nodup.txt
-mkdir ncbi_acc_files
-while read line
-do
-	acc=`echo $line`
-	ncbi-acc-download --format fasta --out ncbi_acc_files/${acc}.fasta $acc
-done < ${location}_acc_nodup.txt
-cat ncbi_acc_files/*.fasta > ${location}_organisms.fasta
+	## Download sequences of these accession numbers
+	echo -e "Downloading the sequences from NCBI...\n----------\n"
+	sort ${location}_accessions.txt | uniq > ${location}_acc_nodup.txt
+	mkdir ncbi_acc_files
+	while read line
+	do
+		acc=`echo $line`
+		ncbi-acc-download --format fasta --out ncbi_acc_files/${acc}.fasta $acc
+	done < ${location}_acc_nodup.txt
+	cat ncbi_acc_files/*.fasta > ${location}_organisms.fasta
 
-## Cleaning temporary files
-# rm -r ncbi_acc_files/
-# rm ${location}_accessions.txt
+	## Cleaning temporary files
+	rm -r ncbi_acc_files/
+	rm ${location}_accessions.txt
 
-awk '/^>/ { if(NR>1) print "";  printf("%s\n",$0); next; } { printf("%s",$0);}  END {printf("\n");}' < ${location}_organisms.fasta > ${location}_organisms_1l.fa
+	## Put all fasta sequences on one line
+	awk '/^>/ { if(NR>1) print "";  printf("%s\n",$0); next; } { printf("%s",$0);}  END {printf("\n");}' < ${location}_organisms.fasta > ${location}_organisms_1l.fa
 
-## Clean
-rm ${location}_organisms.fasta
-mv ${location}_organisms_1l.fa ${location}_organisms.fa
+	## Clean
+	rm ${location}_organisms.fasta
+	mv ${location}_organisms_1l.fa ${location}_organisms.fa
 
-## Rename the sequences to keep only the organism genus and species
-sed -i 's/PREDICTED: /PREDICTED:/g' ${location}_organisms.fa
-while read line
-do
-        grep_res=`echo $line | grep -v "^>"`
-        if [ -z $grep_res ]
-        then
-                name=`echo $line | cut -d' ' -f2-3`
-                sed -i "s|$line|>${name}|g" ${location}_organisms.fa > sed_output.txt 2>&1
-        fi
-done < ${location}_organisms.fa
+# Remove unwanted taxa and put all sequences (organisms and asv) in one file
+echo -e "Removing unwanted taxa like Hominidae and Putting all the sequences in one file...\n----------\n"
 
-# Put all sequences (organisms and asv) in one file and remove Human sequences
-echo -e "Putting all the sequences in one file and removing some unwanted taxa like Hominidae...\n----------\n"
-## Add asv sequences to the same file
-cat ${location}_ASV.fa >> ${location}_organisms_final.fa
-cat ${location}_organisms.fa >> ${location}_organisms_final.fa
+	## Remove all unwanted sequences
+	grep -f ../$unwanted_taxa ${location}_organisms.fa | sed 's/^>//g' > idlist.txt
+	seqkit grep -vi --pattern-file idlist.txt -n ${location}_organisms.fa > ${location}_organisms_clean.fa
+	sed -i 's/PREDICTED: /PREDICTED:/g' ${location}_organisms_clean.fa
+	awk '/^>/ { if(NR>1) print "";  printf("%s\n",$0); next; } { printf("%s",$0);}  END {printf("\n");}' < ${location}_organisms_clean.fa > ${location}_organisms_clean_1l.fa
 
-## Remove all unwanted sequences
-seqkit grep -rvif ../$unwanted_taxa ${location}_organisms_final.fa > ${location}_final.fa
-awk '/^>/ { if(NR>1) print "";  printf("%s\n",$0); next; } { printf("%s",$0);}  END {printf("\n");}' < ${location}_final.fa > ${location}_final_correct.fa
+	## Remove temporary files
+	rm idlist.txt ${location}_organisms_clean.fa
+	mv ${location}_organisms_clean_1l.fa ${location}_organisms_clean.fa
 
-## Retrieve all unwanted sequences
-# grep -A1 -f ../removed_organisms.txt ${location}_organisms_final.fa > ${location}_bad-species.fa
+	## Rename the sequences to keep only the organism genus and species
+	grep "^>" ${location}_organisms_clean.fa > names_organisms.txt
+	while read line
+	do
+		name=`echo $line | cut -d' ' -f2-3`
+		sed -i "s|$line|>${name}|" ${location}_organisms_clean.fa > sed_output.txt 2>&1
+	done < names_organisms.txt
 
-## Remove the unwanted sequences
-# grep -v -f ${location}_bad-species.fa ${location}_organisms_final.fa > ${location}_final.fa
-
-## Remove all empty sequences
-# awk 'BEGIN {RS = ">" ; FS = "\n" ; ORS = ""} $2 {print ">"$0}' ${location}_final.fa > ${location}_final_correct.fa
-
-## Remove temporary files
-# rm ${location}_bad-species.fa
-rm ${location}_final.fa
-mv ${location}_final_correct.fa ${location}_final.fa
+	## Add asv sequences to the same file and remove temporary files
+	cat ${location}_ASV.fa >> ${location}_organisms_final.fa
+	cat ${location}_organisms_clean.fa >> ${location}_organisms_final.fa
+	rm names_organisms.txt
 
 # Apply cutadapt on all the sequences
 echo -e "Applying cutadapt to the sequences in order to keep only the fragment of interest...\n----------\n"
 
 	## Detect forward primer
-	cutadapt -g $primer_forward -o ${location}_final-short.fa -e 4 -j 1 ${location}_final.fa > ${location}_cutadapt1.log 2>&1
+	cutadapt -g $primer_forward -o ${location}_final-short.fa -e 4 -j 1 ${location}_organisms_final.fa > ${location}_cutadapt1.log 2>&1
 
     ## Detect reverse primer
     cutadapt -a $primer_reverse -o ${location}_final-short2.fa -e 4 -j 1 ${location}_final-short.fa > ${location}_cutadapt2.log 2>&1
@@ -381,7 +370,7 @@ echo -e "Applying cutadapt to the sequences in order to keep only the fragment o
 echo -e "Refining the sequences and changing sequence's names...\n----------\n"
 
 	# remove too long sequences which were not cutted with cutadapt (no amplicon in seq?)
-	seqkit seq -M 250 ${location}_final-short2.fa | awk '/^>/ { if(NR>1) print "";  printf("%s\n",$0); next; } { printf("%s",$0);}  END {printf("\n");}' > ${location}_final-short2_correct.fa
+	seqkit seq -M $length_amp ${location}_final-short2.fa | awk '/^>/ { if(NR>1) print "";  printf("%s\n",$0); next; } { printf("%s",$0);}  END {printf("\n");}' > ${location}_final-short2_correct.fa
 
 	# remove duplicated organisms
 	echo -e "Removing duplicate sequences and duplicated names...\n----------\n"
@@ -430,7 +419,7 @@ echo -e "Refining the sequences and changing sequence's names...\n----------\n"
 	while read line
 	do
 		asv=`echo $line | cut -d'_' -f1`
-		sites=`grep "${asv}_EE" $occ_table | wc -l`
+		sites=`grep "${asv}_EE" ../${occ_table} | wc -l`
 		echo "$sites" >> ${location}_quant_num.tsv
 	done < ${location}_quant_names.tsv
 
@@ -445,7 +434,7 @@ echo -e "Refining the sequences and changing sequence's names...\n----------\n"
 	echo -e "Creating the tree image...\n----------\n"
 
 	## Change to conda environment for tree construction
-	mamba activate R-unesco-trees
+	conda activate R-tree-creation
 
 	## call the R script
 	path=`pwd`
