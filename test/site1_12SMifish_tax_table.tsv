@@ -1,540 +1,540 @@
-ASV_name	superkingdom	kingdom	phylum	class	order	family	genus	species	scientificName	taxonRank
-asv.279		Animalia	Chordata	Elasmobranchii	Carcharhiniformes	Carcharhinidae	Triaenodon	Triaenodon obesus	Triaenodon obesus	species
-asv.280		Animalia	Chordata	Mammalia					Mammalia	class
-asv.281		Animalia	Chordata						Actinopteri	superclass
-asv.282		Animalia	Chordata	Teleostei	Pleuronectiformes	Paralichthyidae	Cyclopsetta	Cyclopsetta fimbriata	Cyclopsetta fimbriata	species
-asv.283		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae			Engraulidae	family
-asv.284		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Alectis	Alectis ciliaris	Alectis ciliaris	species
-asv.286		Animalia	Chordata						Actinopteri	superclass
-asv.287		Animalia	Chordata						Actinopteri	superclass
-asv.288		Animalia	Chordata	Mammalia	Cetartiodactyla	Delphinidae	Tursiops	Tursiops truncatus	Tursiops truncatus	species
-asv.290		Animalia	Chordata						Actinopteri	superclass
-asv.291		Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil curema	Mugil curema	species
-asv.292		Animalia	Chordata	Mammalia	Primates	Hominidae			Hominidae	family
-asv.293		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx	Caranx sexfasciatus	Caranx sexfasciatus	species
-asv.294		Animalia	Chordata						Actinopteri	superclass
-asv.295		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae			Engraulidae	family
-asv.296		Animalia	Chordata						Actinopteri	superclass
-asv.297		Animalia	Chordata						Actinopteri	superclass
-asv.298		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Selar	Selar crumenophthalmus	Selar crumenophthalmus	species
-asv.299		Animalia	Chordata						Actinopteri	superclass
-asv.300		Animalia	Chordata						Actinopteri	superclass
-asv.301		Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Prionurus	Prionurus scalprum	Prionurus scalprum	species
-asv.302		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Trachinotus		Trachinotus	genus
-asv.303		Animalia	Chordata						Chordata	phylum
-asv.304		Animalia	Chordata						Actinopteri	superclass
-asv.305		Animalia	Chordata	Mammalia	Carnivora	Canidae	Canis	Canis lupus	Canis lupus	species
-asv.306		Animalia	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	Sus scrofa	species
-asv.307		Animalia	Chordata						Actinopteri	superclass
-asv.308		Animalia	Chordata	Elasmobranchii	Myliobatiformes				Myliobatiformes	order
-asv.309		Animalia	Chordata						Chordata	phylum
-asv.310		Animalia	Chordata	Mammalia					Mammalia	class
-asv.311		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.312		Animalia							Metazoa	subkingdom
-asv.313		Animalia	Chordata						Chordata	phylum
-asv.314		Animalia	Chordata						Actinopteri	superclass
-asv.315		Animalia	Chordata	Elasmobranchii	Carcharhiniformes	Carcharhinidae	Carcharhinus	Carcharhinus amblyrhynchoides	Carcharhinus amblyrhynchoides	species
-asv.316		Animalia	Chordata						Chordata	phylum
-asv.317		Animalia							Metazoa	subkingdom
-asv.318		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.319		Animalia	Chordata						Actinopteri	superclass
-asv.321		Animalia	Chordata						Actinopteri	superclass
-asv.323		Animalia	Chordata	Teleostei	Perciformes	Serranidae	Cephalopholis		Cephalopholis	genus
-asv.324		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Labridae	Halichoeres		Halichoeres	genus
-asv.325		Animalia	Chordata	Teleostei	Anguilliformes	Congridae			Congridae	family
-asv.326		Animalia	Chordata						Actinopteri	superclass
-asv.327		Animalia	Chordata						Actinopteri	superclass
-asv.328		Animalia							Metazoa	subkingdom
-asv.329		Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus crocodilus	Tylosurus crocodilus	species
-asv.330		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.331		Animalia	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	Sus scrofa	species
-asv.332		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.333		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.334		Animalia	Chordata						Actinopteri	superclass
-asv.335		Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Auxis	Auxis thazard	Auxis thazard	species
-asv.336		Animalia	Chordata						Actinopteri	superclass
-asv.337		Animalia	Chordata						Chordata	phylum
-asv.338		Animalia							Metazoa	subkingdom
-asv.339		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Selar	Selar crumenophthalmus	Selar crumenophthalmus	species
-asv.340		Animalia	Chordata						Actinopteri	superclass
-asv.341		Animalia	Chordata	Teleostei	Pleuronectiformes	Paralichthyidae	Cyclopsetta	Cyclopsetta fimbriata	Cyclopsetta fimbriata	species
-asv.342		Animalia	Chordata						Actinopteri	superclass
-asv.343		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Scaridae	Scarus	Scarus rubroviolaceus	Scarus rubroviolaceus	species
-asv.344		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Gerreidae	Gerres	Gerres cinereus	Gerres cinereus	species
-asv.345		Animalia	Chordata						Actinopteri	superclass
-asv.346		Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family
-asv.348		Animalia	Chordata						Actinopteri	superclass
-asv.349		Animalia	Chordata						Actinopteri	superclass
-asv.350		Animalia							Metazoa	subkingdom
-asv.351		Animalia	Chordata						Chordata	phylum
-asv.354		Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Euthynnus	Euthynnus affinis	Euthynnus affinis	species
-asv.355	Eukaryota								Incertae sedis	kingdom
-asv.356		Animalia	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	Sus scrofa	species
-asv.357		Animalia	Chordata						Chordata	phylum
-asv.358		Animalia	Chordata						Actinopteri	superclass
-asv.359		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.360		Animalia	Chordata						Actinopteri	superclass
-asv.361		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.362		Animalia	Chordata						Actinopteri	superclass
-asv.363		Animalia	Chordata	Teleostei	Tetraodontiformes	Balistidae	Sufflamen	Sufflamen verres	Sufflamen verres	species
-asv.364		Animalia	Chordata	Mammalia	Carnivora	Canidae	Canis	Canis lupus	Canis lupus	species
-asv.365		Animalia							Metazoa	subkingdom
-asv.366		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.367		Animalia	Chordata						Actinopteri	superclass
-asv.368		Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon hystrix	Diodon hystrix	species
-asv.369		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Trachinotus		Trachinotus	genus
-asv.370		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	Bos taurus	species
-asv.371		Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil curema	Mugil curema	species
-asv.372		Animalia	Chordata						Chordata	phylum
-asv.374		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.375		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Alectis	Alectis ciliaris	Alectis ciliaris	species
-asv.376		Animalia	Chordata						Actinopteri	superclass
-asv.377		Animalia	Chordata						Actinopteri	superclass
-asv.378		Animalia	Chordata	Mammalia	Primates	Hominidae			Hominidae	family
-asv.379		Animalia	Chordata	Teleostei	Mulliformes	Mullidae	Mulloidichthys	Mulloidichthys vanicolensis	Mulloidichthys vanicolensis	species
-asv.380		Animalia	Chordata						Chordata	phylum
-asv.381		Animalia	Chordata	Teleostei	Beloniformes	Hemiramphidae	Hemiramphus		Hemiramphus	genus
-asv.382		Animalia							Metazoa	subkingdom
-asv.383		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.384		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.385		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.386		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.388		Animalia	Chordata	Elasmobranchii	Myliobatiformes				Myliobatiformes	order
-asv.389		Animalia	Chordata						Actinopteri	superclass
-asv.390		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.391		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.393		Animalia	Chordata						Chordata	phylum
-asv.394		Animalia	Chordata						Actinopteri	superclass
-asv.395		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae			Pomacentridae	family
-asv.396		Animalia	Chordata						Chordata	phylum
-asv.397		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.398		Animalia							Metazoa	subkingdom
-asv.399		Animalia							Metazoa	subkingdom
-asv.400		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.401		Animalia							Metazoa	subkingdom
-asv.402		Animalia	Chordata						Actinopteri	superclass
-asv.403		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae	Stegastes	Stegastes rectifraenum	Stegastes rectifraenum	species
-asv.405		Animalia	Chordata						Actinopteri	superclass
-asv.406		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.407	Eukaryota								Incertae sedis	kingdom
-asv.409		Animalia	Chordata						Actinopteri	superclass
-asv.410		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Decapterus	Decapterus macarellus	Decapterus macarellus	species
-asv.411		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Gerreidae	Gerres	Gerres cinereus	Gerres cinereus	species
-asv.412		Animalia	Chordata						Actinopteri	superclass
-asv.413		Animalia	Chordata						Actinopteri	superclass
-asv.414		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.415		Animalia	Chordata	Teleostei	Centrarchiformes				Centrarchiformes	order
-asv.416		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.417		Animalia	Chordata						Chordata	phylum
-asv.418		Animalia	Chordata						Chordata	phylum
-asv.419		Animalia							Metazoa	subkingdom
-asv.420		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.421		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx		Caranx	genus
-asv.422		Animalia	Chordata	Teleostei	Carangiformes	Coryphaenidae	Coryphaena	Coryphaena hippurus	Coryphaena hippurus	species
-asv.423		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.424		Animalia	Chordata						Actinopteri	superclass
-asv.425		Animalia	Chordata						Actinopteri	superclass
-asv.426		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.427		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Gerreidae	Gerres	Gerres cinereus	Gerres cinereus	species
-asv.428		Animalia	Chordata	Teleostei	Mulliformes	Mullidae	Mulloidichthys	Mulloidichthys vanicolensis	Mulloidichthys vanicolensis	species
-asv.429		Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family
-asv.430		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae	Abudefduf		Abudefduf	genus
-asv.432		Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus
-asv.433		Animalia	Chordata						Chordata	phylum
-asv.434		Animalia							Metazoa	subkingdom
-asv.435		Animalia	Chordata						Actinopteri	superclass
-asv.436		Animalia	Chordata						Actinopteri	superclass
-asv.437		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.438		Animalia	Chordata	Teleostei	Perciformes	Serranidae	Epinephelus		Epinephelus	genus
-asv.439		Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family
-asv.440		Animalia	Chordata						Chordata	phylum
-asv.442		Animalia	Chordata						Actinopteri	superclass
-asv.443		Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae	Anarchias		Anarchias	genus
-asv.444		Animalia	Chordata						Actinopteri	superclass
-asv.446		Animalia	Chordata						Actinopteri	superclass
-asv.447		Animalia							Metazoa	subkingdom
-asv.448	Eukaryota								Incertae sedis	kingdom
-asv.449		Animalia							Metazoa	subkingdom
-asv.450		Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron nigropunctatus	Arothron nigropunctatus	species
-asv.451		Animalia	Chordata	Elasmobranchii	Myliobatiformes	Dasyatidae			Dasyatidae	family
-asv.452		Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Euthynnus	Euthynnus affinis	Euthynnus affinis	species
-asv.453		Animalia							Metazoa	subkingdom
-asv.454		Animalia	Chordata	Teleostei	Siluriformes				Siluriformes	order
-asv.455		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	Bos taurus	species
-asv.456		Animalia	Chordata	Teleostei	Scombriformes	Trichiuridae	Trichiurus		Trichiurus	genus
-asv.457		Animalia	Chordata						Actinopteri	superclass
-asv.458		Animalia	Chordata						Actinopteri	superclass
-asv.459		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.460		Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae	Bathygobius	Bathygobius fuscus	Bathygobius fuscus	species
-asv.461		Animalia	Chordata						Chordata	phylum
-asv.462		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Alectis	Alectis ciliaris	Alectis ciliaris	species
-asv.463		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Seriola		Seriola	genus
-asv.464		Animalia	Chordata	Teleostei	Scombriformes	Scombridae			Scombridae	family
-asv.465		Animalia							Metazoa	subkingdom
-asv.466	Eukaryota								Incertae sedis	kingdom
-asv.467		Animalia	Chordata	Mammalia	Cetartiodactyla	Delphinidae			Delphinidae	family
-asv.469		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Alectis	Alectis ciliaris	Alectis ciliaris	species
-asv.470		Animalia	Chordata						Chordata	phylum
-asv.471		Animalia	Chordata	Elasmobranchii	Myliobatiformes	Mobulidae	Mobula		Mobula	genus
-asv.472		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.473		Animalia	Chordata						Actinopteri	superclass
-asv.474		Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus crocodilus	Tylosurus crocodilus	species
-asv.475		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.476		Animalia							Metazoa	subkingdom
-asv.477		Animalia	Chordata	Mammalia					Mammalia	class
-asv.478		Animalia	Chordata						Actinopteri	superclass
-asv.479	Eukaryota								Incertae sedis	kingdom
-asv.480		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.481		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.483		Animalia	Chordata						Actinopteri	superclass
-asv.484		Animalia	Chordata						Actinopteri	superclass
-asv.485		Animalia							Metazoa	subkingdom
-asv.487		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx		Caranx	genus
-asv.488		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.489		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.490		Animalia	Chordata						Actinopteri	superclass
-asv.491		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae	Abudefduf		Abudefduf	genus
-asv.492		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.493		Animalia	Chordata	Mammalia	Primates	Hominidae			Hominidae	family
-asv.494		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.495		Animalia	Chordata	Teleostei	Carangiformes	Coryphaenidae	Coryphaena	Coryphaena hippurus	Coryphaena hippurus	species
-asv.496		Animalia							Metazoa	subkingdom
-asv.497		Animalia	Chordata						Actinopteri	superclass
-asv.498		Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family
-asv.499		Animalia	Chordata						Chordata	phylum
-asv.500		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx		Caranx	genus
-asv.501		Animalia	Chordata						Chordata	phylum
-asv.502		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.503		Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus crocodilus	Tylosurus crocodilus	species
-asv.504		Animalia							Metazoa	subkingdom
-asv.505		Animalia	Chordata	Mammalia	Primates	Hominidae			Hominidae	family
-asv.507		Animalia	Chordata						Actinopteri	superclass
-asv.508		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Gerreidae	Gerres	Gerres cinereus	Gerres cinereus	species
-asv.509		Animalia	Chordata						Actinopteri	superclass
-asv.510		Animalia	Chordata						Chordata	phylum
-asv.511		Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus
-asv.512		Animalia	Chordata	Elasmobranchii	Myliobatiformes	Dasyatidae			Dasyatidae	family
-asv.513		Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family
-asv.514		Animalia							Metazoa	subkingdom
-asv.515		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.517		Animalia	Chordata						Actinopteri	superclass
-asv.518		Animalia	Chordata	Teleostei	Acanthuriformes	Chaetodontidae	Johnrandallia	Johnrandallia nigrirostris	Johnrandallia nigrirostris	species
-asv.520		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.521		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Seriola		Seriola	genus
-asv.522		Animalia	Chordata						Actinopteri	superclass
-asv.523		Animalia	Chordata	Teleostei	Acanthuriformes	Ephippidae	Chaetodipterus	Chaetodipterus faber	Chaetodipterus faber	species
-asv.524		Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus
-asv.525		Animalia	Chordata						Actinopteri	superclass
-asv.526		Animalia	Chordata						Actinopteri	superclass
-asv.527		Animalia	Chordata	Teleostei	Scombriformes	Trichiuridae	Trichiurus		Trichiurus	genus
-asv.528		Animalia							Metazoa	subkingdom
-asv.529		Animalia							Metazoa	subkingdom
-asv.530		Animalia	Chordata						Actinopteri	superclass
-asv.531		Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Acanthocybium	Acanthocybium solandri	Acanthocybium solandri	species
-asv.532	Eukaryota								Incertae sedis	kingdom
-asv.533		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Lutjanidae	Lutjanus		Lutjanus	genus
-asv.534		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae			Pomacentridae	family
-asv.535		Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron nigropunctatus	Arothron nigropunctatus	species
-asv.536		Animalia	Chordata	Teleostei	Siluriformes				Siluriformes	order
-asv.537		Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus crocodilus	Tylosurus crocodilus	species
-asv.539		Animalia	Chordata						Actinopteri	superclass
-asv.540		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.541		Animalia	Chordata						Actinopteri	superclass
-asv.542		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Labridae	Halichoeres		Halichoeres	genus
-asv.543		Animalia	Chordata						Chordata	phylum
-asv.544		Animalia							Metazoa	subkingdom
-asv.545		Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Euthynnus	Euthynnus affinis	Euthynnus affinis	species
-asv.546		Animalia							Metazoa	subkingdom
-asv.547		Animalia							Metazoa	subkingdom
-asv.548		Animalia	Chordata						Chordata	phylum
-asv.549		Animalia							Metazoa	subkingdom
-asv.550		Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron hispidus	Arothron hispidus	species
-asv.551		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.552		Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus
-asv.553		Animalia							Metazoa	subkingdom
-asv.554		Animalia							Metazoa	subkingdom
-asv.555		Animalia	Chordata						Actinopteri	superclass
-asv.556		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.557		Animalia	Chordata						Chordata	phylum
-asv.558		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.559		Animalia							Metazoa	subkingdom
-asv.560		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.561		Animalia	Chordata	Teleostei	Anguilliformes	Ophichthidae	Myrophis	Myrophis vafer	Myrophis vafer	species
-asv.562		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx		Caranx	genus
-asv.563		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.564		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.565		Animalia	Chordata	Mammalia	Primates	Hominidae			Hominidae	family
-asv.566		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Labridae	Halichoeres		Halichoeres	genus
-asv.567		Animalia	Chordata						Chordata	phylum
-asv.568		Animalia	Chordata						Actinopteri	superclass
-asv.569		Animalia	Chordata						Actinopteri	superclass
-asv.570		Animalia	Chordata	Mammalia					Mammalia	class
-asv.571		Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil curema	Mugil curema	species
-asv.572		Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus crocodilus	Tylosurus crocodilus	species
-asv.573		Animalia	Chordata	Mammalia	Primates	Hominidae			Hominidae	family
-asv.574		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Lutjanidae			Lutjanidae	family
-asv.575		Animalia	Chordata						Actinopteri	superclass
-asv.576		Animalia	Chordata						Actinopteri	superclass
-asv.577		Animalia	Chordata						Actinopteri	superclass
-asv.578		Animalia							Metazoa	subkingdom
-asv.579		Animalia	Chordata	Teleostei	Acanthuriformes	Chaetodontidae	Chaetodon		Chaetodon	genus
-asv.580		Animalia	Chordata						Actinopteri	superclass
-asv.581		Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Acanthocybium	Acanthocybium solandri	Acanthocybium solandri	species
-asv.582		Animalia							Metazoa	subkingdom
-asv.583		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.584		Animalia	Chordata						Chordata	phylum
-asv.585		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.586		Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil curema	Mugil curema	species
-asv.587		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.588		Animalia	Chordata						Chordata	phylum
-asv.589		Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family
-asv.590		Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus crocodilus	Tylosurus crocodilus	species
-asv.591		Animalia	Chordata						Actinopteri	superclass
-asv.592		Animalia	Chordata	Mammalia					Mammalia	class
-asv.593		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.594		Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Thunnus		Thunnus	genus
-asv.595		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.596		Animalia	Chordata	Teleostei	Anguilliformes				Anguilliformes	order
-asv.597		Animalia	Chordata						Actinopteri	superclass
-asv.598		Animalia							Metazoa	subkingdom
-asv.600		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae			Pomacentridae	family
-asv.601		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.602	Eukaryota								Incertae sedis	kingdom
-asv.603		Animalia	Chordata	Elasmobranchii	Carcharhiniformes	Carcharhinidae	Carcharhinus		Carcharhinus	genus
-asv.604		Animalia	Chordata						Chordata	phylum
-asv.606		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.607		Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae			Gobiidae	family
-asv.608		Animalia							Metazoa	subkingdom
-asv.609		Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon holocanthus	Diodon holocanthus	species
-asv.610		Animalia	Chordata						Actinopteri	superclass
-asv.611		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae	Abudefduf		Abudefduf	genus
-asv.612		Animalia	Chordata						Chordata	phylum
-asv.613	Eukaryota								Incertae sedis	kingdom
-asv.614		Animalia	Chordata	Teleostei	Gobiiformes	Eleotridae	Eleotris	Eleotris picta	Eleotris picta	species
-asv.615		Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron hispidus	Arothron hispidus	species
-asv.616		Animalia	Chordata						Chordata	phylum
-asv.618		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.619		Animalia							Metazoa	subkingdom
-asv.620		Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family
-asv.621		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.622		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.623		Animalia							Metazoa	subkingdom
-asv.624		Animalia	Chordata						Actinopteri	superclass
-asv.625		Animalia	Chordata						Actinopteri	superclass
-asv.626		Animalia	Chordata	Teleostei	Perciformes				Perciformes	order
-asv.627		Animalia	Chordata						Actinopteri	superclass
-asv.628		Animalia	Chordata	Teleostei	Centrarchiformes	Kyphosidae	Kyphosus		Kyphosus	genus
-asv.629		Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron hispidus	Arothron hispidus	species
-asv.630		Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	Bos taurus	species
-asv.631		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.633		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.634		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Labridae	Halichoeres		Halichoeres	genus
-asv.635		Animalia	Chordata						Chordata	phylum
-asv.637		Animalia	Chordata						Chordata	phylum
-asv.638		Animalia	Chordata	Teleostei	Carangiformes	Istiophoridae	Istiophorus	Istiophorus platypterus	Istiophorus platypterus	species
-asv.639		Animalia	Chordata						Actinopteri	superclass
-asv.640		Animalia	Chordata	Mammalia	Primates	Hominidae			Hominidae	family
-asv.641		Animalia							Metazoa	subkingdom
-asv.642		Animalia							Metazoa	subkingdom
-asv.643		Animalia							Metazoa	subkingdom
-asv.644		Animalia	Chordata	Aves	Galliformes	Phasianidae	Gallus	Gallus gallus	Gallus gallus	species
-asv.645		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx	Caranx sexfasciatus	Caranx sexfasciatus	species
-asv.646		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.647		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.649		Animalia	Chordata	Mammalia					Mammalia	class
-asv.650		Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil curema	Mugil curema	species
-asv.651		Animalia							Metazoa	subkingdom
-asv.652	Eukaryota								Incertae sedis	kingdom
-asv.653		Animalia	Chordata						Chordata	phylum
-asv.654		Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Elagatis	Elagatis bipinnulata	Elagatis bipinnulata	species
-asv.655		Animalia	Chordata						Actinopteri	superclass
-asv.656		Animalia	Chordata	Mammalia					Mammalia	class
-asv.657		Animalia	Chordata						Actinopteri	superclass
-asv.659		Animalia	Chordata						Chordata	phylum
-asv.661		Animalia							Metazoa	subkingdom
-asv.662		Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus crocodilus	Tylosurus crocodilus	species
-asv.663		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.664		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Anchoa	Anchoa hepsetus	Anchoa hepsetus	species
-asv.666		Animalia							Metazoa	subkingdom
-asv.669		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.670		Animalia	Chordata						Actinopteri	superclass
-asv.671		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Labridae	Halichoeres		Halichoeres	genus
-asv.672		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae	Abudefduf		Abudefduf	genus
-asv.673		Animalia							Metazoa	subkingdom
-asv.674		Animalia	Chordata	Teleostei	Acanthuriformes	Chaetodontidae	Chaetodon		Chaetodon	genus
-asv.675		Animalia							Metazoa	subkingdom
-asv.676		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.677		Animalia	Chordata						Chordata	phylum
-asv.678		Animalia	Chordata						Actinopteri	superclass
-asv.679		Animalia							Metazoa	subkingdom
-asv.680		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Lutjanidae	Lutjanus	Lutjanus argentimaculatus	Lutjanus argentimaculatus	species
-asv.681		Animalia	Chordata						Chordata	phylum
-asv.682	Eukaryota								Incertae sedis	kingdom
-asv.683		Animalia							Metazoa	subkingdom
-asv.684		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.685		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.686		Animalia	Chordata						Actinopteri	superclass
-asv.687		Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus crocodilus	Tylosurus crocodilus	species
-asv.688	Eukaryota								Incertae sedis	kingdom
-asv.689		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.690		Animalia	Chordata	Teleostei	Perciformes	Serranidae	Cephalopholis		Cephalopholis	genus
-asv.691		Animalia	Chordata						Chordata	phylum
-asv.692		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.693		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.694		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.695		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.696		Animalia							Metazoa	subkingdom
-asv.697		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae	Abudefduf		Abudefduf	genus
-asv.698		Animalia	Chordata	Teleostei	Carangiformes	Coryphaenidae	Coryphaena	Coryphaena hippurus	Coryphaena hippurus	species
-asv.699		Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon holocanthus	Diodon holocanthus	species
-asv.700	Eukaryota								Incertae sedis	kingdom
-asv.701		Animalia	Chordata						Chordata	phylum
-asv.702		Animalia	Chordata	Teleostei	Tetraodontiformes	Balistidae	Canthidermis	Canthidermis maculata	Canthidermis maculata	species
-asv.703		Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae			Gobiidae	family
-asv.704	Eukaryota								Incertae sedis	kingdom
-asv.705		Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon holocanthus	Diodon holocanthus	species
-asv.706	Eukaryota								Incertae sedis	kingdom
-asv.707		Animalia	Chordata						Chordata	phylum
-asv.708		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.709		Animalia							Metazoa	subkingdom
-asv.710		Animalia	Chordata						Actinopteri	superclass
-asv.711		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.712	Eukaryota								Incertae sedis	kingdom
-asv.713		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.714	Eukaryota								Incertae sedis	kingdom
-asv.715		Animalia							Metazoa	subkingdom
-asv.716	Eukaryota								Incertae sedis	kingdom
-asv.717		Animalia	Chordata						Actinopteri	superclass
-asv.718		Animalia	Chordata						Chordata	phylum
-asv.719		Animalia	Chordata	Mammalia					Mammalia	class
-asv.720		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.721		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.722		Animalia	Chordata						Chordata	phylum
-asv.723		Animalia	Chordata						Actinopteri	superclass
-asv.724		Animalia	Chordata						Actinopteri	superclass
-asv.725		Animalia							Metazoa	subkingdom
-asv.726		Animalia							Metazoa	subkingdom
-asv.727		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.728		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.729	Eukaryota								Incertae sedis	kingdom
-asv.730		Animalia	Chordata	Teleostei	Centrarchiformes	Kyphosidae	Kyphosus	Kyphosus cinerascens	Kyphosus cinerascens	species
-asv.732		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.733		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Labridae	Novaculichthys	Novaculichthys taeniourus	Novaculichthys taeniourus	species
-asv.734		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae	Stegastes	Stegastes flavilatus	Stegastes flavilatus	species
-asv.735		Animalia							Metazoa	subkingdom
-asv.737		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.738		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.739		Animalia	Chordata						Actinopteri	superclass
-asv.740		Animalia	Chordata						Chordata	phylum
-asv.741		Animalia	Chordata						Chordata	phylum
-asv.742		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.743		Animalia	Chordata	Teleostei	Tetraodontiformes	Balistidae	Canthidermis	Canthidermis maculata	Canthidermis maculata	species
-asv.745		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.746		Animalia							Metazoa	subkingdom
-asv.747		Animalia							Metazoa	subkingdom
-asv.748		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Lutjanidae	Lutjanus		Lutjanus	genus
-asv.750		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.751		Animalia	Chordata						Chordata	phylum
-asv.752		Animalia	Chordata						Chordata	phylum
-asv.753	Eukaryota								Incertae sedis	kingdom
-asv.754		Animalia	Chordata						Chordata	phylum
-asv.755		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.756	Eukaryota								Incertae sedis	kingdom
-asv.757		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.758		Animalia	Chordata	Teleostei	Ovalentaria incertae sedis	Pomacentridae	Abudefduf		Abudefduf	genus
-asv.759		Animalia							Metazoa	subkingdom
-asv.760		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.761		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.762		Animalia	Chordata						Chordata	phylum
-asv.763	Eukaryota								Incertae sedis	kingdom
-asv.764	Eukaryota								Incertae sedis	kingdom
-asv.766		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Scaridae	Scarus	Scarus ghobban	Scarus ghobban	species
-asv.767		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.768		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.769		Animalia	Chordata	Teleostei	Carangiformes	Carangidae			Carangidae	family
-asv.771		Animalia	Chordata	Teleostei	Anguilliformes				Anguilliformes	order
-asv.772		Animalia	Chordata						Actinopteri	superclass
-asv.773		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.774		Animalia							Metazoa	subkingdom
-asv.775		Animalia	Chordata						Chordata	phylum
-asv.776		Animalia							Metazoa	subkingdom
-asv.777		Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus
-asv.778		Animalia	Chordata						Chordata	phylum
-asv.779		Animalia							Metazoa	subkingdom
-asv.780		Animalia							Metazoa	subkingdom
-asv.781		Animalia	Chordata						Chordata	phylum
-asv.782		Animalia	Chordata	Teleostei	Gonorynchiformes	Chanidae	Chanos	Chanos chanos	Chanos chanos	species
-asv.783		Animalia	Chordata	Teleostei	Tetraodontiformes	Balistidae	Canthidermis	Canthidermis maculata	Canthidermis maculata	species
-asv.784		Animalia							Metazoa	subkingdom
-asv.785	Eukaryota								Incertae sedis	kingdom
-asv.786		Animalia							Metazoa	subkingdom
-asv.788		Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Thunnus		Thunnus	genus
-asv.789		Animalia	Chordata						Chordata	phylum
-asv.790		Animalia	Chordata						Actinopteri	superclass
-asv.791		Animalia	Chordata						Actinopteri	superclass
-asv.792		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.793		Animalia	Chordata						Chordata	phylum
-asv.795		Animalia	Chordata	Teleostei	Acanthuriformes	Ephippidae	Chaetodipterus	Chaetodipterus faber	Chaetodipterus faber	species
-asv.796		Animalia	Chordata						Chordata	phylum
-asv.797		Animalia	Chordata						Actinopteri	superclass
-asv.798		Animalia	Chordata	Teleostei	Carangiformes	Coryphaenidae	Coryphaena	Coryphaena hippurus	Coryphaena hippurus	species
-asv.799		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.801		Animalia	Chordata						Chordata	phylum
-asv.802		Animalia	Chordata						Chordata	phylum
-asv.803	Eukaryota								Incertae sedis	kingdom
-asv.804		Animalia	Chordata	Teleostei	Carangiformes	Carangidae			Carangidae	family
-asv.805		Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Prionurus	Prionurus scalprum	Prionurus scalprum	species
-asv.806		Animalia							Metazoa	subkingdom
-asv.807	Eukaryota								Incertae sedis	kingdom
-asv.808		Animalia	Chordata						Chordata	phylum
-asv.809		Animalia	Chordata	Teleostei	Syngnathiformes	Fistulariidae	Fistularia	Fistularia commersonii	Fistularia commersonii	species
-asv.810		Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae			Gobiidae	family
-asv.811		Animalia	Chordata						Chordata	phylum
-asv.812		Animalia							Metazoa	subkingdom
-asv.813		Animalia	Chordata						Chordata	phylum
-asv.815	Eukaryota								Incertae sedis	kingdom
-asv.816	Eukaryota								Incertae sedis	kingdom
-asv.817		Animalia							Metazoa	subkingdom
-asv.818		Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus
-asv.819		Animalia							Metazoa	subkingdom
-asv.820		Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon hystrix	Diodon hystrix	species
-asv.822		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.823		Animalia							Metazoa	subkingdom
-asv.824		Animalia	Chordata	Mammalia	Rodentia				Rodentia	order
-asv.825		Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family
-asv.826		Animalia							Metazoa	subkingdom
-asv.827		Animalia	Chordata						Chordata	phylum
-asv.828		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.829		Animalia	Chordata						Chordata	phylum
-asv.830		Animalia							Metazoa	subkingdom
-asv.831		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.832		Animalia							Metazoa	subkingdom
-asv.833		Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	Homo sapiens	species
-asv.835		Animalia							Metazoa	subkingdom
-asv.836		Animalia	Chordata						Actinopteri	superclass
-asv.837		Animalia	Chordata						Actinopteri	superclass
-asv.838		Animalia	Chordata						Actinopteri	superclass
-asv.839		Animalia	Chordata						Chordata	phylum
-asv.841		Animalia	Chordata						Actinopteri	superclass
-asv.842		Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Sphoeroides	Sphoeroides annulatus	Sphoeroides annulatus	species
-asv.843		Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Auxis	Auxis thazard	Auxis thazard	species
-asv.844		Animalia							Metazoa	subkingdom
-asv.845		Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron nigropunctatus	Arothron nigropunctatus	species
-asv.846		Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family
-asv.847		Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family
-asv.850		Animalia	Chordata						Chordata	phylum
-asv.852		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.853		Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae			Gobiidae	family
-asv.854		Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula minima	Navicula minima	species
-asv.855		Animalia							Metazoa	subkingdom
-asv.856		Animalia	Chordata	Teleostei	Anguilliformes				Anguilliformes	order
-asv.857		Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae	Gymnothorax	Gymnothorax saxicola	Gymnothorax saxicola	species
-asv.858		Animalia	Chordata	Teleostei	Anguilliformes	Ophichthidae	Myrophis	Myrophis vafer	Myrophis vafer	species
-asv.859		Animalia	Chordata						Actinopteri	superclass
-asv.860		Animalia	Chordata	Teleostei	Eupercaria incertae sedis	Lutjanidae	Lutjanus		Lutjanus	genus
-asv.861		Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family
-asv.862	Eukaryota								Incertae sedis	kingdom
-asv.864		Animalia							Metazoa	subkingdom
-asv.865		Animalia							Metazoa	subkingdom
-asv.866		Animalia	Chordata	Teleostei	Anguilliformes				Anguilliformes	order
-asv.867		Animalia	Chordata	Elasmobranchii	Carcharhiniformes	Carcharhinidae	Triaenodon	Triaenodon obesus	Triaenodon obesus	species
+ASV_name	kingdom	phylum	class	order	family	genus	species	scientificName	taxonRank	DNA_sequence
+asv.279	Animalia	Chordata	Elasmobranchii	Carcharhiniformes	Carcharhinidae	Triaenodon	Triaenodon_obesus	Triaenodon_obesus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGTAACTCATATTAACACATCCCGGCGTAAAGAGTGATTAAAGAATGACCTTCAACTACTAAAGTTTAGACCTCATAAAACTGTTATACGTACCCATGAGTAGAATAAACAACAACGAAAGTGACTTTATAAAATAAGGAACCTTGATGACACGACAGTTAGGACC
+asv.280	Animalia	Chordata	Mammalia					Mammalia	class	GGGTTGGTAAATTTCGTGCCAGCCACCGCAGCCATACGATTAACCCAAGCTAATAGAACCCAGCTTAAAGAGTGTTTTAGATCTGTTCTCAATAAAGCTAAGCTTCATCTAAGTTGTAAAAAATCCTAGCTGAAATAAAATAAACTACGAAGGTGAATTTAATATTTCTGAGGACACAATAGCTAAGACC
+asv.281	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGGGTTAGCCCAAGTTGATAGCCTACGGCGTAAAGCGTGGTTAGGGAGCAAGAACATACTAAAGCCGAATTTTCCTTCAGCTGTTATACGCTCGCAGGAACAAGAAGTTCAACTACGAAAGTGACTTTATTTTTCTACCCCTGAGCCCACGAAAGTTTTGATA
+asv.282	Animalia	Chordata	Teleostei	Pleuronectiformes	Paralichthyidae	Cyclopsetta	Cyclopsetta_fimbriata	Cyclopsetta_fimbriata	species	GGGTTGGTAAATTTCGTGCCAGCAACCGCGGTTAGACGAGAGGCCCAAGTTGATGGACATACTCGGCGCCAAGCGTGGTTAAGGAAACTAAAAAAATAAAGTCGAACATTTTCATGGCTGTTATACGCATCCGAAAGCATGAAGCCCAATTACGAAAGTAACTTTAGCGAGCCTGAACCCACGAAAGCTAGGGAA
+asv.283	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae			Engraulidae	family	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGAATTCTTTTCTTAAAGCAGAAAACCTCTCAAACTGTTATACGCACCCAGAGGTTAAAATACCTCACACGAAAGTGACTTTATTTTCGCCTACCAGAACCCACGAAAGCTAGGACA
+asv.284	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Alectis	Alectis_ciliaris	Alectis_ciliaris	species	CACCGCGGTTATACGAGGGGCTCGAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAATATTCAACTAAAGCGGAACGCCCTCACAGCTGTTATACGTTTCCGAGGGTATGAACCCCAACTACGAAAGTGGCTTTACACTACCTGAACCCACGAAAGCTAAGAAAC
+asv.286	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGCTGACAGCAAGCGGCGTAAAGAGTGATTAGGATATACTAGAGACTAAAGCCGAAAACCCTCATGACTGTTATACGCACCCGAGGACAAGAAGCCCGATCACGAAAGTAGCTTTATTTTCATCTGAACCCACGAAAGCTAGGGCA
+asv.287	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATATCCATCGGCGTAAAGAGTGGTTAAGGCCAGATCAAAAATAAAGCCGAACGCCCTCAAGACTGTCATACGTGTTCGAGGGTAAGAAGTTCAACAACGAAAGTGACTTTATTCCCCTGAACCCACGAAAGCTATGGTA
+asv.288	Animalia	Chordata	Mammalia	Cetartiodactyla	Delphinidae	Tursiops	Tursiops_truncatus	Tursiops_truncatus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTGACCCAAACTAATAGACACCCGGCGTAAAGAGTGTCAAAGAACAATATAAAAATAAAGTCAAACCTTAATTAAGCTGTAAAAAGCCATAATTAAAATTAAGTTAAACTACGAAAGTAACTTTACCATAAACTGAATACACGACAACTAAGACC
+asv.290	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGGGGGGCCCAAGTTGATAGTTACCGGCGTAAAGCGTGGTTAAGCAAAAATTAAAACTAAAGCCGAATGCACACAAAGCTGTTATACGCCTCTTCGAAAACAGAAGCTCAATTACGAAAGTAGCTTTACATCAGCTGACCCCACGAAAGCTAGGGCA
+asv.291	Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil_curema	Mugil_curema	species	GTCGGTAAAACTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAGACACCGGCGCAAAGAGTGGTTAGGTAACTTAATAAGCTAAAGCCGAACGCCCCCAAGGCTGTTATACGTGCTCGGAGGTATGAAGCCCAACTACGAAAGTGGCTTTAACTATATCTGAACCCACGAAAGCTGTGAAA
+asv.292	Animalia	Chordata	Mammalia	Primates	Hominidae		Pan_troglodytes	Hominidae	family	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAACCGGCATAAAGAGTGTTTTAGATCAATTCCCCTCAATAAAGCTAAAATTCACGTGAGTTGTAAAAAACTCCAGTTGATACAAAATAAACTACGAAAGTGGCTTTAATGCATCTGAACACAGAATAACTAAGACC
+asv.293	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx	Caranx_sexfasciatus	Caranx_sexfasciatus	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGCGTGGTTAAGGAAAACATACAACTAAAGCGGAACCTCCTCCTAGCTGTTATACGCTTCCGAGGAAGTGAACCCCAACTACGAAAGTGGCTTTATCTAACCTGAACCCACGAAAGCTAAGAAA
+asv.294	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAAAACACGGCGTAAAGGGTGGTTAATAGAAAAATTACTAAAGCCGAACACCCTCCAGGCTGTCATACGCACCTGAGGGCAGGAAGTCCCACCACGAAAGTGACTTTATAATCTATGAAGCCACGAAAGCTAGAAAA
+asv.295	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae			Engraulidae	family	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGAATTCTTTTCTTAAAGCAGAAAACCTCTCAAACTGTTATACGCACCCAGAGGTTAAAATACCTCACACGAAAGTGACTTTATTTTCGCCTACCAGAACCCACGAAAGCTAGGACA
+asv.296	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCCAAGTTGACAACCACCGGCGTAAAGCGTGGTTAAGGTAAACTAAAAAATAAAGCCGAATGCCTTCAAGACTGTCATACGTTATTCGAGGGTAAGAAGCCCAACAACGAAAGTGGCTTTATGACCCTGAATCCACGAAAGCTAGGGCA
+asv.297	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCTACCGCGGTTATACGAGAGGCCCAAGCTAATGGACTACGGCGTAAAGCGTGGTTAAGGAAAATACGAGTACACTAAAGCCGAACATTCTCAGGGCCGTTACAGGCTTTACGAGACCTTGAAGACCAAAAACGAAAGTAGCTTTACACCATCCCCGAACCCACGAGAGCTGAGAAA
+asv.298	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Selar	Selar_crumenophthalmus	Selar_crumenophthalmus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAGACAGCGGCGTAAAGAGTGGTTAAGGAAAATATTAAATTAAAGCGGAAAGCCCTCAATGCTGTTATACGCCTTCGAAGAGACTGAACCACAACTACGAAAGTGGCTTTATTTAACCTGAACCCACGAAAGCTAAGAAA
+asv.299	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGGGGGGCCCAAGTTGATAGTTACCGGCGTAAAGCGTGGTTAAGCAAAAATTAAAACTAAAGCCGAATGCACACAAAGCTGTTATACGCCTCTTCGAAAACAGAAGCTCAATTACGAAAGTAGCTTTACATCAGCTGACCCCACGAAAGCTAGGGCA
+asv.300	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATATCCATCGGCGTAAAGAGTGGTTAAGGCCAGATCAAAAATAAAGCCGAACGCCCTCAAGACTGTCATACGTGTTCGAGGGTAAGAAGTTCAACAACGAAAGTGACTTTATTCCCCTGAACCCACGAAAGCTATGGTA
+asv.301	Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Prionurus	Prionurus_scalprum	Prionurus_scalprum	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGTTGTTAGACACCGGCGTAAAGAGTGGTTAGGTTTGAATCTTAAACTAAAGCCGAACATCTTCAAAGCTGTTATACGCACCCGAAGACAAGAAGTTCAATCACGAAAGTGGCTTTACCTCAACTGAACCCACGAAAGCTAGGATA
+asv.302	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Trachinotus		Trachinotus	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGTTGGCCCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAATAAAAACTAAAGCCGAACATCTTCAAAGCTGTCATACGCTCCCGAAGATATGAAGCCCAACCACGAAAGTGACTTTACACAACCTGAACCCACGAAAGCTAAGGAA
+asv.303	Animalia	Chordata						Chordata	phylum	CACCACGGTCATACGATGAACCCAAGCTAATAGAGACTGGCGTAAAGAATGTTTTACATTATCCCTCAATAAAGCTAAATTTCACCTAAGTTGTAGAAAACCCTAGTTGATATAAAACAAACTACGAAAGTGGCTTTAATATTTCTGAATACACAATAGCGAAGATTCAA
+asv.304	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGATGACAGACCCTCGGCGTAAAGAGTGGTTAGAATAAAATGAAACTAAAGCCGAATGTTTTCTAAACTGTTATACGTACTCGAGAACTAGAAGCACCCCTACGAAAGTGGCTTTACTATTTTGAATCCACGAAAGCTATGGCA
+asv.305	Animalia	Chordata	Mammalia	Carnivora	Canidae	Canis	Canis_lupus	Canis_lupus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATAGGCCTACGGCGTAAAGCGTGTTCAAGATACTTTTACACTAAAGTTAAAACTTAACTAAGCCGTAAAAAGCTACAGTTATCATAAAATAAACCACGAAAGTGACTTTATAATAATCTGACTACACGATAGCTAAGACC
+asv.306	Animalia	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus_scrofa	Sus_scrofa	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAATTAATAGATCCACGGCGTAAAGAGTGTTTAAGAAAAAAAAATCACAATAGAGTTAAATTATAACTAAGCTGTAAAAAGCCCTAGTTAAAATAAAATAACCCACGAAAGTGACTCTAATAATCCTGACACACGATAGCTAGGACC
+asv.307	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGCTGATAATTATCGGCGTAAAGAGTGGTTAAGATTAATTAAAGACTAAAGCCGAAAACCCTCATAGCTGTTATACGCACCCGGGGGAAAGAAGCCCAATTACGAAAGTGGCTTTACAACATCTGAACCCACGAAAGCTAGGGTA
+asv.308	Animalia	Chordata	Elasmobranchii	Myliobatiformes				Myliobatiformes	order	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGCAACACAAATTAATATTACACGGCGTTAAGGGTGATTAGATGATATACCTACCTAAAAATAAAGTTGAGATCCCACTAAGCTGTTATACGCTTTCATGCTTGGAAAAAACACTTACAAAAGTAACTTTAAAAAAAATTAGAGCTTTTGACCTCACGACAGTTAAGACC
+asv.309	Animalia	Chordata						Chordata	phylum	GTTGGTAAATCTCGTGCCAGCCACTGTGGCCATACAATGAACCCAAGCTATACAATTAACCCAAGCTAATAGAACTCAGCGTAAAGAGTGTTTAAGATCTGCCCTCAATAAAGCTAAACTCCATTTAAGTTGTAAAAAACTTAGGCTGAAATAAAACATACTACGAATGTGGCTTTAATATCCTGAAGACACGACAGCTAAGATC
+asv.310	Animalia	Chordata	Mammalia					Mammalia	class	GGACTGGTCAATTTCGTGCCAGCCACTGTGGCCATACAATGAACCCAAGCTATACAATTAACCCAAGCTAATAGAACTCAGCGTAAAGAGTGTTTAAGATCTGCCCTCAATAAAGCTAAACTCCATTTAAGTTGTAAAAAACTTAGGCTGAAATAAAACATACTACGAATGTGGCTTTAATATCCTGAAGACACGACAGCTAAGATC
+asv.311	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAACCTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.312	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAGAGGGGCAAGTGTTATTCGGAATGACTAGGCGTAAAGCGCACATAGACTGTTTTTTAAGTTGAAATTTAAAGTAGGGAGCTTAACTTCTAAATTGGTTTCAATACTGATAAACTAGAGTAAGTATAGAGGATAGTGGAATTTTTAATAAAGAGTTGAAATTCGTCGACATTAGAAGGAAGGCCAATGGCGAAGGCAACTATCTAGTTCTTAACTGACGTTGTTGTGCGAAAGCATGGGTAG
+asv.313	Animalia	Chordata						Chordata	phylum	CACCGCAGCCATACAGTTAACACGAGCTAATAAAACTCAGTGTAAAGAGTGTTTAAGGTCTACCCTCAATAAAGCTAAGTTCCATCTAAGTTGTAAAAAACTCCAGCTGAAGTAAAATGTACTACGAAAGTGGCTTTAATATCCTGAAGACACAATAGCTAAGACCCAAA
+asv.314	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTCGATAGCCAACGGCGTAAAGAGTGGTTAGAAGAAATACATTACTAAAGCCGAACATCCTCGAGGCTGTTATACGCATCCGAAGACGAGAAGCCCACCCACGAAAGTGGCTTTACACCCTTGATCCCACGAAAGCTAAGACA
+asv.315	Animalia	Chordata	Elasmobranchii	Carcharhiniformes	Carcharhinidae	Carcharhinus	Carcharhinus_amblyrhynchoides	Carcharhinus_amblyrhynchoides	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGTAACTCATATTAACACACCCCGGCGTAAAGAGTGATTAAAGAATGACCTCTAACTACTAAAGTTTAGACCTCATAAAACTGTTATACGTATCCATGAGTGGAATAAACAACAACGAAAGTGACTTTATATATTAAGGAACCTTGATGTCACGACAGTTGGGACC
+asv.316	Animalia	Chordata						Chordata	phylum	CACCGCAGCCATACAATTAACCTGAGCTAATAGAACTCAGCATAAAGAGTGTTTTAGGTCTATCCTTAATAAAGCTAAGCTTCATCTCAGTTGTATAAAACCCGGGCTGAAATAAAATAAACTATGAAGGAGGCTTTAATACTTCTGAAGACACAATAGCTAAGACCCAA
+asv.317	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACAGAGGGGGCAGGTGTTATTCGTAGTTATTAGGCGTAAAGGGTCCGTAGGTTTTTTAACCAGTTTTCTAAAAAAACCAAAGCTTAACTTTGGTAAATAGTTTTAACGGTTAAAATAGAGTTAAAAAGGGGGTGATAGTATTTCTAATGTAGTGATAAAATACTGTGATATTAGAAGGAATTTCAGTGGCGAAGGCGATCACCTAGGTTTATACTGACACTGAGGGACGAAAGCGTAGGGAG
+asv.318	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAATACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGAGGCTCAACTTCAAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.319	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACTAGCACTCGGCGTAAAGGGTGGTTAGAATATATTGAAACTAAAGCCGAACGCCCTCACGACTGTCGTACGTTTCCGAGGGTGGGAAGACCTACTACGAAAGTGGCTTTATTACCTTTGACCCCACGAAAGCTGTGAGA
+asv.321	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGCTGATAATTATCGGCGTAAAGAGTGGTTAAGATTAATTAAAAACTAAAGCCGAAAACCCCCATAGCTGTTATACGCACCCGGGGGAAAGAAGCCCAATTACGAAAGTGGCTTTACAACATCTGAACCCACGAAAGCTAGGGTA
+asv.323	Animalia	Chordata	Teleostei	Perciformes	Serranidae	Cephalopholis		Cephalopholis	genus	GGGTTGGTTAATTTCGTGCCAGCTACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCATCGGCGTAAAGAGTGGTTATGGTTAAATAAATACTAAAGCTGAACACTTACAAAGCTGTTATACGCTCCCGAAAATAAGAAGAACAACTACGAAAGTGGCTTTATTACACCCGAACCCACGAAAGCCAAGGCA
+asv.324	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Labridae	Halichoeres		Halichoeres	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGTGGATGGTCTTCGGCGTAAAGAGTGGTTAAGATAAAACCTAAAACTAAAGCCAAATAACTTCAAAGCTGTCATACGCGAATGAAGAAAAGAAACTCAACCACGAAAGTGGCTTTAAACTCCTGACTCCACGAAAGCTATGATA
+asv.325	Animalia	Chordata	Teleostei	Anguilliformes	Congridae			Congridae	family	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAATTGAAGTTTCACGGCGTAAAGTGTGATTAGAGGAAACAAAAACTAAAGCCAAACATCTCCCAAGCTGTCATACGCTAACGGAACCAGAGGCCCCCCAACGAAAGTAGCTTTAAAATTCTTGAACTCACGACCATTAAGAAA
+asv.326	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTGACAAACGCCGGCGTAAAGAGTGGTTAGGAGAGATAAAAACTAAAGCCGAATATTCTCAAGGCTGTCATACGCTAACGAGGATTAGAAGCCCTTCTACGAAAGTGGCTTTAATTATTCTGACCCCACGAGAGCTGAGGAA
+asv.327	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGCTGATAGTACGCGGCGTAAAGAGTGATTAGGATAAACTAAAGACTAAAGCCGAAAACCCTCACGACTGTTATACGTACCCGAGGACAAGAAGCCCAATCACGAAAGTAGCTTTATTAGTATCTGAATTCACGAAAGCTAGGGCA
+asv.328	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAAAGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGCTTGGTAAGTTGGGTGTGAAAGCCCCGGGCTCAACCTGGGAACTGCATCCAAAACTGCCTGGCTAGAGTATGGTAGAGGATGGCGGAATTTCCTGTGTAGCGGTGAAATGCGTAGATATAGGAAGGAACATCAGTGGCGAAGGCGGCCATCTGGACCAATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.329	Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus_crocodilus	Tylosurus_crocodilus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCTAAGTTGATAGCTTCCGGCGTAAAGAGTGGTTAAGGAAATCCCTAAACTAAAGCCGAATATTTTCACAGCTGTCATACGCACCCGAAAATAAGAAGCCCCACCACGAAAGTGGCTTTAACCCACCCAACCCCACGAAAGCTGTGGAA
+asv.330	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAGTAAGTCTATTGTTAAAGCTTGAGGCTCAACTTCAAATCAGCGATGGAAACTGCTAGACTAGAGTGTGGTAGAGGTAAGAGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCATCTTACTGGGCCATAACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.331	Animalia	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus_scrofa	Sus_scrofa	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAATTAATAGATCCACGGCGTAAAGAGTGTTTAAGAAAAAAAAATCACAATAGAGTTAAATTATAACTAAGCTGTAAAAAGCCCTAGTTAAAATAAAATAACCCACGAAAGTGACTCTAATAATCCTGACACACGATAGCTAGGACC
+asv.332	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAAAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTAACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.333	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGAAGCTTAACTTCAAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTAACACTGAGAGACGAAAGCTAGGGTAG
+asv.334	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGCTGATAATTACCGGCGTAAAGAGTGGTTAAGATTAATTGAAGACTAAAGCCGAAAGCCCTCACAGCTGTTATACGCACTCGAGGGTAAGAAGCCCAATTACGAAAGTGGCTTTACGATATCTGAGCCCACGAAAGCTCGGGCA
+asv.335	Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Auxis	Auxis_thazard	Auxis_thazard	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGACACCGGCGTAAAGCGTGGTTAAGGAAAACTAAAACTAAAGCCGAACACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATGAGCCCCTGACCCCACGAAAGCTATGACA
+asv.336	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGCTGATAATTATCGGCGTAAAGAGTGGTTAAGATTAATTAAAGACTAAAGCCGAAAGCCCCCATAGCTGTTATACGCACCCGGGGGAAAGAAGCCCAATTACGAAAGTGGCTTTACAACATCTGAACCCACGAAAGCTAGGGTA
+asv.337	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAAGACGAACCGTACGAACGTTATTCGGAATTACTGGGCTTAAAGGGTGCGTAGGCTGCGCGGAAAGTTGGGTGTGAAAGCCCTCAGCTCAACTGAGGAATTGCATCCAAAACTGCCGTGCTTGAGGGAGACAGAGGTGAGCGGAACTCAAGGTGGAGCGGTGAAATGCGTTGATATCTTGAGGAACACCGGTGGCGAAAGCGGCTCACTGGGTCTCTTCTGACGCTGAGGCACGAAAGCTAAGGTAG
+asv.338	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAGAGGTCCGAGCGTTACGCGGAATTACTGGGCTTAAAGCGTACGTAGGCGGATCTACAGGTATCCTGTGAAAGCCCACGGCTCAACCGTGGAATTGCAGGGTAAACCGTAGATCTTGAGGTGGCTAGGGGCTCTCGGAACGGTAGGTGGAGTGGTGAAATGCGTTGATATCTACCGGAACGCCAAAGGGGAAGCCAGGGAGCTGGGGCCATTCTGACGCTGAGGTACGAAAGCGTGGGTAG
+asv.339	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Selar	Selar_crumenophthalmus	Selar_crumenophthalmus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAGACAGCGGCGTAAAGAGTGGTTAAGGAAAATATTAAATTAAAGCGGAAAGCCCTCAATGCTGTTATACGCCTTCGAAGAGACTGAACCACAACTACGAAAGTGGCTTTATTTAACCTGAACCCACGAAAGCTAAGAAA
+asv.340	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGCTGACAGCAAGCGGCGTAAAGAGTGATTAGGATATACTAGAGACTAAAGCCGAAAACCCTCATGACTGTTATACGCACCCGAGGACAAGAAGCCCGATCACGAAAGTAGCTTTATTTTCATCTGAACCCACGAAAGCTAGGGCA
+asv.341	Animalia	Chordata	Teleostei	Pleuronectiformes	Paralichthyidae	Cyclopsetta	Cyclopsetta_fimbriata	Cyclopsetta_fimbriata	species	GGGTTGGTTAATTTCGTGCCAGCAACCGCGGTTAGACGAGAGGCCCAAGTTGATGGACATACTCGGCGCCAAGCGTGGTTAAGGAAACTAAAAAAATAAAGTCGAACATTTTCATGGCTGTTATACGCATCCGAAAGCATGAAGCCCAATTACGAAAGTAACTTTAGCGAGCCTGAACCCACGAAAGCTAGGGAA
+asv.342	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGATTAGACGAGAGGCCCAAGTTGACAACCACCGGCGTAAAGCGTGGTTAAGATAAACTAAAAAATAAAGCCGAATGCCTTCAAGACTGTCATACGTTATTCGAGGGTAAGAAGCCCAACAACGAAAGTGGCTTTATGACCCTGAATCCACGAAAGCTAGGGCA
+asv.343	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Scaridae	Scarus	Scarus_rubroviolaceus	Scarus_rubroviolaceus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAAAGGCCCAAGTTGAAAAACATTCGGCGTAAAGGGTGGCTAAGGACCTATTTCAAACTAGAGCTGAATTTCTTCAAAGCTGTTATACGCTCATGAAAACTAGAAAATCAACCACGAAAGTGGCTCTAATCCCTCCTGACACCACGAAAGCTATGACA
+asv.344	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Gerreidae	Gerres	Gerres_cinereus	Gerres_cinereus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGCTACCGGCGTAAAGCGTGGTTAAGGTTGAATCAAAAACTAAAGTCGAACTCCTTCAAGGCCGTTTAACGTGTTCGAAACGGAGAAGCCCAACTACGAAAGTGACTTTACCTGCCTGACCCCACGAAAGCTATGGCA
+asv.345	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAAAACACGGCGTAAAGGGTGGTTAATAGAAAAATTACTAAAGCCGAACACCCTCCAGGCTGTCATACGCACCTGAGGGCAGGAAGTCCCACCACGAAAGTGACTTTATAATCTATGAAGCCACGAAAGCTAGAAAA
+asv.346	Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAAATTTATACTAAAGCCGAACATCCTCAAGACTGTCGTACGTTTCCGAGGATATGAAGTCCCCCTACGAAAGTGGCTTTAACTCTCCTGACCCCACGAAAGCTGTGACA
+asv.348	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAGCCCACGGCGTAAAGAGTGGTTAGGGAAAAACCAAAATAAAGTCGAACGCCCCCAGAGCCGTTATACGCTTCCGAGGGTAAGAAGCCCTACTACGAAAGTGACTTTAACTTACCTGACCCCACGAAAGCTGCGAAA
+asv.349	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCTACCGCGGTTATACGAGAGGCCCAAGCTAATGGACTACGGCGTAAAGCGTGGTTAAGGAAAATACGAGTACACTAAAGCCGAACATTCTCAGGGCCGTTACAGGCTTTACGAGACCTTGAAGACCAAAAACGAAAGTAGCTTTACACCATCCCCGAACCCACGAGAGCTGAGAAA
+asv.350	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGTTAGCGTTGTTCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGATTAGAAAGTTGGGGGTGAAATCCCGGGGCTCAACCTCGGAACTGCCTCCAAAACTGCTAGTCTAGAGTTCGAGAGAGGTGAGTGGAATTCCGAGTGTAGAGGTGAAATTCGTAGATATTCGGAGGAACACCAGTGGCGAAGGCGGCTCACTGGCTCGATACTGACGCTGAGGTGCGAAAGTGTGGGGAG
+asv.351	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTAGACGAGCAGCTCAAGTTGATGAAGCGCGGCGTAAGGCGTGGTTAAGGAACAAACTACAAATAAAGTTGAACGCTTTCAAGGCCGTAAGAGGTGCCCGAAAAGCTGAAGCTCAGTTACAAAAATAACTTTATTACCCCTGACTCCACGAAAGCTAGCGAAA
+asv.354	Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Euthynnus	Euthynnus_affinis	Euthynnus_affinis	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGACACCGGCGTAAAGCGTGGTTAAGGTAAACTAAAACTAAAGCCGAATACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATAACCCCTGACCCCACGAAAGCTATGACA
+asv.355								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTACAAGTTTCAAGTCGACCAAGAGCTTAACTCAAGGGAGGATTTGAAAAACTAACTTAATAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCGAAAGCGAAAAGCAGCCAACTAATAATTACCTGCCACTAGACCTGGAATCTGAGGTAG
+asv.356	Animalia	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus_scrofa	Sus_scrofa	species	CACCGCGGTCATACGATTAACCCAAATTAATAGATCCACGGCGTAAAGAGTGTTTAAGAAAAAAAACCACAATAGAGTTAAATTATAACTAAGCTGTAAAAAGCCCTAGTTAAAATAAAATAACCCACGAAAGTGACTCTAATAATCCTGACACACGATAGCTAGGACCC
+asv.357	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAAGACGAACCGTACGAACGTTATTCGGAATTACTGGGCTTAAAGGGTGCGTAGGCTGCACGGAAAGTTGGGTGTGAAAGCCCTCAGCTCAACTGAGGAATTGCATCCAAAACTGCCGTGCTTGAGGGAGACAGAGGTGAGCGGAACTCAAGGTGGAGCGGTGAAATGCGTTGATATCTTGAGGAACACCGGTGGCGAAAGCGGCTCACTGGGTCTCTTCTGACGCTGAGGCACGAAAGCTAAGGTAG
+asv.358	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACCTACACTCGGCGTAAAGAGTGGTTAGAACTAGCGCACACTAAAGCCGAACGCCCTCACTGCTGTTATACGCTTTTGAGAGTATGAAGCCCCACTACGAAAGTAGCTTTACACGTTTGACCCCACGAAAGCTGTGAAA
+asv.359	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGCAGGTGGTTTTTTAAGTCTGATGTTAAAACTTGAGGCTCAACCTCAATCCAGCATTGGAAACTAGAAGACTAGAGTATAGTAGGGATAGAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAAGCACTCTATTGGACTATTACTGACACTCAGAGACGAAAGCTAGGGGAG
+asv.360	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCTACCGCGGTTATACGAGAGGCCCAAGCTAATGGACTACGGCGTAAAGCGTGGTTAAGGAAAATACGAGTACACTAAAGCCGAACATTCTCAGGGCCGTTACAGGCTTTACGAGACCTTGAAGACCAAAAACGAAAGTAGCTTTACACCATCCCCGAACCCACGAGAGCTGAGAAA
+asv.361	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACCCAAACTGGGATTACCCCACTATG
+asv.362	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCGCCGCGGCTATACGAGAGGCTCAAGTCGATAGATTCCGGCGTAAAGGGTGGTTAGGGAGCCACAACCCCTAGAGAAGAACGCTCTTCAAGCTGTTATACGCCCCAAGAGTGTGAAATCCTGACACGAAAGCAACTCTACTTTGACCTGAACCCACGACAGCTCCGGCA
+asv.363	Animalia	Chordata	Teleostei	Tetraodontiformes	Balistidae	Sufflamen	Sufflamen_verres	Sufflamen_verres	species	CACCGCGGTTATACGAGAGGCCCAAGCTGACAGACTATCGGCGTAAAGAGTGGTTAAGAGAGACACAACTAAACTAGAGCCGAATGCTTTCAAGGCTGTTTTACGCACCCGAAAGCAAGAAGAACAACGACGAAAGTGGCCCTATTCAATTCCCAACCCACGAAAGCTAAGGCA
+asv.364	Animalia	Chordata	Mammalia	Carnivora	Canidae	Canis	Canis_lupus	Canis_lupus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATAGGCCTACGGCGTAAAGCGTGTTCAAGATACTTTTACACTAAAGTTAAAACTTAACTAAGCCGTAAAAAGCTACAGTTATCATAAAATAAACCACGAAAGTGACTTTATAATAATCTGACTACACGATAGCTAAGACC
+asv.365	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGATGGTGCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGCTAAGTCAGTCAGAAGTGAAAGCCCCGGGCTCAACCTGGGAATTGCTTTTGATACTGCTTGGCTAGAGTTTGGTAGAGGATAGTGGAATTCCAGGTGTAGCGGTGAAATGCGTAGATATCTGGAGGAACATCAGTGGCGAAGGCGACTGTCTGGACCAAAACTGACGCTGAGGTGCGAAAGCGTGGGTAG
+asv.366	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGACAAACTTCCTCACTAAAGCTAAAGACCCCTTAGGCTGTTATACGCACCTGGGGACTCGAACCACCTATACGAAAGTAGCTTTATTCTATTCCACCAGAATCCACGACAGCTGGGGCA
+asv.367	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCCAAGTTGACAACCACCGGCGTAAAGCGTGGTTAAGGTAAACTAAAAAATAAAGCCGAATGCCTTCAAGACTGTCATACGTTATTCGAGGGTAAGAAGCCCAACAACGAAAGTGGCTTTATGACCCTGAATCCACGAAAGCTAGGGCA
+asv.368	Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon_hystrix	Diodon_hystrix	species	CACCGCGGTTATACGAGAGACCCAAGTTGTTAGGCATCGGCGTAAAGGGTGGTTAAGGCAATACCCAAACTAAAGCCGAACATCTTCCAAGCCGTCATACGCACACGAAGACAAGAAGCCCGATAACGAAAGTGGCTCTAACCTGCCTGAACCCACGAAAGCTATGACAC
+asv.369	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Trachinotus		Trachinotus	genus	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGTTGGCCCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAATAAAAACTAAAGCCGAACATCTTCAAAGCTGTCATACGCTCCCGAAGATATGAAGCCCAACCACGAAAGTGACTTTACACAACCTGAACCCACGAAAGCTAAGGAA
+asv.370	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos_taurus	Bos_taurus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAGCTAACAAGAGTACGGCGTAAAACGTGTTAAAGCACCATACCAAATAGGGTTAAATTCTAACTAAGCTGTAAAAAGCCATGATTAAAATAAAAATAAATGACGAAAGTGACCCTACAATAGCCGACGCACTATAGCTAAGACC
+asv.371	Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil_curema	Mugil_curema	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAGACACCGGCGCAAAGAGTGGTTAGGTAACTTAATAAGCTAAAGCCGAACGCCCCCAAGGCTGTTATACGTGCTCGGAGGTATGAAGCCCAACTACGAAAGTGGCTTTAACTATATCTGAACCCACGAAAGCTGTGAAA
+asv.372	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGTAGGGGGCGAGCGTTGTCCGGATTTATTGGGCGTAAAGAGCTCGTAGGCGGTTCAACAAGTCGGTCGTGAAAGTTCAGGGCTCAACCCTGAAATGTCGATCGATACTGTTGTGACTAGGATACGGTAGAGGTGAGTGGAATTCCGAGTGTAGCGGTGAAATGCGTAGATATTCGGAGGAACACCAATTGCGAAGGCAGCTCACTGGGCCGCTATCGACGCTGAGGAGCGAAAGCTAGGGGAG
+asv.374	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGCTTAACAAGTCAACTGTTAAATCTTGAAGCTCAACTTCGAAATCGCAGTCGAAACTGTTAGGCTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.375	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Alectis	Alectis_ciliaris	Alectis_ciliaris	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGGGGCTCGAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAATATTCAACTAAAGCGGAACGCCCTCACAGTTGTTATACGTTTCCGAGGGTATGAACCCCAACTACGAAAGTGGCTTTACACTACCTGAACCCACGAAAGCTAAGAAA
+asv.376	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGATGACAGACCCTCGGCGTAAAGAGTGGTTAGAATAAAATGAAACTAAAGCCGAATGTTTTCTAAACTGTTATACGTACTCGAGAACTAGAAGCACCCCTACGAAAGTGGCTTTACTATTTTGAATCCACGAAAGCTATGGCA
+asv.377	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGGCTCAAGTTGATAGACCGCGGCGTAAAGAGTGGTTAAGGAACATTACCAACTAAAGTCGAACGCTCACACAGCTGTTATACGCACCCGAAAGTATGAAGCCCAATTACGAAAGTGACTTTAAATTACCTGAATCCACGAAAGCTAAGGAAC
+asv.378	Animalia	Chordata	Mammalia	Primates	Hominidae		Pan_troglodytes	Hominidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAACCGGCGTAAAGAGTGTTTTAGATCAATTCCCCTCAATAAAGCTAAAATTCACCTGAGTTGTAAAAAACTCCAGTTGATACAAAATAAACTACGAAAGTGGCTTTAACGCATCTGAACACACAATAGCTAAGACC
+asv.379	Animalia	Chordata	Teleostei	Mulliformes	Mullidae	Mulloidichthys	Mulloidichthys_vanicolensis	Mulloidichthys_vanicolensis	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAGGTACCGGCGTAAAGGGTGGTTAGGGATAACTATAAAATAAAGCCGAATATCTTCAACGCTGTTATACGCCCTCGAAGATTCGAAGCCCCATTACGAAAGTAGCTTTACCTTCCCCCGAACCCACGAAAGCCAGGGTA
+asv.380	Animalia	Chordata						Chordata	phylum	CACCACAGCCATATGATTAACACAAGCTAATAGAACTCGGCATAAAGAATGTTTAAGGTCTATCCTCAATAAAGCTAAGTTGTAAAAAACTCCATCTAAGTTGTAAAAAACTCCAGCTGAAATCAAATGTACTACAAAGTGGCTTTAATACCCTGAAGACACAATAGCTAAGACC
+asv.381	Animalia	Chordata	Teleostei	Beloniformes	Hemiramphidae	Hemiramphus		Hemiramphus	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTAACAGACACCGGCGTAAAGAGTGGTTAAGGAGAAATCAAAACTAAAGCCGAATAACCTCAAGACTGTTATACGTTCCCGAGGACAAGAAGCCCAACTACGAAAGTGGCTTTAATTTTCCCGACTCCACGAAAGCTGTGAAA
+asv.382	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGTAGGGTGCGAGCGTTGTTCGGAATTACTGGGCGTAAAGGGCGTGCAGGCGGATTGGCAAGCCGGAGGTGAAAGCCCGGGGCTCAACCCCGGAGGGTCTTTCGGAACTGCCAGTCTTGAGAGGGTCAGGGGCCAGCGGAATTCCTGGTGTAGAGGTGAAATTCGTAGAGATCAGGAGGAACACCGGCGGCGAAAGCGGCTGGCTGGGGCCACTCTGACGCTGAGGCGCGAAAGCGTGGGGAG
+asv.383	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	CACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGACAAACTTCCTCACTAAAGCTAAAGACCCCTTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATACGAAAGTAGCTTTATTCTATTCCACCAGAATCCACGACAGCTGGGGCACAAACTGAGATTAGATACCTCACTAAG
+asv.384	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGAGATTTTTCCCCTTTAAAGCAGAAAACCTCTCAAACTGTTATACGCACCCAGAGGTTGAAACCCCTTACACGAAAGTAACTTTATATTAGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.385	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGACAAACTTCCTCACTAAAGCTAAAGACCCCTTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATACGAAAGTAGCTTTATTCTATTTCACCAGAATCCACGACAGCTGGGGCA
+asv.386	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGACTGGTCAATTTCGTGCCCGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.388	Animalia	Chordata	Elasmobranchii	Myliobatiformes				Myliobatiformes	order	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGCAACACAAATTAATATTACACGGCGTTAAGGGTGATTAGATGATATACCTACCTAAAAATAAAGTTGAGATCCCACTAAGCTGTTATACGCTTTCATGCTTGGAAAAAACACTTACAAAAGTAACTTTAAAAAAAATTAGAGCTTTTGACCTCACGACAGTTAAGACC
+asv.389	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCGAGCTGATAGAAATCGGTGTAAAGAGTGGTTAAGTAGTTAACTAATAAAGTCAAACATTTTCTAAGCTGTTATACGCACCCGAAAGTTTGAAGACCTATCACGAAAGTGACTTTAAACCTCTGACCCCACGAAAGCTATGAAA
+asv.390	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTTGTTGAACAAGTCAACTGTTAAATCTTGAGGCTCAACTTCAAAATCGCAGTCGAAACTGTTTGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.391	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGATAAACCCCCGCACTAAAGCTAAAGACCCCTTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATACGAAAGTAGCTTTATTCTCTTCCACCAGAACCCACGACAGCTGGGGCA
+asv.393	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAAGACAGAAGGGGCAAGTGTTATTCAGAATAATTGGGCGTAAAGGGCACGTAGGTTGCTTTGAAAGTGAAAGGTGAAAGCCCAGAGCTTGACTGTGGATGTGCCTTTGAAAACTTTGAAGCTTGAGCGTGAAAGAGGATAGTAGAATTTCGAGTGGAGAGGTAAAATTCATAGAGATTCGAAGGAATACCGAATGCGAAGGCATCTATCTGGTTCACTGCTGACACTGAGGTGCGAAAGCGTGGGGAG
+asv.394	Animalia	Chordata						Actinopteri	superclass	TACCGCGGTTATACGAGAGGCCCAAGCTGATAGACAGCGGCGTAAAGCGTGGTTAAGGAGACACAAACAACTAAAGCCGAACATTTTCAGGGTCGTTGCAGACTTCACGAAATATGGAAGATCAATCACGAAAGTAGCTTTATACCTCCCGAACCCACGAAAGCTAAGGAACAAACTGAGATTAGATACCTCACTATA
+asv.395	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae			Pomacentridae	family	CACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAGCCTTTTAAACTAAAGCCGAACCTCCTCAGAGCTGTTATACGTTCCCGAGGATATGAAGCTCCTCCACGAAAGTGGCTTTATTTACCCTGACTCCACGAAAGCTGTGAAAC
+asv.396	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGAAGGGTGCTAGCGTTGTTCGGAATTACTGGGCGTAAAGGGCGTGTAGGCGGATGATCAAGCTAGGGGTGAAAGCCCAGGGCCCAACCCTGGAACTGCCTTTAGAACTGATTGTCTAGAATCCGTAAGGGGAGTGTGGAATTCCTAGTGTAGAGGTGAAATTCGTAGATATTAGGAAGAACACCAGTGGCGAAGGCGGCACTCTGGTACGGTATTGACGCTGAGGCGCGAAAGCGTGGGGAG
+asv.397	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGGATTTTTCCCCTTTAAAGCAGAAAACCTCTCAAACTGTTATACGTACCCAGAGGTTGAAACCCCTTACACGAAAGTAACTTTATATTAGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.398	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGTGGTTTTATAAGCTAGCTGTGAAAGCCCCGGGCTCAACCTGGGAACTGCAGTTAGAACTGTTTGACTAGAGTATGATAGAGGGTGGCGGAATTTCCTGTGTAGCGGTGAAATGCGTAGATATAGGAAGGAACATCAGTGGCGAAGGCGGCCACCTGGATTAATACTGACACTGAGGTGCGAAAGCGTGGGGAG
+asv.399	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAAGGGGGCGAGCGTTGTTCGGAATTACTGGGCGTAAAGGGAGCGCAGGCGGTTCATTCAGTTAGGCGTGAAAGCCCCGGGCTCAACCTGGGAACTGCGCTTAATACTGATGAGCTAGAAAACAGGAGAGGGTAGTGGAATTTCCAGTGTAGAGGTGAAATTCGTAGATATTGGAAAGAACACCGGTGGCGAAAGCGGCTACCTGGCCTGGTTTTGACGCTGAGGCTCGAAAGCGTGGGGAG
+asv.400	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAACCTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.401	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTCCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGTGGTTTCGTCAGTCAGATGTGAAAGCCCAGGGCTCAACCTTGGAATTGCACCTGATACTGCGGAACTAGAGTACGATAGAGGGGTGTGGAATTTCCGGTGTAGCGGTGAAATGCGTAGAGATCGGAAGGAACACCAGTGGCGAAGGCGACACCCTGGATTGATACTGACACTGAGGTGCGAAAGCGTGGGGAG
+asv.402	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTGACAAACGCCGGCGTAAAGAGTGGTTAGGAGAGATAAAAACTAAAGCCGAATATTCTCAAGGCTGTCATACGCTAACGAGGATTAGAAGCCCTTCTACGAAAGTGGCTTTAATTATTCTGACCCCACGAGAGCTGAGGAA
+asv.403	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae	Stegastes	Stegastes_rectifraenum	Stegastes_rectifraenum	species	CACCGCGGTTATACGAGAGGCCCAAGTTGACAGACACGGCGTAAAGAGTGGTTAGGCAACCCCTCCCCCTTCTACACACTAAAGTCGAACGCCCTCAAGGCTGTTATACGCCCTACGAAGGCAAGAAGCCCCTCCACGAAAGTGACTTTATTCTACCTGACTCCACGAAAGCTGTGGTA
+asv.405	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTGACAAACGCCGGCGTAAAGAGTGGTTAGGAGAGATAAAAACTAAAGCCGAATATTCTCAAGGCTGTCATACGCTAACGAGGATTAGAAGCCCTTCTACGAAAGTGGCTTTAATTATTCTGACCCCACGAGAGCTGAGGAA
+asv.406	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGAACTTCTTCACTAAAGCAGAAAACCTCTCAAACTGTTATACGCACCCAGAGGTTGAAATTTCTTACACGAAAGTGACTTTATCTTCGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.407								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCAAGGGTTCTAGATGATGATTGGGTGTAAAGCAGGATAAGGTGATACGTACAAGTTTGACGTCGACTGACCGAAAGGAAAGGAGGATGTCAAAAACTCACGTATGTGAGGTAGGGTGAAGTTGAAAGCGGAACTTTCTGGGTAGCGGTGTAATGCGTTTCATCTAGAAAGGAACACCGAAGGTGACAAACAGCCAACTAACCCTCACCTGCCACTAGACCTGAAACCTAGGGTAG
+asv.409	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAGACCGCGGCGTAAAGAGTGGTTAGGGTTAAACCTCAAACTAAAGTCGAACACTTCCATGGCTGTTATACGCACCCGAAACCATGAAGCCCAACTACGAAAGTGACTTTAAATAACCTGAATCCACGAAAGCTAAGAAA
+asv.410	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Decapterus	Decapterus_macarellus	Decapterus_macarellus	species	CACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAATATTCAACTAAAGCGGAACCCCCTCATTGCTGTCATACGCTTCCGAGAGGATGAACCCCAACTACGAAGGTGGCTTTATAAAACCTGAACCCACGAAAGCTAAGAAAC
+asv.411	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Gerreidae	Gerres	Gerres_cinereus	Gerres_cinereus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGCTACCGGCGTAAAGCGTGGTTAAGGTTGAATCAAAAACTAAAGTCGAACTCCTTCAAGGCCGTTTAACGTGTTCGAAACGGAGAAGCCCAACTACGAAAGTGACTTTACCTGCCTGACCCCACGAAAGCTATGGCA
+asv.412	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGATTAGACGAGAGGCCCAAGTTGACAACCACCGGCGTAAAGCGTGGTTAAGATAAACTAAAAAATAAAGCCGAATGCCTTCAAGACTGTCATACGTTATTCGAGGGTAAGAAGCCCAACAACGAAAGTGGCTTTATGACCCTGAATCCACGAAAGCTAGGGCA
+asv.413	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGCTGATAATTATCGGCGTAAAGAGTGGTTAAGATTAATTAAAGACTAAAGCCGAAAGCCCCCATAGCTGTTATACGCACCCGGGGGAAAGAAGCCCAATTACGAAAGTGGCTTTACAACATCTGAACCCACGAAAGCTAGGGTA
+asv.414	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGGATTTTTCCCTTTTAAAGCAGAAAACCTCTCAAACTGTTATACGTACCCAGAGGTTGAAACCCCTTACACGAAAGTAACTTTATATTAGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.415	Animalia	Chordata	Teleostei	Centrarchiformes				Centrarchiformes	order	CACCGCGGTTATACGGGTTAGCCCAAGTTGATAGCCTACGGCGTAAAGCGTGGTTAGGGAACAAGAACATACTAAAGCCGAATTTTCCTTCAGCTGTTATACGCTCGCAGGAACAAGAAGTTCAACTACGAAAGTGACTTTATTTTTCTACCCCTGAGCCCACGAAAGTTTTGATA
+asv.416	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGACACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.417	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCCACCACATCCGTGCAATTAATCCAAACTAATAAAACCCAACATAAAGCGTGTTAAAGGTAACTCTCTTAACAAAGTTAAACTTTAACTAAGCTGCAAACAGCTCCAGCTGAAATAACAACAAACTATGAAAGTGACTTTCATAGTATCATGAGAACACAATAGCTAATGCC
+asv.418	Animalia	Chordata						Chordata	phylum	CACCACAGCCATACAATTAACCTGAGCTAATAGAACTCAGCATAAAGAGTGTTTTAGGTCTATCCTTAATAAAGCTAAGCTTCATCTCAGTTGTATAAAACCCTAGCTGAAATAAAATAAACTATGAAGGAGGCTTTAATACTTCTGAAGACACAATAGCTAAGACCCAA
+asv.419	Animalia							Metazoa	subkingdom	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAGTATGTCTGTTGTTAAAGCTTAAGGCTTAACCTTAAACCAGCAATGGAAACTACTATGACTTGAGTGTGGTAGAGGTAGAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGACCACCAATGGCGAAGGCACTCTACTGGGCCATTACTGACACTGAGAGACGAAAGCTAGGGGAG
+asv.420	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTCAAATAAGTCAACTGTTAAATCTTGAGGCTCAACCTCAAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAGGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTAACACTCAGAGACGAAAGCTAGGGTAG
+asv.421	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx		Caranx	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACAAGAGGCTCAAGTTGACAGACAACGGCGTAAAGCGTGGTTAAGGAAAACATACAACTAAAGCGGAACCTCCTCCTAGCTGTTATACGCTTCCGAGGAAGTGAACTCCAACTACGAAAGTGGCTTTACCTAACCTGAACCCACGAAAGCTAAGAAA
+asv.422	Animalia	Chordata	Teleostei	Carangiformes	Coryphaenidae	Coryphaena	Coryphaena_hippurus	Coryphaena_hippurus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTAGACGAATGACCCAAGTTGACAGAATACGGCGTAAAGGGTGGTTAGGGAATATTAATACTAAAGCCGAACACCTTCCAAGCTGTTATACGCTTATGAAGAACTGAAGCACAACTACGAAAGTGGCTTTAAAACACCTGAACCCACGAAAGCTAAGAAA
+asv.423	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCAGAACACACAATAGCTAAGACC
+asv.424	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGATTAGACGAGAGGCCCAAGTTGACAACCACCGGCGTAAAGCGTGGTTAAGATAAACTAAAAAATAAAGCCGAATGCCTTCAAGACTGTCATACGTTATTCGAGGGTAAGAAGCCCAACAACGAAAGTGGCTTTATGACCCTGAATCCACGAAAGCTAGGGCA
+asv.425	Animalia	Chordata						Actinopteri	superclass	CACCGCGGCCATACGAGTGAGCCCAAGCGGACAGTCTGTCGGCGTAAAGCGTGGTTAGAGGTAAAGACCAACTAAAGCTAAACCCCATCAAAGCCGTAATACGCACCCGATGATGTGAGACCCAACCACGAAAGTAGCTTTAAATAAACCCGAACCCACGAGAGCCGAGGAA
+asv.426	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAATACAGAGGATGCAAGTTTTATTCGGAATTATTGGGCGTAAAGCGTCTGCAGGTTGATGTAAAAGTCTTTTGTTAAATATCAGGGCTCAACCCGGAATCTGCAAAAGAAACTATATATCTCGAGTATGGTAGAGGTAAGGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATAGCGAAGGCACCTTACTGGGCCATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.427	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Gerreidae	Gerres	Gerres_cinereus	Gerres_cinereus	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGCTACCGGCGTAAAGCGTGGTTAAGGTTGAATCAAAAACTAAAGTCGAACTCCTTCAAGGCCGTTTAACGTGTTCGAAACGGAGAAGCCCAACTACGAAAGTGACTTTACCTGCCTGACCCCACGAAAGCTATGGCA
+asv.428	Animalia	Chordata	Teleostei	Mulliformes	Mullidae	Mulloidichthys	Mulloidichthys_vanicolensis	Mulloidichthys_vanicolensis	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAGGTACCGGCGTAAAGGGTGGTTAGGGATAACTATAAAATAAAGCCGAATATCTTCAACGCTGTTATACGCCCTCGAAGATTCGAAGCCCCATTACGAAAGTAGCTTTACCTTCCCCCGAACCCACGAAAGCCAGGGTA
+asv.429	Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAAATTTATACTAAAGCCGAACATCCTCAAGACTGTCGTACGTTTCCGAGGATATGAAGTCCCCCTACGAAAGTGGCTTTAACTCTCCTGACCCCACGAAAGCTGTGACA
+asv.430	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae	Abudefduf		Abudefduf	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAACTTATTAAACTAAAGCCGAACGCCCTCAGAACTGTTATACGTTTCCGAAGGTAAGAAGCCCCACCACGAAAGTGTCTTTATTTTCCCCGACTCCACGAAAGCTGCGGAA
+asv.432	Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCTAAGTTGACAGGCAATCGGCGTAAAGAGTGGTTAAGTAATACATTTCACTAAAGCCAAACACCTTCAAAGCTGTTATACGCACCCGAAGACCAGAAGCCCAATCACGAAAGTGGCTTTAAACTAACTGAACCCACGAAAGCTAGGGCA
+asv.433	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCCACCGTGGTCATACAATTTACCCAAGCGAATAAAACCTGGTTAAACGTGTGTTTAAGATAACCCTCATAATATAGTTAAACTAAGTCGTAAAAAGCTGCAGTTAAAATAAAAATAAACTATGAAAGTGACTTTATTGCCCTGAGGACATGATAGCTAAGGCC
+asv.434	Animalia							Metazoa	subkingdom	AGCCGCGGTAAAACGGGAGGGGCAAGCGTTATCCGGAATTACTGGGCGTAAAGGGTCCGTAGACTGTATTACAAGTTATTTGTTAAAAATTAAAGCTCAACTTTAATAAAGCATTTAAAACTGTTATACTAGAGTTTTGTTCAGAAGAGTAGAATTTTATGTTCAGGAGTGGCATCTAAAGATTCATAAAGGAATACCGTTAGCGAAGGCGGCTCTTTGGTAAAAACTGACGTTGAGGGACGAAAGTATAGGTAG
+asv.435	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAATAACTCGGCGTAAAGAGTGGTTAAATTTACTATTAACTAAAGCCGAACCCCCTCACAACTGTTATACGTATTCGAGGGTAAGAAGCACTAATACGAAAGTAGCTTTAACATTTTGACCCCACGAAAGCTGGGAAA
+asv.436	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGGCCCAAGTTGACAGAACGCGGCGTAAAGGGTGGTTAATAAAAAAAATAACTAAAGCCGAACACCCTCCAGGCTGTTATACGCACCTGAGGGCAGGAAGTCCCACCACGAAAGTGACTTTACATCTTATGAGGCCACGAAAGCTAGGAAACA
+asv.437	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGAGGCTCAACTTCAAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGAGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAAGCACTTTACTGGGCTATTACTAACACTCAGAGACGAAAGCTAGGGTAG
+asv.438	Animalia	Chordata	Teleostei	Perciformes	Serranidae	Epinephelus		Epinephelus	genus	TACCGCGGTTATACGAGAGGCCCAAGTTGACAGGCTCCGGCGTAAAGCGTGGTTAAGGAACAACAAATACTAAAGCCGAACGCTTACTAGGCTGTTATACGCTTACGAAAGTAAGAAGCACATCCACGAAGGTGGCTTTACTCCACCTGAACCCACGAAAGCCAAGACAC
+asv.439	Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAAATTTATACTAAAGCCGAACATCCTCAAGACTGTCGTACGTTTCCGAGGATATGAAGTCCCCCTACGAAAGTGGCTTTAACTCTCCTGACCCCACGAAAGCTGTGACA
+asv.440	Animalia	Chordata						Chordata	phylum	CACCGCGGCCATACGATTAACCCAAGCTAATAAAACTCGGCATAAAGAGTGTTTAAGGTCTTCAGTCAACAAAGTTAAGCTCTATCTAAATCGTAAAAATCTCCAGCTGAAATAAAATATACTACGAAAGGGACTTTAATGTCCTGAGGACACAACAGCTAAGGCACAAA
+asv.442	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCGAGCTGATAGAAATCGGTGTAAAGAGTGGTTAAGTAGTTAACTAATAAAGTCAAACATTTTCTAAGCTGTTATACGCACCCGAAAGTTTGAAGACCTATCACGAAAGTGACTTTAAACCTCTGACCCCACGAAAGCTATGAAA
+asv.443	Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae	Anarchias	Anarchias_sp._Ansp	Anarchias	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAATCGATGCTCCACCGGCGTAAAGTGTGATTAGAGAAAACGAAAACTAAGGCCAAATATTCCTTATGCTGTCATACGCTAATAGGACACAAGAAGAACAACTACGAAAGTGGCTTTACTACCCTTGAACTCACGACAGCCAGATCA
+asv.444	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCTACCGCGGTTAGACGAGAGGCCCAAGTTGACAGACTCCGGCGTAAAGAGTGGTTAAGATAACAAAATACTAAAGCCGAATAGCTTCAAGGCTGTTATACGCATCCGAGAGCTAGAAGTTCAACTACGAAAGTTGCTTTATTATGCTGAATCCACGAAAGCCAAGGCA
+asv.446	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGCTGATAATTATCGGCGTAAAGAGTGGTTAAGATTAATTAAAGACTAAAGCCGAAAGCCCCCATAGCTGTTATACGCACCCGGGGGAAAGAAGCCCAATTACGAAAGTGGCTTTACAACATCTGAACCCACGAAAGCTAGGGTA
+asv.447	Animalia							Metazoa	subkingdom	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATTACTGGGCGTAAAGCGTCTGTAGGTGGTTTAGTAAGTCGATTGTTAAAGCTTGGGGCTTAACTTCAAAACAGCAATGGAAACTGCTAGACTTGAGTATGGTAGAGGTAAAAGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCATTTTACTGGGCCATAACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.448								Incertae_sedis	kingdom	AGCTGCGGTTATACGGAAGGGGCGAACGTTACTCGAAATGATTGGGCGTAAAGAGTTTGTAGGCGGTTTGATAAGTTATTTGTTAAATGTATGGTTTTTAACTTAGAGAGGCATTTAATACTTTAAAACTTGAGTATAATAGAGGATAACAGAATTTTATACATAGGGGTAAAATCTTATAATTTATAAAAGAATGTCAGTAGCGAAGGCGGTTGTCTGGATTATTTACTGACGTTGAGAAACGAAGGCTTAGGGAG
+asv.449	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTCCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGTGGTTTCGTCAGTCAGATGTGAAAGCCCAGGGCTCAACCTTGGAACTGCACCTGATACTGCGGAACTAGAGTACGATAGAGGGGAGTGGAATTTCCGGTGTAGCGGTGAAATGCGTAGAGATCGGAAGGAACACCAGTGGCGAAGGCGACTCCCTGGATTGACACTGACACTGAGGTGCGAAAGCGTGGGGAG
+asv.450	Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron_nigropunctatus	Arothron_nigropunctatus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGTTGTTAGCTCCCGGCGTAAAGAGTGGTTAAAAACACAACATTAAACTGAGGCCGAACATCCTCAAGGCAGTTATACGCTCCCGAGGACATGAAGAACAATTACGAAAGTAGCCCCACCCCATTTGAACCCACGAAAGCTAGGACA
+asv.451	Animalia	Chordata	Elasmobranchii	Myliobatiformes	Dasyatidae			Dasyatidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGTAACCCAAATTAATATTTCACGGCGTTAAGGGTGATTAGAAATATCTTACTCAAAATAAAGTTAAGACCCCATTAAGCTGTCATACGCTATCATGCTTAAAAACACCACTCACGAAAGTAACTTTATATAAACAGAGTTTTTGACTTCACGACAGTTAGGACC
+asv.452	Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Euthynnus	Euthynnus_affinis	Euthynnus_affinis	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGACACCGGCGTAAAGCGTGGTTAAGGTAAACTAAAACTAAAGCCGAATACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATAACCCCTGACCCCACGAAAGCTATGACA
+asv.453	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGTTAGCGTTGTTCGGAATTACTGGGCGTAAAGCGCACGTAGGCGGATTAGAAAGTTAGAGGTGAAATCCCGGGGCTCAACCCCGGAACTGCCTTTAAAACTACTAGTCTAGAGTTCGAGAGAGGTGAGTGGAATTCCGAGTGTAGAGGTGAAATTCGTAGATATTCGGAGGAACACCAGTGGCGAAGGCGGCTCACTGGCTCGATACTGACGCTGAGGTGCGAAAGTGTGGGGAG
+asv.454	Animalia	Chordata	Teleostei	Siluriformes				Siluriformes	order	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAAAGACCCCAGTTGACAACTACGGCGTAAAGGGTGGTTAAGGAACATATAAAATAAAGCCAAAGGCCCTCTAAGCCGTCATACGCACTCCGAAAGTACGAAGCCCCCACACGAAAGTAGCTTTAAATACATAAACCCCTGACCCCACGAAAGCTAAGAAA
+asv.455	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos_taurus	Bos_taurus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAGCTAACAAGAGTACGGCGTAAAACGTGTTAAAGCACCATACCAAATAGGGTTAAATTCTAACTAAGCTGTAAAAAGCCATGATTAAAATAAAAATAAATGACGAAAGTGACCCTACAATAGCCGACGCACTATAGCTAAGACC
+asv.456	Animalia	Chordata	Teleostei	Scombriformes	Trichiuridae	Trichiurus		Trichiurus	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTGATACGAAAGGCTCAAGCTGACAGCCCACGGCGTAAAGCGTGGTTAGGGTATATTTTAAATTAAAGCCGAACACCCCTTAAGCCGTCAAAAGCTTATAGAGGCATGAAGCCCACTTACGAAAGTAGCTTTATACTTCCTGAACCCACGAAAGCTAAGAAA
+asv.457	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCGCCGCGGCTATACGAGAGGCTCAAGTCGATAGATTCCGGCGTAAAGGGTGGTTAGGGAGCCACAACCCCTAGAGAAGAACGCTCTTCAAGCTGTTATACGCCCCAAGAGTGTGAAATCCTGACACGAAAGCAACTCTACTTTGACCTGAACCCACGACAGCTCCGGCA
+asv.458	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACCTACACTCGGCGTAAAGAGTGGTTAGAACTAGCGCACACTAAAGCCGAACGCCCTCACTGCTGTTATACGCTTTTGAGAGTATGAAGCCCCACTACGAAAGTAGCTTTACACGTTTGACCCCACGAAAGCTGTGAAA
+asv.459	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAAATCACCCCCTCCCCAATAAAACTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACAAAAGTGGCTTTAACATATCTAAACACACAATAACTAAAACC
+asv.460	Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae	Bathygobius	Bathygobius_fuscus	Bathygobius_fuscus	species	CGCCGCGGTTATACGAGTAGGCCCAAGTAGATAGAACTCGGCGTAAAGAGTGGTTAATAGAATCTTATACTAAAGCCGAACGCCCTCAAAGCAGTTATACGCATTCGAGAGCATGAAGCCCCACGACGAAAGTGGCTTTAACACTATTGAACCCACGAAAGCTGGGTAAC
+asv.461	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGAAGGGGGCGAGCGTTATTCGGAATTACTGGGCGTAAAGGGAGCGCAGGCGGTTCATTTAGTCAGACGTGAAAGCCCCGGGCTCAACCCGGGAGGTGCGTTTGATACTGGTGAGCTAGAAATCAGAAGAGGATAGTGGAATTCCCAGTGTAGAGGTGAAATTCGTAGATATTGGGAAGAACACCAGTGGCGAAAGCGGCTATCTGGTCTGTATTTGACGCTGAGGCTCGAAAGCGTGGGGAG
+asv.462	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Alectis	Alectis_ciliaris	Alectis_ciliaris	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGGGGCTCGAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAATATTCAACTAAAGCGGAACGCCCTCACAGTTGTTATACGTTTCCGAGGGTATGAACCCCAACTACGAAAGTGGCTTTACACTACCTGAACCCACGAAAGCTAAGAAA
+asv.463	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Seriola		Seriola	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTGACAGACAGCGGCGTAAAGAGTGGTTAAGGAAAACACAAAACTAAAGCCGAACACCTTCAGAACTGTCGTACGTCTTCGAAGGTATGAAGCCCAACCACGAAAGTGGCTTTACCTCTCCTGAACCCACGAAAGCTAAGGAA
+asv.464	Animalia	Chordata	Teleostei	Scombriformes	Scombridae			Scombridae	family	CACCGCGGTTATACGAGAGGCCCAAGTTGACAGACACCGGCGTAAAGCGTGGTTAAGGAAAACTAAAACTAAAGCCGAACACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATGACCCCCTGACCCCACGAAAGCTATGACAC
+asv.465	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACAGGGGATGCAAGTGTTATCCGGAATTATTGGGCGTAAAGCGTCTGCAGGTTGATCTATAAGTCTTTTGTTAAATCTTTAGGCTTAACCTAAAAACAGCAAAAGAAACTATTTATCTTGAGTATGGTAGAGGTAAGGGGAATTTCGAGTGGAGCGGTGAAATGCGTAGATATTCGAAAGAACACCAATAGCGAAGGCACCTTACTGGGCCATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.466								Incertae_sedis	kingdom	AGCCGCGGTAATACGGGAGGGGCAAGCGTTATTCGGAATTATTGGGCGTAAAGGGTTCGTAGACTGTAATGTAAGTTGCATTCAAAATATTAAAAAATGTTTAATTAATATGCAATACTGCTTTACTTGAGTTAAAATTAGAAAAATAGAATTTCGTATGTAAAGGTAATATTTTATGATATGCGGAGGAATACCTTTAGTGAAGACAATTTTTTATCAATAACTGACGTTGAGGAACGAAAGTATAGGGAG
+asv.467	Animalia	Chordata	Mammalia	Cetartiodactyla	Delphinidae			Delphinidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTGACCCAAATTAATAGACACCCGGCGTAAAGAGTGTCAAAGAACAATATAAAAATAAAGTCAAACCTTGATTAAGCTGTAAAAAGCCATAATTAAAATTAAGTTAAACTACGAAAGTAACTTTACCATAAACTGAGTACACGACAACTAAGACC
+asv.469	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Alectis	Alectis_ciliaris	Alectis_ciliaris	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGGGGCTCGAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAATATTCAACTAAAGCGGAACGCCCTCACAGTTGTTATACGTTTCCGAGGGTATGAACCCCAACTACGAAAGTGGCTTTACACTACCTGAACCCACGAAAGCTAAGAAA
+asv.470	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGAACTGTGCGAACGTTATTCGGAATCACTGGGCTTAAAGGGTGCGTAGGCGGTTACTTAAGTAGGATGTGAAATCTCCCGGCTCAACCGGGGAACTGCGTTCTAAACTGGGTGACTTGAGTGAGATAGAGGTGTGCGGAACTTCCGGTGGAGCGGTGAAATGTGTTGATATCGGAGGGAACACCGTTGGCGAAAGCGGCACACTGGGTCTTAACTGACGCTGAGGCACGAAAGCCAGGGGAG
+asv.471	Animalia	Chordata	Elasmobranchii	Myliobatiformes	Mobulidae	Mobula		Mobula	genus	CGCCGCGGTTATACGAGTGACACAAATTAATATTTCACGGCGTTAAGGGTGATTAGAAATAATCTCATCAGTATAAAGTTAAGACCTCATTAAGCTGTCATACGCACTCATGATCGAAAACATCATTCACGAAAGTAACTTTACACAAACAGAATTTTTGACCTCACGACAGTTAAGACC
+asv.472	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGAGATTTTTCCCCTTTAAAGCAGAAAACCTCTCAAACTGTTATACGCACCCAGAGGTTGAAACCCCTTACACGAAAGTAACTTTATATTAGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.473	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCGAGCTGATAGAAATCGGTGTAAAGAGTGGTTAAGTAGTTAACTAATAAAGTCAAACATTTTCTAAGCTGTTATACGCACCCGAAAGTTTGAAGACCTATCACGAAAGTGACTTTAAACCTCTGACCCCACGAAAGCTATGAAA
+asv.474	Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus_crocodilus	Tylosurus_crocodilus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCTAAGTTGATAGCTTCCGGCGTAAAGAGTGGTTAAGGAAATCCCTAAACTAAAGCCGAATATTTTCACAGCTGTCATACGCACCCGAAAATAAGAAACCCCACCACGAAAGTGGCTTTAACCCACCCGACCCCACGAAAGCTGTGGAA
+asv.475	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCTCCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.476	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAGAGGGGCAAGTGTTATTCGGAATGACTAGGCGTAAAGCGCACATAGACTGTTTTTTAAGTTGAAATTTAAAGTAGGGAGCTTAACTTCTAAATTGGTTTCAATACTAATAAACTAGAGTAAGTATAGAGGATAGTGGAATTTTTAATAAAGAGTTGAAATTCGTCGACATTAGAAGGAAGGCCAATGGCGAAGGCAACTATCTAGTTCTTAACTGACGTTGTTGTGCGAAAGCATGGGTAG
+asv.477	Animalia	Chordata	Mammalia					Mammalia	class	CACCATGATCATACGATTAACCCAAACTAATAAAATCTGGTGAAAAGCGTGTTTAAGGTAAACCTACAGTAAAGCTAAACTCCGTCTAAGCTGTAAAAAGCTTCAACTGAAGTAAAAATAAACTACAAAAGTGACTTTAACACCCTGAAAACACGATAGCTAAGACTCAA
+asv.478	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGACTCAAGCTGACAATCACCGGCGTAAAGAGTGGTTAATTTAACCAAAAAATAAAGCCGAACGCCCCCAAAGTTGTATTACGCATTCGGGGGTATGAAGCCCAATCACGAAAGTGGCTTTACACTCTTTGAACCCACGAGAGCTAGGGAACA
+asv.479								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTATAAGTTTCAAGTCGACCAAAAGCCCAACTTGAGGGAGGATTTGAAAAACTAACTTAATAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCGAAAGCGAAAAGCAGCCAACTAATAATTACCTGCCACTAGACCTGGAATCTGAGGTAG
+asv.480	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATTACTGGGCGTAAAGCGTCTGTAGGTGGTTTAGTAAGTCGATTGTTAAATCTTGAGGCTTAACTTCAAAACAGCAATGGAAACTGCTAGACTTGAGTATGGTAGAGGTAAAAGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCATTTTACTGGGCCATAACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.481	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTGGACAAGTCAACTGTTAAATCTTGGAGCTCAACTTCAAAATCGCAGTCGAAACTGTTTGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.483	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAGACCGCGGCGTAAAGAGTGGTTAGGGTTAAACCTCAAACTAAAGTCGAACACTTCCATGGCTGTTATACGCACCCGAAACCATGAAGCCCAACTACGAAAGTGACTTTAAATAACCTGAATCCACGAAAGCTAAGAAA
+asv.484	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAGACCGCGGCGTAAAGAGTGGTTAGGGTTAAACCTCAAACTAAAGTCGAACACTTCCATGGCTGTTATACGCACCCGAAACCATGAAGCCCAACTACGAAAGTGACTTTAAATAACCTGAATCCACGAAAGCTAAGAAA
+asv.485	Animalia							Metazoa	subkingdom	AGCCGCGGTAACACGGGGGGAGCGAGCGTTGTTCGGATTCATTGGGCGTAAAGGGCGCGTAGGCGGCTTGGCAAGTTTGACGTGAAATGTACCGGTTCAACCGGGGCGCTGTGTCAAAAACTGCCTTGCTTGAGGTCGAGGGAGGAGAGTGGAATTCCTGGTGTAGCGGTGAAATGCGTAGATATCAGGAGGAACACCCGTGGCGAAGGCGGCTCTCTATCTCGATTCTGACGCTGAGGCGCGAAAGCTAGGGGAG
+asv.487	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx		Caranx	genus	CACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGCGTGGTTAAGGAAAACATACAACTAAAGCGGAACCTCCTCCTAGCTGTTATACGCTTCCGAGGAAGTGAACTCCAACTACGAAAGTGGCTTTACCTAACCTGAACCCACGAAAGCTAAGAAAC
+asv.488	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACCCAAACTGAGGTTAGATACCTCACTATG
+asv.489	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGGATTTTTCCCCTTTAAAGCAGAAAACCTCTCAAACTGTTATACGTACCCAGAGGTTGAAACCCCTTACACGAAAGTAACTTTATATTAGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.490	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAATAGCTCGGCGTAAAGAGTGGTTAAATTTACTATTAACTAAAGCCGAACCCCCTCACAACTGTCATACGTATTCGAGGGTAAGAAGCACTAATACGAAAGTAGCTTTAACATTTTGACCCCACGAAAGCTGGGAAA
+asv.491	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae	Abudefduf		Abudefduf	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAACTTATTAAACTAAAGCCGAACGCTCTCAGAACTGTTATACGTTTCCGAAGGTAAGAAGCCCCACCACGAAAGTGACTTTATTTTCCCCGACTCCACGAAAGCTGCGGAA
+asv.492	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGAACTTCTTCACTAAAGCAGAAAACCTCTCAAACTGTTATACGCACCCAGAGGTTGAAATTTCTTACACGAAAGTGACTTTATCTTCGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.493	Animalia	Chordata	Mammalia	Primates	Hominidae		Pan_troglodytes	Hominidae	family	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAACCGGCGTAAAGAGTGTTTTAGATCAATTCCCCTCAATAAAGCTAAAATTCACCTGAGTTGTAAAAAACTCCAGTTGATACAAAATAAACTACGAAAGTGGCTTTAACGCATCTGAACACACAATAGCTAAGACC
+asv.494	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGACACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.495	Animalia	Chordata	Teleostei	Carangiformes	Coryphaenidae	Coryphaena	Coryphaena_hippurus	Coryphaena_hippurus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTAGACGAATGACCCAAGTTGACAGAATACGGCGTAAAGGGTGGTTAGGGAATATTAATACTAAAGCCGAACACCTTCCAAGCTGTTATACGCTTATGAAGAACTGAAGCACAACTACGAAAGTGGCTTTAAAACACCTGAACCCACGAAAGCTAAGAAA
+asv.496	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAAGGGAGCTAGCGTTACTCGGAATTACTGGGCGTAAAGCGCATGTAGGCGGACTTTCAAGTCAGGGGTGAAATCCCGGGGCTCAACCTCGGAATTGCCTTTGAAACTGTAAGTCTTGAGTATGACAGAGGATAGTGGAATTCCTAGTGTAGAGGTGAAATTCGTAGATATTAGGAGGAACACCAGTGGCGAAGGCGACTGTCTGGGTCATTACTGACGCTGAGATGCGAAAGCGTGGGGAG
+asv.497	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCTACCGCGGTTAGACGAGAGGCCCAAGTTGACAGACTCCGGCGTAAAGAGTGGTTAAGATAACAAAATACTAAAGCCGAATAGCTTCAAGGCTGTTATACGCATCCGAGAGCTAGAAGTTCAACTACGAAAGTTGCTTTATTATGCTGAATCCACGAAAGCCAAGGCA
+asv.498	Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family	CACCGCGGTTATACGAGGGGCCTAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGGAAAATTCATACTAAAGCCGAACATCCTCAAGACTGTCGTACGTTTCCGAGGATATGAAGTCCCCCTACGAAAGTGGCTTTAACTCTCCTGACCCCACGAAAGCTGTGGCAC
+asv.499	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCCACCGCGACCATATGATTAACCCGAGCTGACAGAACTCAGCGTAAAGAGTGTTTAATTAAGGTCTACCCTCAATAAAGCTAAACTCCAATTGAGTTGTAAAAAACTACAGCTGAAATAAAATATACTACGAAAGTGGCTTTAATACCCTGAAGACACAATAGCTAAAACC
+asv.500	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx		Caranx	genus	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACAAGAGGCTCAAGTTGACAGACAACGGCGTAAAGCGTGGTTAAGGAAAACATACAACTAAAGCGGAACCTCCTCCTAGCTGTTATACGCTTCCGAGGAAGTGAACTCCAACTACGAAAGTGGCTTTACCTAACCTGAACCCACGAAAGCTAAGAAA
+asv.501	Animalia	Chordata						Chordata	phylum	GGGTTGGTTAATTTCGTGCCAGCCACCGTGGTCATACAATTTACCCAAGCGAATAAAACCTGGTTAAACGTGTGTTTAAGATAACCCTCATAATATAGTTAAACTAAGTCGTAAAAAGCTGCAGTTAAAATAAAAATAAACTATGAAAGTGACTTTATTGCCCTGAGGACATGATAGCTAAGGCC
+asv.502	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGCTATGCAAGTCTGTTGTTAAATCTTGAGGCTTAACTTCAAACCCGCAATGGAAACTGCATGGCTTGAGTATGGTAGAGGTAAGAGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCATCTTACTGGGCCATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.503	Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus_crocodilus	Tylosurus_crocodilus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCTAAGTTGATAGCTTCCGGCGTAAAGAGTGGTTAAAGAAATCCCTAAACTAAAGCCGAATATTTTCACAGCTGTCATACGCACCCGAAAATAAGAAGCCCCACCACGAAAGTGGCTTTAACCCACCCGACCCCACGAAAGCTGTGGAA
+asv.504	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGTGGTCTGTTAAGTCGGATGTGAAAGCCCCGGGCTCAACCTGGGAACTGCATCCGATACTGGCAGACTAGAGTGCGGGAGAGGGAGGTAGAATTCCACGTGTAGCGGTGAAATGCGTAGATATGTGGAGGAATACCAGTGGCGAAGGCGGCCTCCTGGCTCGACACTGACACTGAGGTGCGAAAGCGTGGGGAG
+asv.505	Animalia	Chordata	Mammalia	Primates	Hominidae		Pan_troglodytes	Hominidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAACCGGCATAAAGAGTGTTTTAGATCAATTCCCCTCAATAAAGCTGAAATTCACGTGAGTTGTAAAAAACTCCAGTTGATACAAAATAAACTACGAAAGTGGCTTTAATGCATCTGAACACAGAATAACTAAGACC
+asv.507	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAATAACTCGGCGTAAAGAGTGGTTAAATTTACTATTAACTAAAGCCGAACCCCCTCACAACTGTTATACGTATTCGAGGGTAAGAAGCACTAATACGAAAGTAGCTTTAACATTTTGACCCCACGAAAGCTGGGAAA
+asv.508	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Gerreidae	Gerres	Gerres_cinereus	Gerres_cinereus	species	GTCGGTAAAACTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGCTACCGGCGTAAAGCGTGGTTAAGGTTGAATCAAAAACTAAAGTCGAACTCCTTCAAGGCCGTTTAACGTGTTCGAAACGGAGAAGCCCAACTACGAAAGTGACTTTACCTGCCTGACCCCACGAAAGCTATGGCA
+asv.509	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGGGTTAGCCCAAGTTGATAGCCTACGGCGTAAAGCGTGGTTAGGGAGCAAGAACATACTAAAGCCGAATTTTCCTTCAGCTGTTATACGCTCGCAGGAACAAGAAGTTCAACTACGAAAGTGACTTTATTTTTCTACCCCTGAGCCCACGAAAGTTTTGATA
+asv.510	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCAGCCGCGGTTACACCAGGGACCCAAGTTGACAGACTCACGGCATAAAGGGTGGTCAACAGAATATTAAACTAAAGCCAAACACCCCTAAGGCTGTCATACGCAATTTAGGGACAGGAAGATCGTTCACGAAAGTAGCTTTAAACACTGCGAACCACGAAAGCCAGGGAA
+asv.511	Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGACCTAAGTTGACAGGCAATCGGCGTAAAGAGTGGTTAAGTAATACATTTCACTAAAGCCAAACACCTTCAAAGCTGTTATACGCACCCGAAGACCAGAAGCCCAATCACGAAAGTGGCTTTAAACTAACTGAACCCACGAAAGCTAGGGCA
+asv.512	Animalia	Chordata	Elasmobranchii	Myliobatiformes	Dasyatidae			Dasyatidae	family	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGTAACCCAAATTAATATTTCACGGCGTTAAGGGTGATTAGAAATATCTTACTCAAAATAAAGTTAAGACCCCATTAAGCTGTCATACGCTATCATGCTTAAAAACACCACTCACGAAAGTAACTTTATATAAACAGAGTTTTTGACTTCACGACAGTTAGGACC
+asv.513	Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGGGGCCCAAATCGACGCCCCACCGGCGTAAAGTGTGGTTAGAGGAAACCTCAAACTGGAGCCAAACAGCCCCTATGCTGTCATACGCTAATGGGACCAACGAAGACCAACAACGAAAGTGGCTCTATAACCCTTGAACTCACGACAGCCAGGCCA
+asv.514	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGCACGCAGGCGGTCTGTCAAGTTGGATGTGAAATCCCCGGGCTCAACCTGGGAACTGCATTCGAAACTGGCAGGCTTGAGTCTCGTAGAGGGGGGTAGAATTCCAGGTGTAGCGGTGAAATGCGTAGAGATCTGGAGGAATACCGGTGGCGAAGGCGGCCCCCTGGACGAAGACTGACGCTCAGGTGCGAAAGCGTGGGGAG
+asv.515	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAGTAAGTCGATTGTTAAAGCTTGAGGCTCAACTTCAAAACAGCAATGGAAACTGCTAGACTTGAGTATGGTAGAGGTAAGAGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCATCTTACTGGGCCATAACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.517	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAATAACTCGGCGTAAAGAGTGGTTAAATTTACTATTAACTAAAGCCGAACCCCCTCACAACTGTTATACGTATTCGAGGGTAAGAAGCACTAATACGAAAGTAGCTTTAACATTTTGACCCCACGAAAGCTGGGAAA
+asv.518	Animalia	Chordata	Teleostei	Acanthuriformes	Chaetodontidae	Johnrandallia	Johnrandallia_nigrirostris	Johnrandallia_nigrirostris	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTAAACGAGAGACTCAAGTTGTTAGTCATCGGCGTAGAGAGTGGTTAAGATAAGATAAAACTAAAGCCGAATGCCCTTAAAGCTGTTATAAGCATCCACGAGGGTAAGAAGCCCAACTACGAAAGTGGCTTTAACTCAATCTGAACCCACGAAAGCTAGGGCA
+asv.520	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGATAAACCCCCGCACTAAAGCTAAAGACCCCTTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATACGAAAGTAGCTTTATTCTCTTCCACCAGAACCCACGACAGCTGGGGCA
+asv.521	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Seriola		Seriola	genus	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTGACAGACAGCGGCGTAAAGAGTGGTTAAGGAAAACACAAAACTAAAGCCGAACACCTTCAGAACTGTCGTACGTCTTCGAAGGTATGAAGCCCAACCACGAAAGTGGCTTTACCTCTCCTGAACCCACGAAAGCTAAGGAA
+asv.522	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGGCCCAAGCTGATAGTGAGCGGCGTAAAGAGTGATTAGGACAAATTAGAGACTAAAGCCGAAAGCCCTCACGACTGTTATACGTACCCGAGGATAAGAAGCCCAATCACGAAAGTAGCTTTATTTATATCTGAACCCACGAAAGCTAGGGCA
+asv.523	Animalia	Chordata	Teleostei	Acanthuriformes	Ephippidae	Chaetodipterus	Chaetodipterus_faber	Chaetodipterus_faber	species	CACCGCGGTTATACGAGGGACCCAAGTTGATAGACACCGGCGTAAAGAGTGGTTAAAACTTATAATTAAACTAAAGCCGAACGCCCTCAAAGCTGTTATACGCATCCGAGAGTAAGAAGCCCAACCACGAAAGTAGCTTTACACCCCTGAACCCACGAAAGCCAGGGTAC
+asv.524	Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCTAAGTTGACAGGCAATCGGCGTAAAGAGTGGTTAAGTAATACATTTCACTAAAGCCAAACACCTTCAAAGCTGTTATACGCACCCGAAGACCAGAAGCCCAATCACGAAAGTGGCTTTAAACTAACTGAACCCACGAAAGCTAGGGCA
+asv.525	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCTACCGCGGTTAGACGAGAGGCCCAAGTTGACAGACTCCGGCGTAAAGAGTGGTTAAGATAACAAAATACTAAAGCCGAATAGCTTCAAGGCTGTTATACGCATCCGAGAGCTAGAAGTTCAACTACGAAAGTTGCTTTATTATGCTGAATCCACGAAAGCCAAGGCA
+asv.526	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAAAACACGGCGTAAAGGGTGGTTAATAGAAAAATTACTAAAGCCGAACACCCTCCAGGCTGTCATACGCACCTGAGGGCAGGAAGTCCCACCACGAAAGTGACTTTATAAGCTATGAAGCCACGAAAGCTAGAAAA
+asv.527	Animalia	Chordata	Teleostei	Scombriformes	Trichiuridae	Trichiurus		Trichiurus	genus	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTGATACGAAAGGCTCAAGCTGACAGCCCACGGCGTAAAGCGTGGTTAGGGTATATTTTAAATTAAAGCCGAACACCCCTTAAGCCGTCAAAAGCTTATAGAGGCATGAAGCCCACTTACGAAAGTAGCTTTATACTTCCTGAACCCACGAAAGCTAAGAAA
+asv.528	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGGAGGGGCAAGCGTTATTCGGAATGACTGGGCGTAAAGGGCCCGTAGGCGGCTTTACAGGTTAGTGTGTTCAATCTCAAGGTTATCTCTTGAATCAGCAACTAAAACGGTAAGGCTTGAGTCAACTAGAGGAAAGTGGAATTCCTGGTGGAGCGGTTAAATGCATAGAGATCAGGAGGAAGACCAAAAGCGAAAGCAACTTTCTGGGGTTGTACTGACGCTGAGGGGCGAAAGCGTGGGGAG
+asv.529	Animalia							Metazoa	subkingdom	AGCCGCGGTAAAACGGGAGGAGCAAGCGTTATTCGGAATAATTGGGCGTAAAGTGTCCGTAGATTGTATTGTAAGTTAATAGTGAAATCCTAAAGCTCAACTTTAGAATTGCTTTTAATACTGCTATACTTGAGTTTTGTACAGAAAAGTAGAATTTTATGTTTAAGGGTGATAACTGAAGATAACATAAAGGAATACCAATAGCGAAGGCAACTTTTTGGTAAAAACTGACATTGAGGGACGAAAGTATAGGTAG
+asv.530	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGCTGATAGTACGCGGCGTAAAGAGTGATTAGGATAAACTAAAGACTAAAGCCGAAAACCCTCACGACTGTTATACGTGCCCGAGGACAAGAAGCCCAATCACGAAAGTAGCTTTATTAGTATCTGAATTCACGAAAGCTAGGGCA
+asv.531	Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Acanthocybium	Acanthocybium_solandri	Acanthocybium_solandri	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGACATCGGCGTAAAGCGTGGTTAAGGAAAATTTAAACTAAAGCCGAACACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATGACTCCTGACCCCACGAAAGCTATGACA
+asv.532								Incertae_sedis	kingdom	AGCCGCGGTAATACGAAAGGGGCAAGTGTTATTCGAAATTACTGGGCGTAAAGAGTACGTAGGCGGCTTATTAAGTTATATATTAAAGCCCCAGGCATAACCTGGGATCAGTATGTAAAACAAGTAAGCTAGAATTAGATAGGGGATAGTGGAATTTCTCATGTAGGGTTAAGTTCCGTAGATATGAGAAGGAACATCGGAAGCGAAGGCGACTATCTGGATCTATATTGACGCTGAGGTACGAAGGCGTAGGGAG
+asv.533	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Lutjanidae	Lutjanus		Lutjanus	genus	CACCGCGGTTATACGAGAGACCCAAGTTGTTAGACACCGGCGTAAAGAGTGGTTAAGATACCTCCCCCAACTAAAGCCGAACGCCCTCAGAGCTGTTATACGCATCCGAAGGTAAGAAGCCCAACCACGAAAGTGGCTTTATATTATCCGAACCCACGAAAGCTATGACA
+asv.534	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae			Pomacentridae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAGCCTTTTAAACTAAAGCCGAACCTCCTCAGAGCTGTTATACGTTCCCGAGGATATGAAGCTCCTCCACGAAAGTGGCTTTATTTATCCTGACTCCACGAAAGCTGTGAAA
+asv.535	Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron_nigropunctatus	Arothron_nigropunctatus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGTTGTTAGCTCCCGGCGTAAAGAGTGGTTAAAAACACAACATTAAACTGAGGCCGAACATCCTCAAGGCAGTTATACGCTCCCGAGGACATGAAGAACAATTACGAAAGTAGCCCCACCCCATTTGAACCCACGAAAGCTAGGACA
+asv.536	Animalia	Chordata	Teleostei	Siluriformes				Siluriformes	order	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAAAGACCCCAGTTGACAACTACGGCGTAAAGGGTGGTTAAGGAACATATAAAATAAAGCCAAAGGCCCTCTAAGCCGTCATACGCACTCCGAAAGTACGAAGCCCCCACACGAAAGTAGCTTTAAATACATAAACCCCTGACCCCACGAAAGCTAAGAAA
+asv.537	Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus_crocodilus	Tylosurus_crocodilus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCTAAGTTGATAGCTTCCGGCGTAAAGAGTGGTTAAGGAAATCCCTAAACTAAAGCCGAATATTTTCACAGCTGTCATACGCACCCGAAAATAAGAAACCCCACCACGAAAGTGGCTTTAACCCACCCGACCCCACGAAAGCTGTGGAA
+asv.539	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGACCCAAGTTGTTAGATACCGGCGTAAAGAGTGGTTAAGATCAACTAAAAACTAAAGCCGAACGCCCTCAGAGCTGTTATACGCATCCGAAGGTAAGAAGCCCAACTACGAAAGTGGCTTTATAATGTCTGAACCCACGAAAGCTATGGTAC
+asv.540	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GTCGGTAAAACTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGACAAACTTCCTCACTAAAGCTAAAGACCCCTTAGGCTGTTATACGCACCTGGGGACTCGAACCACCTATACGAAAGTAGCTTTATTCTATTCCACCAGAATCCACGACAGCTGGGGCA
+asv.541	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCTACCGCGGTTATACGAGAGGCCCAAGCTGATAGACAGCGGCGTAAAGCGTGGTTAAGGAGACACAAACAACTAAAGCCGAACATTTTCAGGGTCGTTGCAGACTTCACGAAATATGGAAGATCAATCACGAAAGTAGCTTTATACCTCCCAAACCCACGAAAGCTAAGGAA
+asv.542	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Labridae	Halichoeres		Halichoeres	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGTGGATGGTCTTCGGCGTAAAGAGTGGTTAAGATAAAACCCAAAACTAAAGCCAAATAACTTCAAAGCTGTTATACGCGCATGAAGAAAAGAAACTCAACCACGAAAGTGGCTTTAAACCCCTGATTCCACGAAAGCTATGGTA
+asv.543	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGTAGGCCCAAGTCGATAGCTTCCGGCGTAAAGCGTGGTTAAGGCCTAAATCTAAACTAAAGTTGAACTCCTTCAAGCAAGTGAAATGATCATCGATAAGGAGAAGCCCACCTACGAAAGTGATTTTACTTAACCTGACCCCACGAAAGCTAAGGCA
+asv.544	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGTTAGCGTTGTTCGGAATTACTGGGCGTAAAGCGCACGTAGGCGGATTAATAAGTCAGGGGTGAAATCCCGAGGCTCAACCTCGGAACTGCCTTTGATACTGTTAATCTTGAGTTCGAGAGAGGTGAGTGGAATTCCGAGTGTAGAGGTGAAATTCGTAGATATTCGGAGGAACACCAGTGGCGAAGGCGGCTCACTGGCTCGATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.545	Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Euthynnus	Euthynnus_affinis	Euthynnus_affinis	species	CACCGCGGTTATACGAGAGGCCCAAGTTGACAGACACCGGCGTAAAGCGTGGTTAAGGTAAACTAAAACTAAAGCCGAATACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATGACCCCTGACCCCACGAAAGCTATGACACA
+asv.546	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGTAGGGTGCAAGCGTTGTTCGGAATCACTGGGCGTAAAGGGCGTGTAGGCGGAACGATTAGCGAGGGGTGAAATCCCGGGGCTCAACCCCGGAACTGCTCTTCGAACTGTCGATCTAGAGAAGGTCAGGGGCCGGCGGAATTCCTGGTGTAGAGGTGAAATTCGTAGAGATCAGGAGGAACATCGGAGGCGAAGGCGGCCGGCTGGGGCCATTCTGACGCTGAGGCGCGAAAGCGTGGGGAG
+asv.547	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAGAGGGGCAAGTGTTATTCGGAATGACTAGGCGTAAAGCGCACATAGACTGTTTTTTAAGTTGAAATTTAAAGTAGGGAGCTTAACTTCTAAATTGGTTTCAATACTATTAAACTAGAGTAAGTATAGAGGATAGTGGAATTTTTAATAAAGAGTTGAAATTCGTCGACATTAGAAGGAAGGCCAATGGCGAAGGCAACTATCTAGTTCTTAACTGACGTTGTTGTGCGAAAGCATGGGTAG
+asv.548	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGTAGGATGCAAGCGTTGTTCGGAATTATTGGGCGTAAAGCGTACGTAGGCGGTTTAGTAAGTCTGCCATTAAAGACCGGAGCTTAACTTCGGGGTTGTGGCGGATACTGCTAGACTAGAGGACAGTAAAGGAAGTCGGAATTCTCAGTGTAGCGGTGAAATGCGTAGATATTGGGAAGAACACCGGTGGCGAAAGCGGACTTCTAGGCTGTTACTGACGCTCAGGTACGAAAGCGTGGGTAG
+asv.549	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAGAGGGGCAAGTGTTATTCGGAATGACTAGGCGTAAAGCGCACATAGACTGTTTTTTAAGTTGAAATTTAAAGTAGGAAGCTTAACTTCTAAATTGGTTTCAATACTAATAAACTAGAGTAAGTATAGAGGATAGTGGAATTTTTAATAAAGAGTTGAAATTCGTCGACATTAGAAGGAAGGCCAATGGCGAAGGCAACTATCTAGTTCTTAACTGACGTTGTTGTGCGAAAGCATGGGTAG
+asv.550	Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron_hispidus	Arothron_hispidus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGTTGTTAGCCCCCGGCGTAAAGAGTGGTTAAAAACACAACATTAAACTGAGACCGAACACCCTCAAGGCAGTTATACGCTCCCGAGGGCATGAAGAACAATTACGAAAGTAGCCTCACCCCATTTGAACCCACGAAAGCTAGGGCA
+asv.551	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	CACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGAACTTCTTTACTAAAGCAGAAAACCTCTCAAACTGTTATACGCACCCAGAGGTTGAAATTTCTTACACGAAAGTGACTTTATCTTCGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.552	Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus	GTCGGTAAAACTCGTGCCAGCCACCGCGGTTATACGAGAGACCTAAGTTGACAGGCAATCGGCGTAAAGAGTGGTTAAGTAATACATTTCACTAAAGCCAAACACCTTCAAAGCTGTTATACGCACCCGAAGACCAGAAGCCCAATCACGAAAGTGGCTTTAAACTAACTGAACCCACGAAAGCTAGGGCA
+asv.553	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCAAGCGTTGCTCGGAATCACTGGGCGTAAAGCGAACGCAGGCGGACCGTTAAGTTGGGTGTGAAAGCCCGGGGCTCAACCCCGGAACTGCATTCAAAACTGGCGGTCTTGAGTACGGGAGAGGGAAGTGGAATTCCTGGTGTAGAGGTGAAATTCGTAGATATCAGGAGGAACACCCGTGGCGAAAGCGGCTTCCTGGCCCGAGACTGACGCTCATGTTCGAAAGCGTGGGGAG
+asv.554	Animalia							Metazoa	subkingdom	AGCCGCGGTGATACGGGAGGGGCAAGCGTTATCCATCTTAACTGGGCGTAAAGTGTCTGTAGACGGTAAAATAAGTTCTTAGTTTAAATATTAAAGCCTAACTTTATAAAGCTTTGAATACTGTTTGTACTTTGAGTTTTATACAGAAGAGTAGAATTCTATAAGGAAGGGTAAAATCTGTAGATATATAGAGGAATACCGTCAGCGAAGGCGACTCTTTAGTAAAAACTGACGTTGAGAGACGAAAGCGTGGGTAG
+asv.555	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCTACCGCGGTTATACGAGAGGCCCAAGCTGATAGACAGCGGCGTAAAGCGTGGTTAAGGAGACACAAACAACTAAAGCCGAACATTTTCAGGGTCGTTGCAGACTTCACGAAATATGGAAGATCAATCACGAAAGTAGCTTTATACCTCCTGAACCCACGAAAGCTAAGGAA
+asv.556	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTTGTTGTTTAAGTCAACTGTTAAATCTTGAGGCTCAACTTCGAAATCGCAGTCGAAACTATTCAACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.557	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGAGGGTGCAAGCGTTGTTCGGAATTACTGGGCGTAAAGCGGGCGTAGGCGGTTTATCAAGTCTGGTGTGAAATCCCGGGGCTCAACCCCGGACGTGCACTGGAAACTGGTGAACTTGAGTACTGGAGAGGGTGGTGGAATTCCCGGTGTAGAGGTGAAATTCGTAGATATCGGGAGGAACATCAGAGGCGAAGGCGGCCACCTGGACAGATACTGACGCTGAGGTCCGAAAGCGTGGGGAG
+asv.558	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGGTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.559	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGTTAGCGTTGTTCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGATTGGAAAGTTGGGGGTGAAATCCCGGGGCTCAACCCCGGAACTGCCTTCAAAACTCCCAGTCTAGAGTTCGAGAGAGGTGAGTGGAATTCCGAGTGTAGAGGTGAAATTCGTAGATATTCGGAAGAACACCAGTGGCGAAGGCGGCTCACTGGCTCGATACTGACGCTGAGGTGCGAAAGTGTGGGGAG
+asv.560	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAATACAGGGGATGCAAGTGTTATCCGGAATTATTGGGCGTAAAGCGTCTGCAGGTTGATCTACAAGTCTTTTGTTAAATTTTCAGGCTTAACCTGAAGTCAGCAAAAGAAACTGTTTATCTTGAGTATGGTAGAGGTAAGGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCAACAGCGAAGGCACCTTACTGGGCCATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.561	Animalia	Chordata	Teleostei	Anguilliformes	Ophichthidae	Myrophis	Myrophis_vafer	Myrophis_vafer	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGGGGCCCAAACTGATATTCAACGGCGTAAAGCGTGATTAGAGAGAACATACAACTAAAGGAGAACATCCCCCAGGCTGTCATACGCTAACGGAATGATTGAACCCCCACAACGAAAGTGCCTTTAAGAAGCCTTGAACTCACGAGTATTAGGAAA
+asv.562	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx		Caranx	genus	CACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGCGTGGTTAAGGAAAACATACAACTAAAGCGGAACCTCCTCCTAGCTGTTATACGCTTCCGAGGAAGTGAACTCCAACTACGAAAGTGGCTTTACCTAACCTGAACCCACGAAAGCTAAGAAACAAACTGAGATTAGATACCTCACTAAG
+asv.563	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACCCAAGCTGAGATTAGATACCTCACTATG
+asv.564	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTTAATTTCGTGCCAGCCTCCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.565	Animalia	Chordata	Mammalia	Primates	Hominidae		Pan_troglodytes	Hominidae	family	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAACCGGCATAAAGAGTGTTTTAGATCAATTCCCCTCAATAAAGCTGAAATTCACGTGAGTTGTAAAAAACTCCAGTTGATACAAAATAAACTACGAAAGTGGCTTTAATGCATCTGAACACAGAATAACTAAGACC
+asv.566	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Labridae	Halichoeres		Halichoeres	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAAACCCAAGTGGATGGTCTTCGGCGTAAAGAGTGGTTAAGATAAAACCCAAAACTAAAGCCAAATAACTTCAAAGCTGTTATACGCGCATGAAGAAAAGAAACTCAACCACGAAAGTGGCTTTAAACCCCTGATTCCACGAAAGCTATGGTA
+asv.567	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAAGACGAACCGTACGAACGTTATTCGGAATTACTGGGCTTAAAGGGTGCGTAGGCTGTACGGAAAGTTGGGTGTGAAAGCCCTCAGCTCAACTGAGGAATTGCATCCAAAACTGCCGTGCTAGAGGGAGACAGAGGTGAGCGGAACTCAAGGTGGAGCGGTGAAATGCGTTGATATCTTGAGGAACACCGGTGGCGAAAGCGGCTCACTGGGTCTCTTCTGACGCTGAGGCACGAAAGCTAAGGTAG
+asv.568	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCCAAGTTGACAACCACCGACGTAAAGCGTGGTTAAGATAAACTAAAAAATAAAGCCGAATGCCTTCAAGACTGTCATACGTTATTCGAGGGTAAGAAGCCCAACAACGAAAGTGGCTTTATGACCCTGAATCCACGAAAGCTAGGGCA
+asv.569	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAAAACACGGCGTAAAGGGTGGTTAATAGAAAAATTACTAAAGCCGAACACCCTCCAGGCTGTCATACGCACCTGAGGGCAGGAAGTCCCACCACGAAAGTGACTTTATAAGCTATGAAGCCACGAAAGCTAGAAAA
+asv.570	Animalia	Chordata	Mammalia					Mammalia	class	CACCGCAGCCATACGATTAACCCAAGCTAATAGAACCCAGCTTAAAGAGTGTTTTAGATCTGTTCTCAATAAAGCTAAGCTTCATCTAAGTTGTAAAAAACCCTAGCTGAAATAAAATAAACTACGAAGGTGAATTTAATATTTCTGAGGACACAATAGCTAAGACCCAA
+asv.571	Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil_curema	Mugil_curema	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAGACACCGGCGCAAAGAGTGGTTAGGTAACTTAATAAACTAAAGCCGAACGCCCCCAAGGCTGTTATACGTGCTCGGAGTTATGAAGCCCAACTACGAAAGTGGCTTTAACTATATCTGAACCCACGAAAGCTGTGAAA
+asv.572	Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus_crocodilus	Tylosurus_crocodilus	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCTAAGTTGATAGCTTCCGGCGTAAAGAGTGGTTAAAGAAATCCCTAAACTAAAGCCGAATATTTTCACAGCTGTCATACGCACCCGAAAATAAGAAGCCCCACCACGAAAGTGGCTTTAACCCACCCGACCCCACGAAAGCTGTGGAA
+asv.573	Animalia	Chordata	Mammalia	Primates	Hominidae		Pan_troglodytes	Hominidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAACCGGCGTAAAGAGTGTTTTAGATCAATTCCCCTCAATAAAGCTAAAATTCACCTGAGTTGTAAAAAACTCCAGTTGATACAAAATAAACGACGAAAGTGGCTTTAACGCATCTGAACACACAATAGCTAAGACC
+asv.574	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Lutjanidae			Lutjanidae	family	CACCGCGGTTATACGAGAGACCCAAGTTGTTAGACACCGGCGTAAAGAGTGGTTAAGATCAACTAAAAACTAAAGCCGAACGCCCTCAGAGCTGTTATACGCATCCGAAGGTAAGAAGCCCAACTACGAAAGTGGCTTTATAATGTCTGAACCCACGAAAGCTATGGTAC
+asv.575	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAAAACACGGCGTAAAGGGTGGTTAATAGAAAAATTACTAAAGCCGAACACCCTCCAGGCTGTCATACGCACCTGAGGGCAGGAAGTCCCACCACGAAAGTGACTTTATAAGCTATGAAGCCACGAAAGCTAGAAAA
+asv.576	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAATAGCTCGGCGTAAAGAGTGGTTAAATTTACTATTAACTAAAGCCGAACCCCCTCACAACTGTCATACGTATTCGAGGGTAAGAAGCACTAATACGAAAGTAGCTTTAACATTTTGACCCCACGAAAGCTGGGAAA
+asv.577	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGATAATAGCTCGGCGTAAAGAGTGGTTAAATTTACTATTAACTAAAGCCGAACCCCCTCACAACTGTCATACGTATTCGAGGGTAAGAAGCACTAATACGAAAGTAGCTTTAACATTTTGACCCCACGAAAGCTGGGAAA
+asv.578	Animalia							Metazoa	subkingdom	AGCTGCGGTTATACGGAAGGGGCGAACGTTACTCGAAATTATTGGGCGTAAAGTGTTCGTAGGCGGTTTGATAAGTTATTTGTTAAATGTATGGTTTTTAACTTAGAAAAGCATTTAATACTTTAAAACTTGAGTATAGTAGGGGATAACAGAATTTTATGTATAGGGGTAAAATCCCATAATTTGTGAAAGAATGTCAGCAGCGAAGGCGGTTATCTGGATTATTTACTGACGTTGAGGAACGAAAGCTTAGGGAG
+asv.579	Animalia	Chordata	Teleostei	Acanthuriformes	Chaetodontidae	Chaetodon		Chaetodon	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACTCAAGCTGATAATCGTCGGCGTAAAGTGTGGTTAAGATATATTTACACTAGAGCTGAATGCCCTCAAAGCTGTTACACGCCCTCGAAGGTAAGAAACCCAACTACGAAAGTGACTCTGCTATATCCGATTCCACGAAAGCTAGGGCA
+asv.580	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAAAAGCCGGCGTAAAGCGTGGTTAGTAGTAATTAAACTAAAGCCGAACACCTTCAAGGCTGTTATACGCACCCGAAGGCAGGAAGCCCTGCTACGAAAGTGGCTTTAAACATTATGACCCCACGAAAGCTAGGAAA
+asv.581	Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Acanthocybium	Acanthocybium_solandri	Acanthocybium_solandri	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGACATCGGCGTAAAGCGTGGTTAAGGAAAATTTAAACTAAAGCCGAACACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATGACTCCTGACCCCACGAAAGCTATGACA
+asv.582	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGAGCTAGCGTTGTTCGGAATTACTGGGCGTAAAGAGCGTGTAGGCTGTTAGGTAAGTCAGAGGTGAAATCCCTAAGCTCAACTTAGGAACTGCCTTTGATACTATCTTACTAGAGATCGAGAGAAGTTAGCGGAATTCCAAGTGTAGAGGTGAAATTCGTAGATATTTGGAAGAACACCAGTGGCGAAAGCGGCTAACTGGCTCGTATCTGACGCTGAGACGCGAAAGCGTGGGTAG
+asv.583	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAGTAAGTCAACTGTTAAATCTTGAAGCTCAACTTCAAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.584	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGTAGGGGGCGAGCGTTGTCCGGATTTATTGGGCGTAAAGAGCTCGTAGGCGGTTCAACAAGTCGTTCGTGAAAGTTCAGGGCTCAACCCTGAAATGTCGATCGATACTGTTGTGACTAGGATACGGTAGAGGTGAGTGGAATTCCGAGTGTAGCGGTGAAATGCGTAGATATTCGGAGGAACACCAATTGCGAAGGCAGCTCACTGGGCCGCTATCGACGCTGAGGAGCGAAAGCTAGGGGAG
+asv.585	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACCCAAACCGAGATTAGATACCTCACTATG
+asv.586	Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil_curema	Mugil_curema	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAGACACCGGCGCAAAGAGTGGTTAGGTAACTTAATAAACTAAAGCCGAACGCCTCCAAGGCTGTTATACGTGCTCGGAGGTATGAAGCCCAACTACGAAAGTGGCTTTAACTATATCTGAACCCACGAAAGCTGTGAAA
+asv.587	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACCCGAACTGAGATTAGATACCTCACTATG
+asv.588	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGGGGATGCAAGCGTTATCCGGAATCATTGGGCGTAAAGCGCCTGTAGGTTGTTTAATAAGTCTGTTGTTAAAGACTAGGGCTTAACCCTAGGAAAGCAATGGAAACTACTAGACTAGAGTATGATAGGGGTAGAGGGAATTTCTAGTGTAGCGGTGAAATGCGTAGATATTAGGAAGAACACCGGTGGCGAAGGCGCTCTACTGGATCATTACTGACACTCAGAGGCGAAAGCTAGGGTAG
+asv.589	Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGGGGCCCAAATCGACGCCCCACCGGCGTAAAGTGTGGTTAGAGGAAACCTCAAACTGGAGCCAAACAGCCCCTATGCTGTCATACGCTAATGGGACCAACGAAGACCAACAACGAAAGTGGCTCTATAACCCTTGAACTCACGACAGCCAGGCCA
+asv.590	Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus_crocodilus	Tylosurus_crocodilus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCTAAGTTGATAGCTTCCGGCGTAAAGAGTGGTTAAAGAAATCCCTAAACTAAAGCCGAATATTTTCACAGCTGTCATACGCACCCGAAAATAAGAAGCCCCACCACGAAAGTGGCTTTAACCCACCCGACCCCACGAAAGCTGTGGAA
+asv.591	Animalia	Chordata						Actinopteri	superclass	CGCCGCGGTTACACGAGAGGCTCACGTTGATAACCCCGGCGTAAAGCGTGGTTAAGAAATATAATACTAAAGCCGAACATCTTCAAAGCTGTCATACGCACTCGAAGAAAAGAAGACCCTCACGAAAGTAGCTTTAAAACCTCTGAACCCACGAAAATTAGGATACAAAC
+asv.592	Animalia	Chordata	Mammalia					Mammalia	class	GGGTTGGTAAATTTCGTGCCAGCCACCATGATCATACGATTAACCCAAACTAATAAAATCTGGTGAAAAGCGTGTTTAAGGTAAACCTACAGTAAAGCTGAACTCCGTCTAAGCTGTAAAAAGCTTCAACTGAAGTAAAAATAAACTACAAAAGTGACTTTAACACCCTGAAAACACGATAGCTAAGACT
+asv.593	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	CACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGGATTTTTCCCCTTTAAAGCAGAAAACCTCTCAAACTGTTATACGCACCCAGAGGTTGAAACCCCTTACACGAAAGTAACTTTATATTAGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.594	Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Thunnus		Thunnus	genus	CACCGCGGTTATACGAGAGGCCCAAGTTGACAGACACCGGCGTAAAGCGTGGTTAAGGTACACGAAAACTAAAGCCGAACACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATGAACCCTGACCCCACGAAAGCTATGACACA
+asv.595	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTTGTTGTTTAAGTCAACTGTTAAATCTTGAGGCTCAACTTCAAAATCGCAGTCGAAACTATTCAACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTAACACTCAGAGACGAAAGCTAGGGTAG
+asv.596	Animalia	Chordata	Teleostei	Anguilliformes				Anguilliformes	order	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGGGGCCCAAATCGACGCCCCACCGGCGTAAAGTGTGGTTAGAGGAAACCTCAAACTGGAGCCAAACAGCCCCTATGCTGTCATACGCTAATGGGACCAACGAAGACCAACAACGAAAGTGGCTCTATAACCCTTGAACTCACGACAGCCAGGCCA
+asv.597	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGTGACTCAAGTTGATAGATTTCGGCGTAAAGCGTGGCTAAGAAGAGATTAAATTAAAGTCAAATACCGTTACAGCAGTGAAATGTTTATGACGGCAAAGAAGCCCAATCACGAAAGTGGCTTTATTATTTCTGATTCCACGAAAGCTAGGGCAC
+asv.598	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAGGGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGTACGCAGGCGGTTTGTTAAGCGAGATGTGAAAGCCCCGGGCTCAACCTGGGAACTGCATTTCGAACTGGCAGACTAGAGTGTGATAGAGGGTGGTAGAATTTCAGGTGTAGCGGTGAAATGCGTAGAGATCTGAAGGAATACCGATGGCGAAGGCAGCCACCTGGGTCAACACTGACGCTCATGTACGAAAGCGTGGGGAG
+asv.600	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae			Pomacentridae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAGCCTTTTAAACTAAAGCCGAACCCCCTCAGAGCTGTTATACGTTCCCGAGGATATGAAGCTCCTCCACGAAAGTGGCTTTATTTACCCTGACTCCACGAAAGCTGTGAAA
+asv.601	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACCCAGACTGAGATTAGATACCTCACTATG
+asv.602								Incertae_sedis	kingdom	AGCTGCGGTTATACGGAAGGGGCGAACGTTACTCGAAATGATTGGGCGTAAAGAGTTTGTAGGCGGTTTGATAAGTTATTTGTTAAATGTATGGTTTTTAACTTAGAAAGGCATTTAATACTTTAAAACTTGAGTATAATAGAGGATAACAGAATTTTATACATAGGGGTAAAATCCTATAATTTATAAAAGAATGTCAGCAGCGAAGGCGGTTGTCTGGGTTATTTACTGACGTTGAGAAACGAAGGCTTAGGGAG
+asv.603	Animalia	Chordata	Elasmobranchii	Carcharhiniformes	Carcharhinidae	Carcharhinus		Carcharhinus	genus	CACCGCGGTTATACGAGTAACTCATATTAACACACCCCGGCGTAAAGAGTGATTAAAGAATGACCTCTAACTACTAAAGTTTAGACCTCATAAAACTGTTATACGTATCCATGAGTGGAATAAACAACAACGAAAGTGACTTTATATATTAAGGAACCTTGATGTCACGACAGTTGGGACC
+asv.604	Animalia	Chordata						Chordata	phylum	GGGTTGGTTAATTTCGTGCCAGCCACCGCGACCATATGATTAACCCGAGCTGACAGAACTCAGCGTAAAGAGTGTTTAATTAAGGTCTACCCTCAATAAAGCTAAACTCCAATTGAGTTGTAAAAAACTACAGCTGAAATAAAATATACTACGAAAGTGGCTTTAATACCCTGAAGACACAATAGCTAAAACC
+asv.606	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAGTAAGTCGACTGTTAAATCTTGAGGCTCAACCTCAAAATCGCATTCGAAACTACTAGACTAGAGTATAGTAGAGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAACGAACACCGATGGCGAAAGCACTTTACTGGGCTATTACTAACACTCAGAGACGAAAGCTAGGGTAG
+asv.607	Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae			Gobiidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCGAGTTGACAAACTCCGGCGTAAAATGTGGTTATTATAGTATTGCACTAAAGCCAAACATCTTCAAAGCTGTTATACGCTCCTGAAGACAGGAGGCCCGCCCACGAAAGTGGCTTTAAAATATAAGTACCACGAAAGCTAGGAAA
+asv.608	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAAAGGGGCTAGCGTTGTTCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGACTAACAAGTTGGGGGTGAAATCCCGGGGCTCAACCTCGGAACTGCCTCCAAAACTGTTAGTCTAGAGGATGTGAGAGGATAGTGGAATTCCGAGTGTAGAGGTGAAATTCGTAGATATTCGGAAGAACACCAGTGGCGAAGGCGACTGTCTGGCACATTTCTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.609	Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon_holocanthus	Diodon_holocanthus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGTTAGGCATCGGCGTAAAGGGTGGTTAAGGCAAATCTCCAAACTAAAGCCGAACATCTTCCAAGCCGTCATACGCACACGAAGACAAGAAGCCCGATAACGAAAGTGGCTCTAACCTGCCTGAACCCACGAAAGCTATGACA
+asv.610	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGCTGATAGTACGCGGCGTAAAGAGTGATTAGGATAAACTAAAGACTAAAGCCGAAAACCCTCACGACTGTTATACGTGCCCGAGGACAAGAAGCCCAATCACGAAAGTAGCTTTATTAGTATCTGAATTCACGAAAGCTAGGGCA
+asv.611	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae	Abudefduf		Abudefduf	genus	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAACTTATTAAACTAAAGCCGAACGCTCTCAGAACTGTTATACGTTTCCGAAGGTAAGAAGCCCCACCACGAAAGTGACTTTATTTTCCCCGACTCCACGAAAGCTGCGGAA
+asv.612	Animalia	Chordata						Chordata	phylum	GTTGGTAAATCTCGTGCCAGCCACCGTGGTCATACAATTTACCCAAGCGAATAAAACCTGGTTAAACGTGTGTTTAAGATAACCCTCATAATATAGTTAAACTAAGTCGTAAAAAGCTGCAGTTAAAATAAAAATAAACTATGAAAGTGACTTTATTGCCCTGAGGACATGATAGCTAAGGCC
+asv.613								Incertae_sedis	kingdom	AGCCGCGGTAATACGGGAGGGGCAAGCGTTATCTGGAATAACTGGGCGTAAAGTGTTCGTAGACTGTATAGTAAGTTATTTGTTAAAACCTAAAGCTTAACTTTAGAACAGCATTTAATACTACTTTACTTGAGTTTTAATCAGAAAAGCAGAATTTCATGTCGAGGAGTAACGCCCGTAGACACATGGAGGAATATCTAAAGTGAAGACAGCTTTTTGGTAACAACTGACGTTGAGGGACGAAAGTGTAGGTAG
+asv.614	Animalia	Chordata	Teleostei	Gobiiformes	Eleotridae	Eleotris	Eleotris_picta	Eleotris_picta	species	GGGTTGGTAAATTTCGTGCCAGCCGCCGCGGTTATACAAGGGGCTCAAGTTGATAGCTATCGGCGTAAAGAGTGGTTAAGACACCCAACACTAAAGCCAAACACCTTCAAAGCTGTTATACGCACCCGAAGACAGGAAGACCTCTCACGAAAGTAGCTTTAAAATTTCTGAACCCACTAAAGCCAGGACA
+asv.615	Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron_hispidus	Arothron_hispidus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGTTGTTAGCCCCCGGCGTAAAGAGTGGTTAAAAACACAACATTAAACTGAGACCGAACACCCTCAAGGCAGTTATACGCTCCCGAGGGCATGAAGAACAATTACGAAAGTAGCCTCACCCCATTTGAACCCACGAAAGCTAGGGCA
+asv.616	Animalia	Chordata						Chordata	phylum	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGTAGGCCCAAGTCGATAGCTTCCGGCGTAAAGCGTGGTTAAGGCCTAAATCTAAACTAAAGTTGAACTCCTTCAAGCAAGTGAAATGATCATCGATAAGGAGAAGCCCACCTACGAAAGTGATTTTACTTAACCTGACCCCACGAAAGCTAAGGCA
+asv.618	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTTGTTAGACAAGTCAACTGTTAAATCTTGGGGCTTAACTTCAAAATTGCAGTCGAAACTGTTTGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCAATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.619	Animalia							Metazoa	subkingdom	CACTGCGTCATAAAATTAAACCAAATTAATAAAACTCGGTGTAAAGCAATTTTAAGATTCTTATCTTAATCTAGCTTAACTTTACGCTGTAAAAACCTGCCCCTAAATTAAAATAAGCTATGAAAATGACTTTAATGTTCTCATAACACAATAGCTAAGGCCCAAACTGA
+asv.620	Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family	CACCGCGGTTATACGAGAGGCCCAAATCGATGCTTCACCGGCGTAAAGTGTGATTAGAGAAAACGAAAACTAAGGCCAAATATTCCTTATGCTGTCATACGCTAATAGGACACAAGAAGAACAACTACGAAAGTGGCTTTACTACCCTTGAACTCACGACAGCCAGATCA
+asv.621	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACCCAAACTGAGACTAGATACCTCACTATG
+asv.622	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTAAACAAGTCAACTGTTAAATCTTGAGGCTCAACTTCAAAATCGCAGTCGAAACTGTTTGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.623	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAAAGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGCTTGGTAAGTTGGGTGTGAAAGCCCCGGGCTCAACCTGGGAACTGCATCCAAAACTGCCTGGCTAGAGTATGGTAGAGGATGGCGGAATTTCCTGTGTAGCGGTGAAATGCGTAGATATAGGAAGGAACATCAGTGGCGAAGGCGGCCGTCTGGACCAATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.624	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGTAGGCCCAAGTCGATAGCTTCCGGCGTAAAGCGTGGTTAAGGCCTAAATCTAAACTAAAGTTGAACTCCTTCAAGCAAGTGAAATGATCATCGATAAGGAGAAGCCCACCTACGAAAGTGATTTTACTTAACCTGACCCCACGAAAGCTAAGGCA
+asv.625	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGGGGGGCCCAAGTTGATAGTTACCGGCGTAAAGCGTGGTTAAGCAAAAATTAAAACTAAAGCCGAATGCACACAAAGCTGTTATACGCCTCTTCGAAAACAGAAGCTCAATTACGAAAGTAGCTTTACATCAGCTGACCCCACGAAAGCTAGGGCA
+asv.626	Animalia	Chordata	Teleostei	Perciformes				Perciformes	order	TACCGCGGTTATACGAGAGGCCCAAGTTGATAGACATCGGCGTAAAGAGTGGTTAAGGATAAATGATTACTAAAGCTGAACACTTACAAGGCTGTTATACGCTCCCGAAAGTAAGAAGAACAACTACGAAAGTGGCTTTATAATACCTGAACCCACGAAAGCTAAGACAC
+asv.627	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGCCCCTCGGCGTAAAGAGTGGTTAAATTTTGTATCACTAAAGCCGAACGCTTTCACTACTGTCATACGTACTCGAAAGTAAGAAGCCCCTTCACGAAAGTAGCTTTATATTTATTGACCCCACGAAAGCTGTGTAA
+asv.628	Animalia	Chordata	Teleostei	Centrarchiformes	Kyphosidae	Kyphosus		Kyphosus	genus	CACCGCGGTTATACGAGAGGCCCAAGTTGATAGACTCCGGCGTAAAGAGTGGTTAAGATACATCTACAAAACTAAAGCCGAACGCCCTCAGGGCTGTTATACGCTCCCGAAGGTAAGAAGTTCAATCACGAAAGTGGCTTTATATTAGCTGAACCCACGAAAGCTATGACA
+asv.629	Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron_hispidus	Arothron_hispidus	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGTTGTTAGCCCCCGGCGTAAAGAGTGGTTAAAAACACAACATTAAACTGAGACCGAACACCCTCAAGGCAGTTATACGCTCCCGAGGGCATGAAGAACAATTACGAAAGTAGCCTCACCCCATTTGAACCCACGAAAGCTAGGGCA
+asv.630	Animalia	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos_taurus	Bos_taurus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAGCTAACAGGAGTATGGCGTAAAACGTGTTAAAGCACCATACCAAATAGGGTTAAATTCTAACTAAGCTGTAAAAAGCCATGATTAAAATAAAAATAAATGACGAAAGTGACCCTACAATAGCCGACGCACTATAGCTAAGACC
+asv.631	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTTGTTAAACAAGTCAACTGTTAAATCTTGAGGCTCAACTTCAAAATCGCAGTCGAAACTGTTTGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.633	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGATGAACCCCACACTAAAGCTAAAGACCCCCTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATACGAAAGTAGCTTTACTCCCTTCCACCAGAACCCACGACAGCTGGGGCA
+asv.634	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Labridae	Halichoeres		Halichoeres	genus	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAAACCCAAGTGGATGGTCTTCGGCGTAAAGAGTGGTTAAGATAAAACCCAAAACTAAAGCCAAATAACTTCAAAGCTGTTATACGCGCATGAAGAAAAGAAACTCAACCACGAAAGTGGCTTTAAACCCCTGATTCCACGAAAGCTATGGTA
+asv.635	Animalia	Chordata						Chordata	phylum	CACTGTGGCCATACAATTAACCCAAGCTAATAGAACTCAGCGTAAAGAGTGTTTAAGATCTGCCCTCAATAAAGCTAAACTCCATTTAAGTTGTAAAAAACTTAGGCTGAAATAAAACATACTACGAATGTGGCTTTAATATCCTGAAGACACGACAGCTAAGATCCAAA
+asv.637	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAAGACAGAAGGGGCAAGTGTTATTCAGAATAATTGGGCGTAAAGGGCACGTAGGCTGCTTTTTGTGGAATTGGTTACAACCCAGAGCTTGACTGTGGATCCGCCTTTTCAACTGAGAAGCTTGAGCTTGAAAGAGGATACTAGAATTTCGAGTGGAGAGGTAAAATTCATAGAGATTCGAAGGAATACCAAATGCGAAGGCATGTATCTGGTTCAAAGCTGACGCTGAGGTGCGAAAGCATGGGGAG
+asv.638	Animalia	Chordata	Teleostei	Carangiformes	Istiophoridae	Istiophorus	Istiophorus_platypterus	Istiophorus_platypterus	species	CACCGCGGTTATACGAGAGGCCCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAACCCAAAAACTAAAGCCGAACGCTCTCAGAGCTGTTATACGCATCCGAAGGTATGAAGCCCAACTACGAAAGTGGCTTTACATCACCCGAACCCACGAAAGCTAAGAAAC
+asv.639	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGGGGGGCCCAAGTTGATAGAAGCCGGCGTAAAGGGTGGTTAAGAGCAAGTTTAAAATTAGAGCCGAATGCTTTCCTGGCTGTTATACGCATCCGAAAGTAAGAAGTCCAATTACGAAAGTAGCTTTATATAATCTGAACCCACGAAAGCTAAGACA
+asv.640	Animalia	Chordata	Mammalia	Primates	Hominidae		Pan_troglodytes	Hominidae	family	GTTGGTAAATCTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAACCGGCATAAAGAGTGTTTTAGATCAATTCCCCTCAATAAAGCTGAAATTCACGTGAGTTGTAAAAAACTCCAGTTGATACAAAATAAACTACGAAAGTGGCTTTAATGCATCTGAACACAGAATAACTAAGACC
+asv.641	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGTTAGCGTTGTTCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGATTAGAAAGTTGGGGGTGAAATCCCGGGGCTCAACCCCGGAACTGCCTCCAAAACTGCTAGTCTAGAGTTCGAGAGAGGTGAGTGGAATTCCGAGTGTAGAGGTGAAATTCGTAGATATTCGGAGGAACACCAGTGGCGAAGGCGGCTCACTGGCTCGATACTGACGCTGAGGTGCGAAAGTGTGGGGAG
+asv.642	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGCTCGTAGGCGGTTTGTTGAGTCGGATGTGAAAGCCCCGGGCTTAACCTGGGAATTGCATTCGATACTGGCAGACTAGAGTATGGTAGAGGCAAGCGGAATTCCGGGTGTAGCGGTGAAATGCGTAGATATCCGGAGGAACATCAGTGGCGAAGGCGGCTTGCTGGACCAATACTGACGCTGAGGAGCGAAAGCGTGGGGAG
+asv.643	Animalia							Metazoa	subkingdom	AGCCGCGGTAAGACGGGGGATGCAAGTGTTATCCGGAATTATTGGGCGTAAAGCGTCTGTAGGTTGTTTAACCAGTCTATTGTTAAAGCTTGAAACTTAACTTCAGAGATGCAGTAGAAACTATTAAACTAGAGTATAATTGAGGTAGAAGGAATTTCCAGTGGAGTGGTGAAATGCGTAGATATTGGAAAGAACACCAATTGCGAAGGCATTCTATTAAATTATTCTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.644	Animalia	Chordata	Aves	Galliformes	Phasianidae	Gallus	Gallus_gallus	Gallus_gallus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACAAGAAACCCAAATCAATAGCTACCCGGCGTAAAGAGTGGCCACATGTTATCTGCACCAGCTAAGATTAAAATGCAACCAAGCTGTCATAAGCTTAAGATCCACCTAAACCCAACCCAAATCCATCTTAGTCTCAACGATTAATTTTAACCCACGAAAGCTAGGACC
+asv.645	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Caranx	Caranx_sexfasciatus	Caranx_sexfasciatus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGCGTGGTTAAGGAAAATATGTAACTAAAGCGGAACCTCCTCCTAGCTGTTATACGCTTCCGAGGAAGTGAACCCCAACTACGAAAGTGGCTTTATCCAACCTGAACCCACGAAAGCTAAGAAA
+asv.646	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACCCAAACTGAAATTAGATACCTCACTATG
+asv.647	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATTACTGGGCGTAAAGCGTCTGTAGGTGGTTTAGTAAGTCGATTGTTAAAGCTTGGGGCTTAACTCCAAATCAGCAATGGAAACTGCTAGACTTGAGTATGGTAGAGGTAAAAGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCATTTTACTGGGCCATAACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.649	Animalia	Chordata	Mammalia					Mammalia	class	GGGTTGGTTAATTTCGTGCCAGCCACCATGATCATACGATTAACCCAAACTAATAAAATCTGGTGAAAAGCGTGTTTAAGGTAAACCTACAGTAAAGCTGAACTCCGTCTAAGCTGTAAAAAGCTTCAACTGAAGTAAAAATAAACTACAAAAGTGACTTTAACACCCTGAAAACACGATAGCTAAGACT
+asv.650	Animalia	Chordata	Teleostei	Mugiliformes	Mugilidae	Mugil	Mugil_curema	Mugil_curema	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAGACACCGGCGCAAAGAGTGGTTAGGTAACTTAATAAACTAAAGCCGAACGCCCCCAAGGCTGTTATACGTGCTCGGAGTTATGAAGCCCAACTACGAAAGTGGCTTTAACTATATCTGAACCCACGAAAGCTGTGAAA
+asv.651	Animalia							Metazoa	subkingdom	AGCTGCGGTTATACGGAAGGGGCGAACGTTACTCGGAATGATTGGGCGTAAAGAGTTTGTAGGTGGTTTTGTGAGTTATTTGTTAAATGTATGGTTTATAACTTAGAAAAGCATTTAATACTCTGAGACTTGAGTATAATAGAGGATAACAGAATTTTATACATAAGGGTAAAATCTTATAATTTATAAAAGAATGTCAGTGGCGAAGGCGGTTATCTGGGTTATTTACTGACATTGAGAAACGAAAGCTTAGGGAG
+asv.652								Incertae_sedis	kingdom	AGCTGCGGTTATACGGAAGGGGCGAACGTTACTCGAAATGATTGGGCGTAAAGAGTTTGTAGGCGGTTTGATAAGTTATTTGTTAAATGTATGGTTTTTAACTTAGAGAGGCATTTAATACTTTAAAACTTGAGTATAATAGAGGATAACAGAATTTTATACATAGGGGTAAAATCCTATAATTTATAAAAGAATGTCAGTAGCGAAGGCGGTTGTCTGGATTATTTACTGACGTTGAGAAACGAAGGCTTAGGGAG
+asv.653	Animalia	Chordata						Chordata	phylum	CACCACAGCCATATGATTAACGCAAGCTAATAGAACTCGGCCTAAAGCGTGTTTAAGGTCTGCCCTCAATAAACCTAAACTCCATCTAAGTTGTAAAAAAACTTTAGCTGAAATAAAATATACTACGAAAGTGGCTTTAGTATCTTGAAGACACAATAGCTAAGACTCAA
+asv.654	Animalia	Chordata	Teleostei	Carangiformes	Carangidae	Elagatis	Elagatis_bipinnulata	Elagatis_bipinnulata	species	CACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAAAATACCAAACTAAAGTCGAACATCCTCAGAGCTGTTATACGCTTCCGAAGATATGAAGTTCAACCACGAAAGTGACTTTACTACCCCTGAACCCACGAAAGCTAAGGAAC
+asv.655	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCTACCGCGGTTATACGAGAGGCCCAAGCTGATAGACAGCGGCGTAAAGCGTGGTTAAGGAGACACAAACAACTAAAGCCGAACATTTTCAGGGTCGTTGCAGACTTCACGAAATATGGAAGATCAATCACGAAAGTAGCTTTATACCTCCCAAACCCACGAAAGCTAAGGAA
+asv.656	Animalia	Chordata	Mammalia					Mammalia	class	GGGTTGGTAAATTTCGTGCCAGCCACTGCGGCCATAAGATTAACTCGAGCTAATAGAACTTGGCGTAAAGAGTGTTTAAGGTCTACCCTCAATAAAACTAAGCTCCATCTAAGCTGTAAAAAACTCCAGCTGACATAAAATATACTATGAAAGTGACTTTAATATCCTGAAGACACAATAGCTAAAATC
+asv.657	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGGGGACCGAGTCGACAGCCACCGGCGTAAAGAGTGGTTAGGGTAAAATTTAAACTAAAGCCAAACTCCTATTAAGTTCGTCTAATGTTAATTAAAAGGGAGAGGCCCAACTACGAAAGTGGCTTTACCAAACCTGACCCCACGAAAGCTGAGACA
+asv.659	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGCCATACAATTAACCTGAGCTAATAGAACTCGGCATAAAGAGTGTTTTAGATCTATCCTTAACAACGCTAAGCGTCATCTAGGTTGTAAAAAACCCTAGCTGAAATAAAATAAACTACGAAGGAGGCTTTAATACTTCTGAAGACACAATAGCTGAGACC
+asv.661	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGGAGGGGCAAGCGTTATCCGGATTAACTGGGCGTAAAGGGTCCGTAGACTGTACTGTAAGTTATTTGTTAAACCTTAAAGCTCAACTTTAAAAAAGCATTTAATACTACTGTACTTGAGTTTTATGCAGAAGAGTAGAATTTTATATTGAGGAGTAATTCCCGTAGATATATGAAGGAATACCGTTAGCGAAGGCGACTCTTTAGTAAAAACTGACGTTGAGGGACGAAAGTATAGGTAG
+asv.662	Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus_crocodilus	Tylosurus_crocodilus	species	GTCGGTAAAACTCGTGCCAGCCACCGCGGTTAGACGAGAGGCCTAAGTTGATAGCTTCCGGCGTAAAGAGTGGTTAAAGAAATCCCTAAACTAAAGCCGAATATTTTCACAGCTGTCATACGCACCCGAAAATAAGAAGCCCCACCACGAAAGTGGCTTTAACCCACCCGACCCCACGAAAGCTGTGGAA
+asv.663	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGAGGCTCAACCTCAAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTAACACTGAGAGACGAAAGCTAGGGTAG
+asv.664	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Anchoa	Anchoa_hepsetus	Anchoa_hepsetus	species	CACCGCGGTTATACGAGAGACCCTAGTTGATAAAAGCGGCGTAAAGAGTGGTTATGGACTTTTTTTCTTAAAGTGGAAAACCTCTCAAACTGTTATACGCACCCAGAAGTTGAAACCCCTTACACGAAAGTGACTTTATCTTCGCCCACCAGAACCCACGAAAGCTGGGGCA
+asv.666	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTCCGAGCGTTAATCGGAATTACTGGGCGTAAAGAGCGCGTAGGCGGTTATTTAAGTGAGATGTGAAATCCCCGGGCTTAACCCGGGAACAGCATTTCAAACTGGGTAACTTGAGTATGTTAGAGGGTGTTGGAATTTCCCGTGTAGCGGTGGAATGCGTAGATATGGGAAGGAACATCGGTGGCGAAGGCGAACACCTGGAACAATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.669	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGACAAACTTCCTCACTAAAGCTAAAGACCCCTTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATAAGAAAGTAGCTTTACTCTATTCCACCAGAATCCACGACAGCTGGGGCA
+asv.670	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAAAAGCCGGCGTAAAGCGTGGTTAGTAGTAATTAAACTAAAGCCGAACACCTTCAAGGCTGTTATACGCACCCGAAGGCAGGAAGCCCTGCTACGAAAGTGGCTTTAAACATTATGACCCCACGAAAGCTAGGAAA
+asv.671	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Labridae	Halichoeres		Halichoeres	genus	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAAACCCAAGTGGATGGTCTTCGGCGTAAAGAGTGGTTAAGATAAAACCCAAAACTAAAGCCAAATAACTTCAAAGCTGTTATACGCGCATGAAGAAAAGAAACTCAACCACGAAAGTGGCTTTAAACCCCTGATTCCACGAAAGCTATGGTA
+asv.672	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae	Abudefduf		Abudefduf	genus	GGACTGGTCAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAACTTATTAAACTAAAGCCGAACGCCCTCAGAACTGTTATACGTTTCCGAAGGTAAGAAGCCCCACCACGAAAGTGTCTTTATTTTCCCCGACTCCACGAAAGCTGCGGAA
+asv.673	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAGAGGGGCAGGCGTTATTCAAAGGTACTGGGCGTAAAGGGTTTTTAGGTGGAATTTAGAAAGTAATTAATTTTAATAATGTATATAAAATACATTAATTAATTAAACTTTAATTCTTGAGTTATTAAGAGAGTTAATTTTACTTTTTGAGGATTGGTGATATAATATGATACAAAAAGGAGAACCGATGGTGAAAACAATTAACTACTAATAAACTGACACTAATAAAACAAAAGCATGGGGAG
+asv.674	Animalia	Chordata	Teleostei	Acanthuriformes	Chaetodontidae	Chaetodon		Chaetodon	genus	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGACTCAAGCTGATAATCGTCGGCGTAAAGTGTGGTTAAGATATATTTACACTAGAGCTGAATGCCCTCAAAGCTGTTACACGCCCTCGAAGGTAAGAAACCCAACTACGAAAGTGACTCTGCTATATCCGATTCCACGAAAGCTAGGGCA
+asv.675	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAAGGGGGCTAGCGTTGTTCGGAATCACTGGGCGTAAAGCGTATGTAGGCGGATCAAAAAGTTAGATGTGAAATCCCTGGGCTTAACCCAGGAACTGCATTTAAAACTAGTGATCTAGAATTTGGTAAAGGTTAGTAGAATTTCCAGTGTAGAGGTGAAATTCGTAGATATTGGAAAGAATACCAGAAGCGAAGGCGACTAACTAGGCCATTTTTGACGCTGAGATACGAAAGCGTGGGTAG
+asv.676	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGAGGCTCAACTTCAAAATCGCAGCTGAAACTATTAGACTAGAGTATAGTAGAGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAAGCACTTTACTGGGCTATTACTAACACTCAGAGACGAAAGCTAGGGTAG
+asv.677	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGAGGGAGCTAGCGTTGTTCGGAATTACTGGGCGTAAAGGGCGTGTAGGCTGTTAGGTAAGTCAGAGGTGAAATCCCTAAGCTCAACTTAGGAACTGCCTTTGATACTATCTTACTAGAGATCGAGAGAAGTTGGCGGAATTCCAAGTGTAGAGGTGAAATTCGTAGATATTTGGAAGAACACCAGTGGCGAAAGCGGCCAACTGGCTCGTATCTGACGCTGAGACGCGAAAGCGTGGGTAG
+asv.678	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGGCCCAAGCTGATAATTATCGGCGTAAAGAGTGGTTAAGATTAATTAAAGACTAAAGCCGAAAACCCTCATAGCTGTTATACGCACCCGGGGGAAAGAAGCCCAATTACGAAAGTGGCTTTACAACATCTGAACCCACGAAAGCTAGGGTAC
+asv.679	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGTTGCCTCAGTCGGATGTGAAAGCCCCGGGCTTAACCTGGGAACTGCATCCGATACTGGGCGACTAGAGTACGAGAGAGGGGGGTAGAATTCCACGTGTAGCGGTGAAATGCGTAGATATGTGGAGGAATACCAGTGGCGAAGGCGGCCCCCTGGCTTGATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.680	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Lutjanidae	Lutjanus	Lutjanus_argentimaculatus	Lutjanus_argentimaculatus	species	CACCGCGGTTATACGAGAGACCCAAGTTGATAGACACCGGCGTAAAGAGTGGTTAAGATTTACCCAAAACTAAAGCCGAACGCCCTCAGAGCTGTTATACGCACCCGAGAGTTAGAAGCCCAACCACGAAAGTGGCTTTAAACAATCTGAACCCACGAAAGCTATGATAC
+asv.681	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGGGGATGCAAGCGTTATCCGGAATCATTGGGCGTAAAGCGCCTGTAGGTTGTTTAATAAGTCTGTTGTTAAAGACTAGGGCTTAACCCTAGAAAAGCAATGGAAACTACTAGACTAGAGTATGGCAGGGGTAGAGGGAATTTCTAGTGTAGCGGTGAAATGCGTAGATATTAGAAAGAACACCGGTGGCGAAAGCGCTCTACTGGACCATTACTGACACTCAGAGGCGAAAGCTAGGGTAG
+asv.682								Incertae_sedis	kingdom	AGCTGCGGTTATACGGAAGGGGCGAACGTTACTCGAAATGATTGGGCGTAAAGAGTTTGCAGGCGGTTTGATAAGTTATTTGTTAAATGTATGGTTTTTAACTTAGAGAGGCATTTAATACTTTAAAACTTGAGTATAATAGAGGATAACAGAATTTTATACATAGGGGTAAAATCCTATAATTTATAAAAGAATGTCAGTAGCGAAGGCGGTTGTCTGGATTATTTACTGACGTTGAGAAACGAAGGCTTAGGGAG
+asv.683	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCAAGCGTTATCCGGAATCATTGGGTTTAAAGGGTCCGCAGGCGGATGTATAAGTCAGTGGTGAAATCCTGCAGCTTAACTGCAGAACTGCCATTGATACTGTACATCTTGAATTCGGTCGAAGTGGGCGGAATGTGTAGTGTAGCGGTGAAATGCATAGATATTACACAGAACACCGATAGCGAAGGCAGCTCACTAGGCCTGGATTGACGCTCAGGGACGAAAGCGTGGGGAT
+asv.684	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACGGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.685	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACCAAAACTGAGATTAGATACCTCACTATG
+asv.686	Animalia	Chordata						Actinopteri	superclass	GTCGGTAAAACTCGTGCCAGCTACCGCGGTTATACGAGAGGCCCAAGCTGATAGACAGCGGCGTAAAGCGTGGTTAAGGAGACACAAACAACTAAAGCCGAACATTTTCAGGGTCGTTGCAGACTTCACGAAATATGGAAGATCAATCACGAAAGTAGCTTTATACCTCCTGAACCCACGAAAGCTAAGGAA
+asv.687	Animalia	Chordata	Teleostei	Beloniformes	Belonidae	Tylosurus	Tylosurus_crocodilus	Tylosurus_crocodilus	species	CACCGCGGTTAGACGAGAGGCCTAAGTTGATAGCTTCCGGCGTAAAGAGTGGTTAAGGAAACCCCTAAACTAAAGCCGAATATTTTCACAGCTGTCATACGCACCCGAAAATAAGAAGCCCCACCACGAAAGTGGCTTTAACCCACCCGACCCCACGAAAGCTGTGGAAC
+asv.688								Incertae_sedis	kingdom	AGCCGCGGTAATACGAGAGGGGCAAGCGTTATTCGGAATTACTGGGCGTAAAGAGTTCGTAGACGGTATTGTAAGTTATATGTTAAAATTTAAAAAAACATTTAAAAAAACATTTAATACTGCTTTACTTGAGTTATTATTAGAAAAATAGAATTCCATGTGGAAAAGTAACATTTTACAATCTATGGAGGAATACCTGAAGTGAAAACGATTTTTTATTATTAACTGACGTTGAGGAACGAAAGTATAGGGAG
+asv.689	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGGGGCTTAACCTCAAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.690	Animalia	Chordata	Teleostei	Perciformes	Serranidae	Cephalopholis		Cephalopholis	genus	TACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCATCGGCGTAAAGAGTGGTTATGGTTAAATAAATACTAAAGCTGAACACTTACAAAGCTGTTATACGCTCCCGAAAATAAGAAGAACAACTACGAAAGTGGCTTTATTACACCCGAACCCACGAAAGCCAAGGCAC
+asv.691	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGTATGTCGCAAGCGTTATCCGGAATTATTGGGCGTAAAGCGCGTCTAGGCGGCCTTTTAAGTCTGATGTGAAAATGCGGGGCTCAACTCCGTATTGCGTTGGAAACTGGAAGGCTAGAGTATCAGAGAGGTGGGCGGAACTACAAGTGTAGAGGTGAAATTCGTAGATATTTGTAGGAATGCCGATTGGGAAGCCAGCTCACTGGATGAATACTGACGCTGAAGCGCGAAAGCGTGGGGAG
+asv.692	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTTGTTGTTTAAGTCAACTGTTAAATCTTGAGGCTCAACCTCGAAATCGCAGTCGAAACTATTCAACTTGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.693	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTCAAATAAGTCAACTGTTAAATCTCGAGGCTCAACCTCGAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAGGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTAACACTCAGAGACGAAAGCTAGGGTAG
+asv.694	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAAAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTAAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.695	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	CACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGATGAACCCCCGCACTAAAGCTAAAGACCCCTTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATACGAAAGTAGCTTTATTTTCTTCCACCAGAACCCACGACAGCTGGGGCA
+asv.696	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGCAAGCGTTGCTCGGAATTACTGGGCGTAAAGCGAGCGTAGGCGGTTAGTCAAGTTGGTGGTGAAAGCCCGGAGCTCAACTCCGGAACTGCCATCAAAACTGACTTACTTGAGATTGGTAGAGGAAAATGGAATTCCTAGTGTAGAGGTGAAATTCGTAGATATTGGGAAGAACATCGGTGGCGAAGGCGATTTTCTGGGCCATATCTGACGCTGAGGTTCGAAAGCGTGGGTAG
+asv.697	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae	Abudefduf		Abudefduf	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAACTTATTAAACTAAAGCCGAACGCCCCCAGAACTGTTATACGTTTCCGAAGGTAAGAAGCCCCACCACGAAAGTGTCTTTATTTTCCCCGACTCCACGAAAGCTGCGGAA
+asv.698	Animalia	Chordata	Teleostei	Carangiformes	Coryphaenidae	Coryphaena	Coryphaena_hippurus	Coryphaena_hippurus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTAGACGAATGACCCAAGTTGACAGAATACGGCGTAAAGGGTGGTTAGGGAATATTAATACTAAAGCCGAACACCTTCCAAGCTGTTATACGCTTATGAAGAACTGAAACACAACTACGAAAGTGGCTTTAAAACACCTGAACCCACGAAAGCTAAGAAA
+asv.699	Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon_holocanthus	Diodon_holocanthus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGTTAGGCATCGGCGTAAAGGGTGGTTAAGGCAAATCTCCAAACTAAAGCCGAACATCTTCCAAGCCGTCATACGCACACGAAGACAAGAAGCCCGATAACGAAAGTGGCTCTAACCTGCCTGAACCCACGAAAGCTATGACA
+asv.700								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTACAAGTTTCAAGTCGACCAAAAGCTTAACTTAAGGGAGGATTTGAAAAACTAACTTAATAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCGAAAGCGAAAAGCAGCCAACTAATAATTACCTGCCACTAGACCTGGAATCTGAGGTAG
+asv.701	Animalia	Chordata						Chordata	phylum	CACCGCGGCCATAGGATTAACCCGAGCTAATAGAGCTCGGTATAAAGAGTGTTTAAGGTCTGCCCTCAATAAAGCTAAACTCCAACGAAGTTGTAAAAAACTTCAGCTGAAATAAAATATACTATGAAAGTGGCTTTAATACCCTGAAGACACAATAGCTAAGACCCAAA
+asv.702	Animalia	Chordata	Teleostei	Tetraodontiformes	Balistidae	Canthidermis	Canthidermis_maculata	Canthidermis_maculata	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGCTGACAGACACCGGCGTAAAGAGTGGTTAAGAGATATATAATAAATTAGAGCCGAACGCTTTCAAGGCTGTTATACGCACCCGAAAGTAAGAAGAACAATAACGAAAGTAGCCCTATCAATTCTGAACCCACGAAAGCTAAGGCA
+asv.703	Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae			Gobiidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCGAGTAGACAGATGCCGGCGTAAAATGTGGTTATTACAGTATTGCACTAAAGCCAAACATCTTCAAAGCTGTTATATGCTCTCGAAGACAGGAAGCCCACCCACGAAAGTGGCTTTAAACACTATGTACCACGAAAGCTAGGAAA
+asv.704								Incertae_sedis	kingdom	AGCCGCGGTAATACGGGAGGGGCAAGCGTTATTCAAAATGATTGGGCGTAAAGAGTCCGTAGATTGTAAAATAAGTTATTTGTTAAATCATAAGTAATTAACCTTATAAAAACATTTAAAACTGTTTTACTTGAGTTTTTTTCAGAAAAGTAGAATTTCATATGAAAGGATAAACCCTGTAGATATATGAAGGAATATCAAAAGCGAAAGCAACTTTTTAGTAAAAACTGACATTGAGGGACGAAAGTATAGGTAG
+asv.705	Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon_holocanthus	Diodon_holocanthus	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGTTAGGCATCGGCGTAAAGGGTGGTTAAGGCAAATCTCCAAACTAAAGCCGAACATCTTCCAAGCCGTCATACGCACACGAAGACAAGAAGCCCGATAACGAAAGTGGCTCTAACCTGCCTGAACCCACGAAAGCTATGACA
+asv.706								Incertae_sedis	kingdom	CGCCGCGGTAATACGGAGAGTGCAAGCGTTATTCGTCTTAACTTGGCGTAAAGGGTAATGAAGGCGGATTTTATATACTAGTATAAAAGACAATGTTGCAGTACCTTACTCGTCATTGAAAGTACTTTGAGCAATTTAATCTAGAGTTAGTTTCAAGTTAAAGGAATGTTAAGTGTAAGGGTGAAATTTAGCGATATTTAACAGAATGCCAATGGTGAAGACATTTTTCTGGAGATTAACTGACGCTACAATACGACAGTACGGGTAT
+asv.707	Animalia	Chordata						Chordata	phylum	CACTGTGGCCATACAATGAACCCAAGCTATACAATTAACCCAAGCTAATAGAACTCAGCGTAAAGAGTGTTTAAGATCTGCCCTCAATAAAGCTAAACTCCATTTAAGTTGTAAAAAACTTAGGCTGAAATAAAACATACTACGAATGTGGCTTTAATATCCTGAAGACACGACAGCTAAGATC
+asv.708	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGATGAACCCCACACTAAAGCTAAAGACCCCCTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATACGAAAGTAGCTTTACTCCCTTCCACCAGAACCCACGACAGCTGGGGCA
+asv.709	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGTACGCAGGCGGTTTGTTAAGCGAGATGTGAAAGCCCCGGGCTCAACCTGGGAACTGCATTTCGAACTGGCAAACTAGAGTATGATAGAGGGTGGTAGAATTTCAGGTGTAGCGGTGAAATGCGTAGAGATCTGAAGGAATACCGATGGCGAAGGCAGCCACCTGGGTCAATACTGACGCTCATGTACGAAAGCGTGGGGAG
+asv.710	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGCCCCTCGGCGTAAAGAGTGGTTAAATTTTGTATCACTAAAGCCGAACGCTTTCACTACTGTCATACGTACTCGAAAGTAAGAAGCCCCTTCACGAAAGTAGCTTTATATTTATTGACCCCACGAAAGCTGTGTAA
+asv.711	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTATGTAAGTCTGTTGTTAAATCTCGAGGCTTAACTTCGAACCCGCAATGGAAACTACATGACTTGAGTATGGTAGAGGTAAGAGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCATCTTACTGGGCCATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.712								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTACAAGTTTCAAGTCGACCGAAAGCACAACTTAAGGGAGGATTTGAAAAACTAACTTAATAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCGAAAGCGAAAAGCAGCCAACTAATAATTACCTGCCACTAGACCTGGAATCTGAGGTAG
+asv.713	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGACTGGTCAATTTCGTGCCACCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.714								Incertae_sedis	kingdom	AGTCGCGGTAATACGAGAGGAGCAAGCGTTATTCTAAATGATTGGGTGTAAAAAGTTCGTAGGTGGCATTTGCTGTTATTTGTGAAATTGTTAGATAAAATCTAATAAAGCATTTAAAACTCTTTTGCTTGAATAAAAAAGAAGACAATAGAATTCTATAAGGAAGGGTAAAATCTAAAGATTTATAGAAGAATGCCAATAGCGAAAGCAATTGTCTAGTTTTTATTGACATTGAGGAACGAAAGTGTAGGGAG
+asv.715	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGTGGCTAGCGTTGTTCGGATTTATTGGGCGTAAAGGGCGTGTAGGCGGCTATATAAGTTAGGCGTGAAATACTGCGGCTCAACCGTAGAATTGCGTCTGATACTGTATAGCTTGAGTACAGGAGAGGAGAGTGGAATTCCCAGTGTAGCGGTGAAATGCGTAGATATTGGGAGGAACACCGGTGGCGAAGGCGGCTCTCTGGACTGATACTGACGCTGAGGCGCGAAAGCCAGGGGAG
+asv.716								Incertae_sedis	kingdom	AGCCGCGGTAATACGAAGGGAGCAAGCGTTGTTCGGATTTACTGGGCGTAAAGGGCGCGCAGGCGGGTCGGAAAGTCGAACGTGAAAACTGGAGGCTCAACCTCCAGATTGCGTTCGATACTGCCGGTCTTGAGTCCAGGAGAGGAGAGCGGAATCCCAGGTGTAGCGGTGAAATGTGTAGATATCTGGGAGAACACCGGTGGCGAAGGCGGCTCTCTGGCCTGGTACTGACGCTGAGGCGCGAAAGCTAGGGTAG
+asv.717	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGGGGGGCCCAAGTTGATAGAAGCCGGCGTAAAGGGTGGTTAAGAGCAAGTTTAAAATTAGAGCCGAATGCTTTCCTGGCTGTTATACGCATCCGAAAGTAAGAAGTCCAATTACGAAAGTAGCTTTATATAATCTGAACCCACGAAAGCTAAGACA
+asv.718	Animalia	Chordata						Chordata	phylum	CACCGCAGCCATACGATTAACCCAAGCTAATTGAACTTGGTGAAAACAGTGCTTAAGGTCTGCCCTCAATAAAGCTAAACTCCGTCTAAGTTGTAAAAAACTCCAGCTGAAATAAAATATACTATGAATGTGCCTTTAATATCCTGAAGATGCAACAGCTAAGACCCAAA
+asv.719	Animalia	Chordata	Mammalia					Mammalia	class	GGGTTGGTAAATTTCGTGCCAGCCACCGCAGCCATACGATTAACCCAAGCTAATAGAACCCAGCTTAAAGAGTGTTTTAGATCTGTTCTCAATAAAGCTAAGCTTCATCTAAGTTGTAAAAAATCCTAGCTGAAATAAAATAAACTACGAAGGTGAATTTAATATTTCTGTGGACACAATAGCTAAGACC
+asv.720	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAATACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGAGGCTCAACTTCAAAATCGCAGTCGAAACTGTTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.721	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGATGAACCCCACACTAAAGCTAAAGACCCCCTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATACGAAAGTAGCTTTACTCCCTTCCACCAGAACCCACGACAGCTGGGGCA
+asv.722	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGAGGGGGCTAGCGTTGTTCGGAATCACTGGGCGTAAAGCGCGCGTAGGCGGATTGATTAGTTGGGGGTGAAATCCCGGGGCTCAACCTCGGAACTGCCTTCAATACTGTCAGTCTTGAGTTCGTGAGAGGTAAGTGGAATTCCGAGTGTAGAGGTGAAATTCGTAGATATTCGGAAGAACACCAGTGGCGAAGGCGACTTACTGGCACGATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.723	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGGGGGGCCCAAGTTGATAGAAGCCGGCGTAAAGGGTGGTTAAGAGCAAGTTTAAAATTAGAGCCGAATGCTTTCCTGGCTGTTATACGCATCCGAAAGTAAGAAGTCCAATTACGAAAGTAGCTTTATATAATCTGAACCCACGAAAGCTAAGACA
+asv.724	Animalia	Chordata						Actinopteri	superclass	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACAGCCCCTCGGCGTAAAGAGTGGTTAAATTTTGTATCACTAAAGCCGAACGCTTTCACTACTGTCATACGTACTCGAAAGTAAGAAGCCCCTTCACGAAAGTAGCTTTATATTTATTGACCCCACGAAAGCTGTGTAA
+asv.725	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGCAAGCGTTGTTCGGAATTACTGGGCGTAAAGGGCGCGTAGGCGGCCAAGTCAGTCAGGCGTGAAAGCCCGGGGCTCAACCCCGGAATTGCGCTTGATACTGCTAGGCTAGAGATCGGAAGAGGGTAGTGGAATTCCCAGTGTAGAGGTGAAATTCGTAGATATTGGGAAGAACACCAGTGGCGAAGGCGGCTACCTGGTCCGGATCTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.726	Animalia							Metazoa	subkingdom	AGCTGCGGTTATACGGAAGGGGCGAACGTTACTCGGAATGATTGGGCGTAAAGAGTTTGTAGGTGGTTTTGTGAGTTATTTGTTAAATGTATGGTTTATAACTTAGAAAAGCATTTAATACTCTAAGACTTGAGTATAACAGGGGATAACAGAATTTTATACATAAGGGTAAAATCTTATAATTTATAAAAGAATGTCAATGGCGAAGGCGGTTATCTGGGTTATTTACTGACATTGAGAAACGAAAGCTTAGGGAG
+asv.727	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGGATTTTTCCCCTTTAAAGCAGAAGACCTCTCAAACTGTTATACGCACCCAGAGGTTGAAACCCCTTACACGAAAGTAACTTTATATTAGCCTACCAGAACCCACGAAAGCTGGGACA
+asv.728	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAAAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTAACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.729								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTACAAGTTTCAAGTCGACCGAAAGCCCAACTTAAGGGAGGATTTGAAAAACTAACTTAATAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCGAAAGCGAAAAGCAGCCAACTAATAATTACCTGCCACTAGACCTGGAATCTGAGGTAG
+asv.730	Animalia	Chordata	Teleostei	Centrarchiformes	Kyphosidae	Kyphosus	Kyphosus_cinerascens	Kyphosus_cinerascens	species	CACCGCGGTTATACGAGAGGCCCAAGTTGATAGACTCCGGCGTAAAGAGTGGTTAAGACTCATCTACAAAACTAAAGCCGAACGCCCTCAGGGCTGTTATACGCTCCCGAAGGTAAGAAGTTCAATCACGAAAGTGGCTTTATATCAGCTGAACCCACGAAAGCTATGACA
+asv.732	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAATTCCAGTTGACACAAAATAGGCTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.733	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Labridae	Novaculichthys	Novaculichthys_taeniourus	Novaculichthys_taeniourus	species	CACCGCGGTTATACGAGGGACCCAAGTTGACAGCCGCCGGCGTAAAGAGTGGTTAAGACAAGACCTTAAACTAAAGTCGAACGGCCTCAGAGCTGTTATAAGCTTATGAAAGCATGAAGCCCAATAACGAAAGTGACTTTAACTCTTCTGACCCCACGAAAGCTAGGGCA
+asv.734	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae	Stegastes	Stegastes_flavilatus	Stegastes_flavilatus	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACACGGCGTAAAGAGTGGTTAGGCAACCCCCCCCCAACTAAAGTCGAACGGCCTCAAGGCAGTTATAAGCGGTACGAAGGCACGAAGCTCATCCACGAAAGTGACTTTACTCTACCTGACTCCACGAAAGCTGAGAAA
+asv.735	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGCACGTAGGCGGTTTGTTAAGTCGGATGTGAAAGCCCCGGGCTCAACCTGGGAACTGCATTCGATACTGGCAAACTAGAGTATAGAAGAGGCAAGTGGAATTCCGGGTGTAGCGGTGAAATGCGTAGATATCCGGAGGAACATCAGTGGCGAAGGCGACTTGCTGGTCTAATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.737	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACCCCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.738	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAAAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTAAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACAAACAATAGCTAAGACC
+asv.739	Animalia	Chordata						Actinopteri	superclass	GTCGGTAAAACTCGTGCCAGCTACCGCGGTTATACGAGAGGCCCAAGCTGATAGACAGCGGCGTAAAGCGTGGTTAAGGAGACACAAACAACTAAAGCCGAACATTTTCAGGGTCGTTGCAGACTTCACGAAATATGGAAGATCAATCACGAAAGTAGCTTTATACCTCCCAAACCCACGAAAGCTAAGGAA
+asv.740	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGAGGGTGCAAGCGTTGCTCGGAATCACTGGGCGTAAAGCGAACGCAGGCGGACCGTTAAGTTGGGTGTGAAAGCCCGAGGCTCAACCTCGGAACTGCATTCAAAACTGGCGGTCTTGAGTACGGGAGAGGGAAGTGGAATTCCTGGTGTAGAGGTGAAATTCGTAGATATCAGGAGGAACACCTGTGGCGAAAGCGACTTCCTGGCCCGAAACTGACGCTCATGTTCGAAAGCGTGGGGAG
+asv.741	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACAGAGGATGCAAGCGTTATCCGGAATCACTGGGCATAAAGCGTCTGTAGGTGGTTTGATAAGTCTGCTGTTAAAGACTAGGGCTTAACCCTAGGACAGCAGTGGAAACTGTTAGACTTGAGTGTGGTAGAGGTAGAGGGAATTCCTAGTGTAGCGGTGAAATGCGTAGATATTAGGAAGAACACCAATGGCGAAAGCACTCTACTGGGCCATAACTGACACTGAGAGACGACAGCTAGGGGAG
+asv.742	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	CACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGAATATTTCTCTTAAAGCAGAGAACCTCTTAAACTGTTATACGCACCCAGAGGTTAAAACCCCTTACACGAAAGTGACTTTATCTTCGCCTACCAGAACCCACGAAAGCTGGGGCA
+asv.743	Animalia	Chordata	Teleostei	Tetraodontiformes	Balistidae	Canthidermis	Canthidermis_maculata	Canthidermis_maculata	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGCTGACAGACACCGGCGTAAAGAGTGGTTAAGAGATATATAATAAATTAGAGCCGAACGCTTTCAAGGCTGTTATACGCACCCGAAAGTAAGAAGAACAATAACGAAAGTAGCCCTATCAATTCTGAACCCACGAAAGCTAAGGCA
+asv.745	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGCACAGTAAGTCAACTGTTAAATCTTGAAGCTCAACTTCAAAATCGCAGTCGAAACTATTGAGCTAGAGTATAGTAGAGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.746	Animalia							Metazoa	subkingdom	AGCCGCGGTAAGACAGAAGGGGCAAGTGTTATTCAGAATAATTGGGCGTAAAGGGCACGTAGGTTGCTTTGAAAGTGAAAGGTGAAAGCCCAGAGCTTGACTGTGGATGTGCCTTTGAAAACTTTGAAGCTTGAGCGTGACAGAGGATAGTAGAATTTCGAGTGGAGAGGTAAAATTCATAGAGATTCGAAGGAATACCGAATGCGAAGGCATCTATCTGGTTCACTGCTGACACTGAGGTGCGAAAGCGTGGGGAG
+asv.747	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGGAGGGGCGAGCGTTATTCGGAATAACTGGGCGTAAAGGGTTCGTAGACGGTATTATAAGTTAATTAAAAAAGATTAAAGCTTAACTTTAATTAATCCTAATTAAAACTATTTTACTAGAGTTTTGTGCAGAAGAGTAGAATTTCATAAGTAGAGGTGGCATTTGTAGATCTATGAAGGAATATCAGAAGCGAAGGCGACTCTTTAGCAATAACTGACGTTGAGGAACGAAAGCGTAGGTAG
+asv.748	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Lutjanidae	Lutjanus		Lutjanus	genus	CACCGCGGTTATACGAGAGACCCGAGTTGATAGACACCGGCGTAAAGAGTGGTTAAGACTTATTTAACACTAAAGCCGAACGCCCTCAAAGCTGTTATACGCACCCGAGGGTAAGAAGCCCAACCACGAAAGTGGCTTTAAACTATCCGAATCCACGAAAGCTATGACAC
+asv.750	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGAGGCTCAACCTCAAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTAACACTCAGAGACGAAAGCTAGGGTAG
+asv.751	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCCACCACCGTCATACGATTAACCCAAGCTAACAGAACTTGGCATAAAGAGTGTTTAAGATCTACCCTCAATAAAGCTAAACTCTGTCTAAGTTGTAAAAAAACTCCAGCTGAAATAAAATATGGTACGAAAGTTGCTTTAATACCCTGAAGAGACAATAGGTAAGACC
+asv.752	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGGGGGTGCAAGCGTTATCCGGAATCATTGGGCGTAAAGCGTCTGTAGGTTGTTTGATAAGTCTGTTGTTAAAGACTGGGGCTCAACCCCAGGAAAGCAATGGAAACTGTCAGGCTAGAGTGTGGTAGAGGTAGAGGGAATTCCTAGTGTAGCGGTGAAATGCGTAGATATTAGGAAGAACACCGGTGGCGAAAGCGCTCTACTGGGCCATAACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.753								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTACAAGTTTCAAGTCGACCGAAAGCCCAACTTGAGGGAGGATTTGAAAAACTAACTTAATAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCGAAAGCGAAAAGCAGCCAACTAATAATTACCTGCCACTAGACCTGGAATCTGAGGTAG
+asv.754	Animalia	Chordata						Chordata	phylum	GGGTTGGTTAATTTCGTGCCAGCCACTGCGGCCATAAGATTAACTCGAGCTAATAGAACTTGGCGTAAAGAGTGTTTAAGGTCTACCCTCAATAAAACTAAGCTCCATCTAAGCTGTAAAAAACTCCAGCTGACATAAAATATACTATGAAAGTGACTTTAATATCCTGAAGACACAATAGCTAAAATC
+asv.755	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	CACCGCGGTTATACGAGAGACCCTAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGAATATTTCTCTTAAAGCAGAAAACCTCTTAAACTGTTATACGCACCCAGAGGTTAAAACCCCTTACACGAAAGTGACTTTATCTTCGCCTACCAGAACCCACGAAAGCTGGGGCA
+asv.756								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTACAAGTTTCAAGTCGACCAAGAGCTTAACTCAAGGGAGGATTTGAAAAACTAACTTACTAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCGAAAGCGAAAAGCAGCCAACTAATAATTACCTGCCACTAGACCTGGAATCTGAGGTAG
+asv.757	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAATACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGAGACTCAACTTCAAAATCGCAGTCGAAACTATTAGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.758	Animalia	Chordata	Teleostei	Ovalentaria_incertae_sedis	Pomacentridae	Abudefduf		Abudefduf	genus	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGGAACTTATTAAACTAAAGCCGAACGCCCCCAGAACTGTTATACGTTTCCGAAGGTAAGAAGCCCCACCACGAAAGTGTCTTTATTTTCCCCGACTCCACGAAAGCTGCGGAA
+asv.759	Animalia							Metazoa	subkingdom	CACTGCGTCTTAAAATTAAACCAAATTAATAAAACTCGGTGTAAAGCAATTTTAAGATTCTTATCTTAATCTAGCTTAACTTTACGCTGTAAAAACCTGCCCCTAAATTAAAATAAGCTATGAAAATGACTTTAATGTTCTCATAACACAATAGCTAAGGCCCAAACTGA
+asv.760	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAAGCCCGGCGTAAAGAGTGGTTATGGACAAACTTCCTCACTAAAGCTAAAGACCCCTTAGGCTGTTATACGCACCTGGGGGCTCGAACCACCTATAAGAAAGTAGCTTTATTCTATTCCACCAGAATCCACGACAGCTGGGGCA
+asv.761	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTAAGCAAGTCAACTGTTAAATCTTGAGGCTCAACTTTAAAATCGCAGTCGAAACTGTTTGACTAGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.762	Animalia	Chordata						Chordata	phylum	CACTGAGGTCATATGATTAACCCAAATCAATAGTACCCAACACGTTTATGATTATGTCTAACTAAAGCTAAACTGTAAGCCATAAAAGGCAATAGCTAAAATGAAAATAAACTATGAAAGTGACTTTATTATGTTCTGAATTTAAAATAGCTAAGACCCAAACTGAGATT
+asv.763								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTACAAGTTTCAAGTCGACCAAAAGCTCAACTTGAGGGAGGATTTGAAAAACTAACTTAATAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCAAAAGCGAAAAGCAGCCAACTAATAATTACCTGCCACTAGACCTGGAATCTGAGGTAG
+asv.764								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTACAAGTTTCAAGTCGACCAAAAGCTTCACTTGAGGGAGGATTTGAAAAACTAACTTAATAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCTAAAGCGAAAAGCAGCCAACTATTAATTACCTGCCACTATACCTGGAATCTGAGGTAG
+asv.766	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Scaridae	Scarus	Scarus_ghobban	Scarus_ghobban	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAAAGGCCCAAGTTGAAAAACATTCGGCGTAAAGGGTGGCTAAGAGCCTATTTTAAACTAGAGCTGAATTTCTTCAAAGCTGTTATACGCTCATGAAAACTAGAAAATCAACCACGAAAGTGGCTCTAATCTCTCCTGACACCACGAAAGCTATGACA
+asv.767	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAAAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTAAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.768	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTTAATTTCGTGCCAGCCACCCCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.769	Animalia	Chordata	Teleostei	Carangiformes	Carangidae			Carangidae	family	CACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGCGTGGTTAAGGAGAACTCATAACTAAAGCGGAACTTCCTCCTAGCTGTTATACGCTTCCGAGGGAATGAACCCCAACTACGAAAGTGGCTTTACCCCACCTGAACCCACGAAAGCTAAGAAAC
+asv.771	Animalia	Chordata	Teleostei	Anguilliformes				Anguilliformes	order	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAATTGATATATTACGGCGTAAAGTGTGATTAGAGAAAACAAAAACTAAAGCCAAACACCTCCCAAGCTGTCATACGCTAACGGAGCCGGAGGCCCCGCAACGAAAGTAGCTTTAAAAATCTTGAACTCACGACCATTAAGAAA
+asv.772	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGGCCCAAGTTGATGGCCAACGGCGTAAAGAGTGGTTATGGAACAAACAAAATAGAGTCGAACGCCCTCAAAGCTGTTATACGTTTCCGAGAGTAAGAAGCCCCACTACGAAAGTGACTTTAGTTTACCTGACCCCACGAAAGCTGCGAAACA
+asv.773	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAATACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTTGTTGTTTAAGTCAACTGTTAAATCTTGAGGCTTAACCTCGAAATCGCAGTCGAAACTACTCAACTAGAGTATAGTAGAGGTAAAGAGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAATACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAGAGCTAGGGTAG
+asv.774	Animalia							Metazoa	subkingdom	AGCCGCGGTAAGACAGAAGGGGCAAGTGTTATTCAGAATGATTGGGCGTAAAGGGCACGTAGGCTGCTTTTTAAGTGAAAAGTTAAATTCCAGAGCTTGACTGTGGGTCCGCTTTTCAAACTAAAAAGCTTGAGCTTGAAAGAGGATACTAGAATTTCGAGTGGAGAGGTTAAATTCATAGAGATTCGAAGGAATACCAAATGCGAAGGCATGTATCTGGTTCAAAGCTGACGCTGAGGTGCGAAAGCATGGGGAG
+asv.775	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGCTTAGTAAGTCTGCTGTTAAATATCGAAGCTTAACTTCGAATCTGCAGTGGAAACTACTACGCTAGAGTTTGATAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAGGACCACCGATGGCGAAGGCACTTTACTGGGTCATTACTGACACTGAGAGACGAAAGCTAGGGTAG
+asv.776	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGTTAGCGTTGTTCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGATTAGAAAGTTGGGGGTGAAATCCCGAGGCTCAACCTCGGAACTGCCTCCAAAACTGCTAGTCTAGAGTTCGAGAGAGGTGAGTGGAATTCCGAGTGTAGAGGTGAAATTCGTAGATATTCGGAGGAACACCAGTGGCGAAGGCGGCTCACTGGCTCGATACTGACGCTGAGGTGCGAAAGTGTGGGGAG
+asv.777	Animalia	Chordata	Teleostei	Clupeiformes	Engraulidae	Engraulis		Engraulis	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCCAGTTGATTGAAGCGGCGTAAAGAGTGGTTATGGAATTTTTTTCTTAAAGCAGAAAACCTCTCAAACTGTTATACGCACCCAGAGGTTAAGATCCCTCACACGAAAGTGACTTTATCTTCGCCTACCAGAACCCACGAAAGCTAGGACA
+asv.778	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGAAGGGTGCTAGCGTTGTTCGGAATTACTGGGCGTAAAGGGCGTGTAGGCGGATGATCAAGCTAGAGGTGAAAGCCCAGGGCCCAACCCTGGAACTGCCTTTAGAACTGATTGTCTAGAATCCGTAAGGGGAGTGTGGAATTCCTAGTGTAGAGGTGAAATTCGTAGATATTAGGAAGAACACCAGTGGCGAAGGCGGCACTCTGGTACGGTATTGACGCTGAGGCGCGAAAGCGTGGGGAG
+asv.779	Animalia							Metazoa	subkingdom	AGCTGCGGTTATACGGAAGGGGCGAACGTTATTCGGAATGATTGGGCGTATAGTGTTCGTAGGTTGTTTCATGAGTTATTTGTTAAATGTATGGTTTATAGCTTAGAAAGGCATTTAATACTCTGAAACTTGAGTATAGCAGAGGATAGCAGAATTCTATAGATAGGGGTAAAATCCTATAATTTATAGAAGAATGTCAGAGGCGAAGGCGGCTATCTGGGCTATTACTGACATTGAGGAACGAAAGCGTAGGGAG
+asv.780	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGTAGGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGTGCGCAGGCGGTTTACTAAGACAGGTGTGAAATCCCCGGGCTTAACCTGGGAACTGCATCTGTGACTAGTAGACTAGAGTTTGGCAGAGGGGGGTGGAATTCCTGGTGTAGCAGTGAAATGCGTAGATATCAGGAGGAACACCGATGGCGAAGGCAGCCCCCTGGGCCACCACTGACGCTCATGCACGAAAGCGTGGGGAG
+asv.781	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGAGGGGGTTAGCGTTGTTCGGAATTACTGGGCGTAAAGCGCACGTAGGCGGACTAGTCAGTCAGAGGTGAAATCCCGAGGCTCAACCTCGGAACTGCCTTTGATACTGCTAGTCTAGAGTTCGAGAGAGGTGAGTGGAATTCCGAGTGTAGAGGTGAAATTCGTAGATATTCGGAGGAACACCAGTGGCGAAGGCGGCTCACTGGATCGATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.782	Animalia	Chordata	Teleostei	Gonorynchiformes	Chanidae	Chanos	Chanos_chanos	Chanos_chanos	species	CACCGCGGTTATACGAGAGGCTCTAGTTGACGAACTACGGCGTAAAGCGTGGTCACGGAGAGCAATCAATACTAAAGCCAAACGCCTCCCAGGCTGTCATACGCATCCGGAGGTACGAAGCCCAATAACGAAAGTAGCTTTATTACCGCCAACCTGACCCCACGACAACTGAGAAA
+asv.783	Animalia	Chordata	Teleostei	Tetraodontiformes	Balistidae	Canthidermis	Canthidermis_maculata	Canthidermis_maculata	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGCTGACAGACACCGGCGTAAAGAGTGGTTAAGAGATATATAATAAATTAGAGCCGAACGCTTTCAAGGCTGTTATACGCACCCGAAAGTAAGAAGAACAATAACGAAAGTAGCCCTATCAATTCTGAACCCACGAAAGCTAAGGCA
+asv.784	Animalia							Metazoa	subkingdom	AGCCGCGGTGATACGAAGGGGGCAAGCGTTGTTCGGAATGACTGGGCGTAAAGGGTGCGTAGGCGGCTTGTTAAGTGAGGTGTGAAATCCCTGGGCTCAACCCAGGAAGTGCATCTCATACTATCAAGCTAGAGAATGTTAGAGGAAATAGGAATTTCTGGTGTAGAGGTGAAATTCGTAGATACCAGAAGGAACACCAAAGGCGAAAGCAAGTTTCTGGGGCATTTCTGACGTTGAGGCACGAAAGCGTGGGGAG
+asv.785								Incertae_sedis	kingdom	AGCTGCGGTAATACGGGAGGAGCGAGGGTTATTCATGATGATTGGGTGTAAAGCAGGATAAGGTGATAAGTACAAGTTTTAAGTCGACCAAAAGCTTAACTTAAGGGAGGATTTAAAAAACTAACTTAATAGAGGAATTACAGAGTTGAAAGCGGAACTATTGGGGTAGAGGTGTAATTCGTTTCATCTCAATGGGAACACCGAAAGCGAAAAGCAGCCAACTAATAATTACCTGCCACTAGACCTGGAATCTGAGGTAG
+asv.786	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGTAGGGAGCGAGCGTTGTTCGGAATTATTGGGCGTAAAGAGCGCGTAGGCTGTTCGGTAAGTCCGATGTGAAATCCCGCGGCTCAACCGCGGAACTGCATTGGAAACTGCCGGGCTGGAGTGCGGGAGAGGAGAGTGGAATTCCCAGTGTAGAGGTGAAATTCGTAGATATTGGGAGGAACACCGGTGGCGAAGGCGGCTCTCTGGACCGCAACTGACGCTGAGGCGCGAAAGCTAGGGGAG
+asv.788	Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Thunnus		Thunnus	genus	GTCGGTAAAACTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGGCAGACACCGGCGTAAAGCGTGGTTAAGGTACACGAAAACTAAAGCCGAACACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATGAACCCTGACCCCACGAAAGCTATGACA
+asv.789	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCCACCACGGTCATACGATGAACCCAAGCTAATAGAGACTAGCGTAAAGAATGTTTTACATTATCCCTCAATAAAGCTAAATTTCACCTAAGTTGTAGAAAACCCTAGTTGATATAAAACAAACTACGAAAGTGGCTTTAATATTTCTGAATACACAATAGCGAAGATT
+asv.790	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGCAGCTCAAGTTGATGAAACACGGCGTAAAGCGTGGTTAGAGACCCTAACTTAAGTAAAGTCGAACACTATCAAGGCCGTTAGAGGTGCCCGAAAAGTTGAAGCCCAATTACGAAGGTGACTTTATTACCCCCGACCCCACGAAAGCTAGCGAAA
+asv.791	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGGGGCCCAAGTTGACAGACCACGGCGTAAAGCGTGGTTAAGGGAAGACTCAAACTAAAGCCGAACGACCTCAAGGCTGTTATACGCTTACGAAGGTACGAAGCCCGACCACGAAAGTGACTTTAACCTCACCTGACTCCACGAAAGCTGAGAAA
+asv.792	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GTTGGTAAATCTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTATAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATATGAACACACAATAGCTAAGACC
+asv.793	Animalia	Chordata						Chordata	phylum	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGCAACTCAAGTTGATGGGAAGCGGCGTAAAGTGTGGTTAGGGGAACAGAGTAAGTAAAGTTGAACGCTTTCAAGGCCGTAAGAGGTGTTCGAAAAGTTGAAATCCAATTACAAAAGTAACTTTATTATACCCGACTCCACGAAAGCTAGCGGAA
+asv.795	Animalia	Chordata	Teleostei	Acanthuriformes	Ephippidae	Chaetodipterus	Chaetodipterus_faber	Chaetodipterus_faber	species	GGGTTGGTAAATTTCGTGCCAGCCATCGCGGTTATACGAGGGACCCAAGTTGATAGACACCGGCGTAAAGAGTGGTTAAAACTTATAATTAAACTAAAGCCGAACGCCCTCAAAGCTGTTATACGCATCCGAGAGTAAGAAGCCCAACCACGAAAGTAGCTTTACACCCCTGAACCCACGAAAGCCAGGGTA
+asv.796	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGGGGATGCAAGCGTTATCCGGAATGATTGGGCGTAAAGCGTCTGTAGGTGGCTTCACAAGTCAACTGTCAAAAATCAGGGCTTAACCTTGAGCCGGCAGTTGAAACTATGGAGCTTGAGTTAGGTAGGGGCAGAGGGAATTCCTAGTGTAGCGGTGAAATGCGTAGATATTAGGAAGAACACCGATCGCGAAAGCACTCTGCTGGGCTATGACTGACACTGAGAGACGAAAGCTAAGGGAG
+asv.797	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCGCCGCGGTTACACGAGAGGCTCACGTTGATAACCCCGGCGTAAAGCGTGGTTAAGAAATATAATACTAGAGCCGAACATCTTCAAAGCTGTCATACGCACTCGAAGAAAAGAAGACCCCCACGAAAGTAGCTTTAAAACCTCTGAACCCACGAAAATTAGGATA
+asv.798	Animalia	Chordata	Teleostei	Carangiformes	Coryphaenidae	Coryphaena	Coryphaena_hippurus	Coryphaena_hippurus	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTAGACGAATGACCCAAGTTGACAGAATACGGCGTAAAGGGTGGTTAGGGAATATTAATACTAAAGCCGAACACCTTCCAAGCTGTTATACGCTTATGAAGAACTGAAACACAACTACGAAAGTGGCTTTAAAACACCTGAACCCACGAAAGCTAAGAAA
+asv.799	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAAGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGTTTAATAAGTCAACTGTTAAATCTTGAGGCTCAACCTCGAAATCGCAGTCGAAACTGTTAGACTTGAGTATAGTAGGGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.801	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGAGGGTGCAAGCGTTGCTCGGAATCACTGGGCGTAAAGCGTGCGCAGGCGGCACGTCAAGTCGGGTGTGAAAGCCCAGGGCTCAACCCTGGAACTGCACTCGAAACTGGCGAGCTGGAGTACGAGAGAGGAAAGTGGAATTCCTGGTGTAGAGGTGAAATTCGTAGATATCAGGAGGAACACCAGTGGCGAAAGCGGCTTTCTGGCTCGATACTGACGCTCATGCACGAAAGCGTGGGGAG
+asv.802	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGAGGGGGCAAGCGTTGTTCGGAATTACTGGGCGTAAAGGGCACGTAGGCGGCGATGCGGGTCAGGTGTGAAAGCCCCGGGCTTAACCTGGGAACTGCACTTGAAACTGCATTGCTTGAGGACGGAAGAGGAGAATGGAATTCCCAGTGTAGAGGTGAAATTCGTAGATATTGGGAAGAACACCAGTGGCGAAGGCGATTCTCTGGTCCGTATCTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.803								Incertae_sedis	kingdom	AGCCGCGGTAATACGAAGGGGGCGAGCGTTATTCGGAATTATTGGGCGTAAAGTGTTCGTAGGTTGTAATTGATGTTGTGAGTAAAATTTTATGTTGATTACATAAATATGCTCATAATACACTTTTTACTTGAGATAAATAAGGGATAACAGAACTTTATAATTAGGTGTAAAATCCAACGATTTATAAAAGAATGTCATAGGCGAAAGCGGTTATCTTGATTTAATCTGACATTGAGGGACGAAAGCGTAGGGAG
+asv.804	Animalia	Chordata	Teleostei	Carangiformes	Carangidae			Carangidae	family	CACCGCGGTTATACGAGAGGCTCAAGTTGACAGACAACGGCGTAAAGCGTGGTTAAGGAGAACTCATAACTAAAGCGGAACTTCCTCCTAGCTGTTATACGCTTCCGAGGAAATGAACCCCAACTACGAAAGTGGCTTTACCCCACCTGAACCCACGAAAGCTAAGAAAC
+asv.805	Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Prionurus	Prionurus_scalprum	Prionurus_scalprum	species	CACCGCGGTTATACGAGAGACCCAAGTTGTTAGACACCGGCGTAAAGAGTGGTTAGGTTTGAATCTTAAACTAAAGCCGAACATCTTCAAAGCTGTTATACGCACCCGAAGACAAGAAGTTCAATCACGAAAGTGGCTTTACCTCAACTGAACCCACGAAAGCTAGGATA
+asv.806	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGGGGATGCAAGCGTTATCCGGAATTATTGGGCGTAAAGAGTCCGTAGGTTGTTATCAAAGCCTATTGTTAAATCTCAAGGCTTCACCTTGAATCTGCAGTAGGAACCTGATAACTTGAGTGCGGTAGGAGTAGGGGGAATTCCCGGTGTAGCGGTGAAATGCGTAGATATCGGGAAGAACACCGGAGGCGAAAGCGCCCTACTGGGCCGACACTGACACTAAGGGACGAAAGCTAGGGGAG
+asv.807								Incertae_sedis	kingdom	AGCCGCGGTAATACGGGAGGGGCAAGCGTTATCTGGAATAACTGGGCGTAAAGGGTTCGTAGACTGTATTACAAGTTATTTGTTAAAATCTAAAACTTAATTTTAGAAAAGCATTTAATACTGTTATACTTGAGTTTTGTTCAGAAGAGTAGAATTTTATGTCGAGGAGTAATTACTGTAAACACATAAAGGAATATCATTAGCGAAGGCGACTCTTTAGTAAAAACTGACGTTGAGGGACGAAAGTGTAGGTAG
+asv.808	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGGGGATGCAAGCGTTATCCGGAATCATTGGGCGTAAAGCGCCTGTAGGTGGTTTAATAAGTCTGTTGTTAAGGACTAGGGCTTAACCCTAGGAAAGCAATGGAAACTACTAGACTAGAGTATGGCAGGGGTAGAGGGAATTTCTAGTGTAACGGTGAAATGCGTAGATATTAGAAAGAACACCAGTGGCGAAAGCGCTCTACTGGACCATTACTGACACTCAGAGGCGAAAGCTAGGGTAG
+asv.809	Animalia	Chordata	Teleostei	Syngnathiformes	Fistulariidae	Fistularia	Fistularia_commersonii	Fistularia_commersonii	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGATAGCCTACGGCGTAAAGAGTGGTTAAGATGTCTAATTTATTAAAGCCGAATGCCCCCAAAGCTGTTATACGCTTCCGGAGGTAAGAAGAACCACCACGAAAGTGGCTTTATGTGATCTGAACCCACGAAAGCTAGGAAA
+asv.810	Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae			Gobiidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACACAAATCGGCGTAAAGAGTGGTTAATATTAGATGAACTAAGGTCGAACATCTTCAAGGCTGTCATACGCGCCCGAAGGCAGGAAGATCTCCTACGAAAGTGACCTCAACATGTTATGAATCCACGAAAGCTAGGGAA
+asv.811	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGGAGGGAGCTAGCGTTGTTCGGAATTACTGGGCGTAAAGGGCGTGTAGGCTGTATGGTAAGTCAGAGGTGAAATCCCTAAGCTCAACTTAGGAACTGCCTTTGATACTATCACACTAGAGATCGAGAGAAGTTAGCGGAATTCCAAGTGTAGAGGTGAAATTCGTAGATATTTGGAAGAACACCTGTGGCGAAAGCGGCTAACTGGCTCGTTTCTGACGCTGAGACGCGAAAGCGTGGGTAG
+asv.812	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGCTGATTAAGTCGGGTGTGAAAGCCCCGGGCTCAACCTGGGAACTGCATCCGATACTGGTCGGCTAGAGTACGAGAGAGGGAGGTAGAATTCCACGTGTAGCGGTGAAATGCGTAGATATGTGGAGGAATACCGGTGGCGAAGGCGGCCTCCTGGCTCGATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.813	Animalia	Chordata						Chordata	phylum	AGCCGCGGTAATACGAAGGTGGCAAGCGTTATTCGGAATCACTGGGCATAAAGGGCCTGTAGGCGGTTTGTTAAGTTAATTGTGAAATCCCTCGGCTTAACCGAGGAATTGCTGTTAATACTGGCAAGCTAGAGTGTTGGAGGGGTAAGTGGAATTCTTGGTGGAGCGGTGGAATGCGTAGATATCAAGAGGAACGCCGGAGGCGAAAGCGACTTACTGGACAACTACTGACGCTGAGGGGCGAAAGCTAGGGGAG
+asv.815								Incertae_sedis	kingdom	AGCCGCGGTAATACGGGAGGGGCAAGCGTTATCCGGAATAACTGGGCGTAAAGGGTCCGTAGATTGTATTGCAAGTTATATATTAAATTTTAAAGCTTAACTTTAAAAATTATGTAATACTGTTATACTTAAATGAGTTTTAATCAGAAAAGTAGAATTTTATGTTGAGAAGTAAAATATCGTAGACACATAAAGGAACACCATTAGTGAAGTCGACTTTTTAGTAAAAACTGACATTGAGGGACGAAAGTATAGGTAT
+asv.816								Incertae_sedis	kingdom	AGCCGCGGTAATACGAAGGGGGCAAGCGTTGTTCGGAATGACTGGGCGTAAAGGGTGCGTAGGCGGCCCCTCAAGTGAGTTGTGAAATCCCTGGGCTCAACCCAGGAACTGCAGCTCATACTGTAGGGCTAGAGAATGTTAGAGGAAATAGGAATTTCTGGTGTAGAGGTGAAATTCATAGATACCAGAAGGAACACCAAAGGCGAAAGCGAGTTTCTGGGGCATTTCTGACGTTGAGGCACGAAAGCGTGGGGAG
+asv.817	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGTTAGCGTTGTTCGGAATTACTGGGCGTAAAGCGCACGTAGGCGGATTAGAAAGTTGGGGGTGAAATCCCGGGGCTCAACCTCGGAACTGCCTCCAAAACTCCTAGTCTAGAGTTCGAGAGAGGTGAGTGGAATTCCAAGTGTAGAGGTGAAATTCGTAGATATTTGGAGGAACACCAGTGGCGAAGGCGGCTCACTGGCTCGATACTGACGCTGAGGTGCGAAAGTGTGGGGAG
+asv.818	Animalia	Chordata	Teleostei	Acanthuriformes	Acanthuridae	Acanthurus		Acanthurus	genus	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGACCCAAGTTGACAGGCAATCGGCGTAAAGAGTGGTTAAGTAATACATTTCACTAAAGCCAAACACCTTCAAAGCTGTTATACGCACCCGAAGACCAGAAGCCCAATCACGAAAGTGGCTTTAAAGTAACTGAACCCACGAAAGCTAGGGCA
+asv.819	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGTACGCAGGCGGTTTGTTAAGCGAGATGTGAAAGCCCCGGGCTCAACCTGGGAACTGCATTTCGAACTGGCAAACTAGAGTGTGATAGAGGGTGGTAGAATTTCAGGTGTAGCGGTGAAATGCGTAGAGATCTGAAGGAATACCGATGGCGAAGGCAGCCACCTGGGTCAACACTGACGCTCATGTACGAAAGCGTGGGGAG
+asv.820	Animalia	Chordata	Teleostei	Tetraodontiformes	Diodontidae	Diodon	Diodon_hystrix	Diodon_hystrix	species	CACCGCGGTTATACGAGAGACCCAAGTTGTTAGGCATCGGCGTAAAGGGTGGTTAAGGCAATACCCAAACTAAAGCCGAACATCTTCCAAGCCGTCATACGCACACGAAGACAAGAAGCCCGATAACGAAAGTGGCTCTAACCTGCCTGAACCCACGAAAGCTATGACACAAACTGAGATTAGATACCTCACTAAG
+asv.822	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGCAGGTGGTTTTTTAAGTCTGATGTTAAAACTTGAGGCTCAACCTCAATCCAGCATTGGAAACTGAAAGACTAGAGTATAGTAGGGATAGAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAAGCACTCTATTGGACTATTACTGACACTCAGAGACGAAAGCTAGGGGAG
+asv.823	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGGGCTAACGTTGTTCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGATTAGACAGTTGAGGGTGAAATCCCGGAGCTTAACTCCGGAACTGCCTTCAATACTACTAATCTTGAGTTCGGAAGAGGTGAGTGGAATTCCTAGTGTAGAGGTGAAATTCGTAGATATTAGGAAGAACATCAGTGGCGAAGGCGACTCACTGGTCCGATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.824	Animalia	Chordata	Mammalia	Rodentia				Rodentia	order	CACCGCGGTCATACGATTAACCCAAACTAATAAAATCCGGCGTAAAGAGTGTTTTAGAAAAACATAAAATAAGACTAAATATTATCTAAGTCGTAAAAAACACCAGATAAAATATATACTAAAACGAAAGTAATCTTACTATATCTGAACACACGAAAGCTAGAACCCAA
+asv.825	Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family	GGGTTGGTAAATTTCGTGCCAGCCGCCGCGGTTATACGAGAGGCCCAAATCGATGCTCCACCGGCGTAAAGTGTGATTAGAGAAAACGAAAACTAAGGCCAAATATTCCTTATGCTGTCATACGCTAATAGGACACAAGAAGAACAACTACGAAAGTGGCTTTACTACCCTTGAACTCACGACAGCCAGATCA
+asv.826	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAAAGGTGCAAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGCGGCTTGGTAAGTTGGATGTGAAAGCCCCGGGCTTAACCTGGGAACTGCATCCAAAACTGCCTAGCTAGAGTATGGTAGAGGATGGCGGAATTTCCTGTGTAGCGGTGAAATGCGTAGATATAGGAAGGAACATCAGTGGCGAAGGCGGCCATCTGGACCAATACTGACGCTGAGGTGCGAAAGCGTGGGGAG
+asv.827	Animalia	Chordata						Chordata	phylum	GGACTGGTCAATTTCGTGCCAGCCACCGCGGCCATACAATTAACCTGAGCTAATAGAACTCGGCATAAAGAGTGTTTTAGATCTATCCTTAACAACGCTAAGCGTCATCTAGGTTGTAAAAAACCCTAGCTGAAATAAAATAAACTACGAAGGAGGCTTTAATACTTCTGAAGACACAATAGCTGAGACC
+asv.828	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTTGCACAATAAGTCAACTGTAAAATCTTGAAGCTCAACTTCAAAACCGCAGTCGAAACTATTGAGCTTGAGTATAGTAGAGGTAAAGGGAATTTCCAGTGGAGCGGTGAAATGCGTAGATATTGGAAAGAACACCGATGGCGAAGGCACTTTACTGGGCTATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.829	Animalia	Chordata						Chordata	phylum	GGGTTGGTAAATTTCGTGCCAGCCATCACAGTCATACAATTAACCCAAATTAATAGAGACATGAGGTAAGGCATGTTAAAGAGATTTTACAAAAATAAAGTTAAATTTTACTTAAGCCACAAAAAGTCATAATTATAATAAAACCAAATGATGAAAGTAACTTTAATAGTATTGCCACATGACAGCTAAGACC
+asv.830	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGCGCAAGCGTTGCTCGGAATCACTGGGCGTAAAGGGTGCGCAGGCGGTTCATTAAGTCAGATGTGAAAGCCCGGGGCTCAACCCCGGAACTGCATCTGAAACTGGCGAACTTGAGTATGAGAGAGGAAAGTGGAATTCCTGGTGTAGAGGTGAAATTCGTTGATATCAGGAGGAACATCAGTGGCGAAGGCGACTTTCTGGCTCATAACTGACGCTCATGCACGAAAGTGTGGGTAG
+asv.831	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAAGACGGAGGATGCAAGTGTTATCCGGAATCACTGGGCGTAAAGCGTCTGTAGGTGGCTTTATAAGTCTGTTGTTAAATCTTGGAGCTTAACTTCAAATCCGCAATGGAAACTATATGGCTTGAGTATGGTAGAGGTAAGAGGAATTTCCAGTGGAGCGGTGAAATGCGTAGAGATTGGAAAGAACACCGATGGCGAAGGCATCTTACTGGACCATTACTGACACTCAGAGACGAAAGCTAGGGTAG
+asv.832	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGTACGCAGGCGGTTGATTAAGCGAGATGTGAAATCCCTAGGCTCAACCTAGGAACTGCATTTCGAACTGGTCAACTAGAGTATGAGAGAGGGTGGTAGAATTTCAGGTGTAGCGGTGAAATGCGTAGAGATCTGAAGGAATACCGATGGCGAAGGCAGCCACCTGGTTCAATACTGACGCTCATGTACGAAAGCGTGGGGAG
+asv.833	Animalia	Chordata	Mammalia	Primates	Hominidae	Homo	Homo_sapiens	Homo_sapiens	species	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAACCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTAACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC
+asv.835	Animalia							Metazoa	subkingdom	AGTCGCGGTAATACGGGAGGGGCAAGCGTTACTCGAAATAACTGGGCGTAAAGAGTTCGTAGATTGTAAAATAAGTTATTTATCATAAGGTTAAAGTTCAATTTTAAAATAATATTTAATACTGTTTTACTTGAGTTTTTTACAGAAGAATAGAATTTTATATTTAGGGGTAATTTCTGTAGATATATGAAGGAATATCATTAGCGAAGGCGATTCTTTAGTAAAAACTGACATTGAGGGACGAAAGTATAGGTAG
+asv.836	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGGCCCAAGTTGACTAGCACTCGGCGTAAAGGGTGGTTAGAATATATTGAAACTAAAGCCGAACGCCCTCACGACTGTCGTACGTTTCCGAGGGTGGGAAGACCTACTACGAAAGTGGCTTTATTACCTTTGACCCCACGAAAGCTGTGAGAC
+asv.837	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGGCCCGAGTTGACAGACCACGGCGTAAAGAGTGGTTAGGGATTTTTTCTCAAACTAGAGCCGAACGCTCTCAGAGCCGTCATACGCTCACGAGAGTATGAAGCCCAACAACGAAAGTGGCTCTAACCCTACCTGAACCCACGAAAGCTAAGAAA
+asv.838	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGTGAGCCCAAGTTGATAAAAACCGGCGTAAAGGGTGGTTAAGAACGTTACTAAATAAAGCCAAAAATTCTAGCAGTTGTTAAATGCTCGCAAGCATAGTAAGCCCAAATACGAAAGTAGCTTTATAATTTCTGACCCCACGAAAACTAGGACA
+asv.839	Animalia	Chordata						Chordata	phylum	AGCCGCGGCAATACGGAGGGTGCAAGCGTTGTTCGGAATTATTGGGCGTAAAGGGCGCGTAGGCGGGCCATTAAGTCTGATGTGAAATCCCTCGGCTCAACCGAGGACGTGCATTGGAAACTGATGGTCTTGAGTCCTGGAGAGGAAAGCGGAATTCCCAGTGTAGAGGTGAAATTCGTAGATATTGGGAGGAACACCAGCGGCGAAGGCGGCTTTCTGGACAGTGACTGACGCTGAGGTGCGAAAGCGTGGGTAG
+asv.841	Animalia	Chordata						Actinopteri	superclass	GGGTTGGTTAATTTCGTGCCAGCCGCCGCGGTTACACGAGAGGCTCACGTTGATAACCCCGGCGTAAAGCGTGGTTAAGAAATATAATACTAGAGCCGAACATCTTCAAAGCTGTCATACGCACTCGAAGAAAAGAAGACCCCCACGAAAGTAGCTTTAAAACCTCTGAACCCACGAAAATTAGGATA
+asv.842	Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Sphoeroides	Sphoeroides_annulatus	Sphoeroides_annulatus	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGTCCAAGTTGTTAGCCCTCGGCGTAAAGAGTGGTTAAAGTAAAAAACAAAACTGAGGTCGAACATCTTCAAGGCAGTTATACGCTCCCGAGGATATGAAGCACAATCACGAAAGTAGCCTCACCCCGCTTGAACCCACGAAAGCTAGGACA
+asv.843	Animalia	Chordata	Teleostei	Scombriformes	Scombridae	Auxis	Auxis_thazard	Auxis_thazard	species	CACCGCGGTTATACGAGAGGCCCAAGTTGACAGACACCGGCGTAAAGCGTGGTTAAGGAAAACTAAAACTAAAGCCGAACACCTTCAGGGCAGTTATACGCATCCGAAGGCACGAAGCCCCACCACGAAAGTGGCTTTATGAGCCCCTGACCCCACGAAAGCTATGACAC
+asv.844	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGGAGGGGCAAGCGTTATCCGAAATGACTGGGCGTAAAGAGTCCGTAGACTGTACTGTAAGTTATTTGTTAAATCCTAAAGCTCAACTTTAGAACAGCTTATAATACTACTTTACTTGAGTTTTGTTCAGAAGAGTAGAATTCCATGTTTAGGGATAAGCCCCGTAGATATATGGAGGAACACCTGTGGCGAAGGCGACTCTTTGGTAAAAACTGACGTTGAGGGACGAAAGTGTAGGGAG
+asv.845	Animalia	Chordata	Teleostei	Tetraodontiformes	Tetraodontidae	Arothron	Arothron_nigropunctatus	Arothron_nigropunctatus	species	CACCGCGGTTATACGAGAGACCCAAGTTGTTAGCTCCCGGCGTAAAGAGTGGTTAAAAACACAACATTAAACTGAGGCCGAACATCCTCAAGGCAGTTATACGCTCCCGAGGACATGAAGAACAATTACGAAAGTAGCCCCACCCCATTTGAACCCACGAAAGCTAGGACA
+asv.846	Animalia	Chordata	Teleostei	Beloniformes	Exocoetidae			Exocoetidae	family	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCCTAAGTTGACAGACAACGGCGTAAAGAGTGGTTAAGAAAAAATTTATACTAAAGCCGAACATCCTCAAGACTGTCGTACGTTTCCGAGGATATGAAGTCCCCCTACGAAAGTGGCTTTAACTCTCCTGACCCCACGAAAGCTGTGACA
+asv.847	Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae			Muraenidae	family	GGGTTGGTAAATTTCGTGCCAGCAACCGCGGTTATACGAGGGGCCCGAATTGACGCATTACGGCGTAAAGTGTGATTAGAGACAAAACTAAACTAGAACCAAATACCCCTTATGCTGTCATACGCTATGGGGGTCACGAAGCCCAACAACGAAAGTGGTTCTATTAACCTTGAACTCACGACAGCTAAGGCA
+asv.850	Animalia	Chordata						Chordata	phylum	AGCTGCGGTTATACGGAAGGGGCGAACGTTATTCGGAATGATTGGGCGTATAGTGTTCGTAGGTTGTTTCATGAGTTATTTGTTAAATGTATGGTTTATAGCTTAGAAAGGCATTTAATACTCTGAAACTTGAGTATAACAGAGGATAGCAGAATTCTATAGATAGGGGTAAAATCCTATAATTTATAGAAGAATGTCAGAGGCGAAGGCGGCTATCTGGGTTATTACTGACATTGAGGAACGAAAGCGTAGGGAG
+asv.852	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAATACAGAGGATGCAAGCGTTATCCGGAATCACTGGGCATAAAGCGTCTGTAGGTTGTTTAGTAAGTCTGCTGTTAAAGACTAGGGCCTAACCCTAGGAAAGCAGTGGAAACTGCTAGACTTGAGTATGGTAGAGGTAGAGGGAATTCCTAGTGTAGCGGTGAAATGCGTAGATATTAGGAAGAACACCAATGGCGAAAGCACTCTACTGGGCCATAACTGACACTGAGAGACGACAGCTAGGGGAG
+asv.853	Animalia	Chordata	Teleostei	Gobiiformes	Gobiidae			Gobiidae	family	GTTGGTAAATCTCGTGCCAGCCACCGCGGTTATACGAGAGGCCCAAGTTGACACAAATCGGCGTAAAGAGTGGTTAATATTAGATGAACTAAGGTCGAACATCTTCAAGGCTGTCATACGCGCCCGAAGGCAGGAAGATCTCCTACGAAAGTGACCTCAACATGTTATGAATCCACGAAAGCTAGGGAA
+asv.854	Chromista	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula_minima	Navicula_minima	species	AGCCGCGGTAATACGGAGGGTGCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGTACGCAGGCGGTTTGTTAAGCGAGATGTGAAAGCCCCGGGCTCAACCTGGGAACCGCATTTCGAACTGGCAAACTAGAGTGTGATAGAGGGTGGTAGAATTTCAGGTGTAGCGGTGAAATGCGTAGAGATCTGAAGGAATACCGATGGCGAAGGCAGCCACCTGGGTCAACACTGACGCTCATGTACGAAAGCGTGGGGAG
+asv.855	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAAGGGGGCTAGCGTTGTTCGGATTCATTGGGCTTAAAGAGCTCGTAGGCGATCTTTTAAGTAAAATGTGAAAGCTCTAGGCTTAACCAAGAAATTGCATTTTATACTGATTGAATAGAGTTTGATAGAGGAAAGCAGAACTTCTAGTGTAGAGGTGAAATTCGTAGATATTAGAAGGAATACCAAAAGCGAAGGCAGCTTTCTGGATCATAACTGACGTTGTTGAGCGAAAGCGTGGGGAG
+asv.856	Animalia	Chordata	Teleostei	Anguilliformes				Anguilliformes	order	GGGTTGGTTAATTTCGTGCCAGCCACCGCGGTTATACGAGAGGCTCAAATTGATATATTACGGCGTAAAGTGTGATTAGAGAAAACAAAAACTAAAGCCAAACACCTCCCAAGCTGTCATACGCTAACGGAGCCGGAGGCCCCGCAACGAAAGTAGCTTTAAAAATCTTGAACTCACGACCATTAAGAAA
+asv.857	Animalia	Chordata	Teleostei	Anguilliformes	Muraenidae	Gymnothorax	Gymnothorax_saxicola	Gymnothorax_saxicola	species	GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTTATACGAGGGGCCCAAATTGATGCACTACGGCGTAGAGTGTGATTAGAGACAAACTTAAATTAAAGCCAAACACCCCCTATGCTGTCATACGTCATGGGGAGCATGAAGCCCAACAACGAAGGTGGCTTTATATATCTTGAACTCACGACAGCTAAGACA
+asv.858	Animalia	Chordata	Teleostei	Anguilliformes	Ophichthidae	Myrophis	Myrophis_vafer	Myrophis_vafer	species	CACCGCGGTTATACGAGGGGCCCAAACTGATATTCAACGGCGTAAAGCGTGATTAGAGAGAACATACAACTAAAGGAGAACATCCCCCAAGCTGTCATACGCTAACGGAATGATTGAACCCCCACAACGAAAGTGCCTTTAAGAAGCCTTGAACTCACGAGTATTAGGAAA
+asv.859	Animalia	Chordata						Actinopteri	superclass	CACCGCGGTTATACGAGAGGCCCAAGTTGATAGCCCACGGCGTAAAGAGTGGTTAGGGAAAAACCAAAATAAAGTCGAACGCCCCCAGAGCCGTTATACGCTTCCGAGGGTAAGAAGCCCTACTACGAAAGTGACTTTAACTTACCTGACCCCACGAAAGCTGCGAAACA
+asv.860	Animalia	Chordata	Teleostei	Eupercaria_incertae_sedis	Lutjanidae	Lutjanus		Lutjanus	genus	CACCGCGGTTATACGAGAGACCCAAGTTGATAGACACCGGCGTAAAGAGTGGTTAAGATTTATCCAACACTAAAGCCGAACGCCCTCAAAGCTGTTATACGCACCTGAGGGTAAGAAGCCCAACCACGAAAGTGGCTTTAAACTATCCGAATCCACGAAAGCTATGATAC
+asv.861	Animalia	Chordata	Teleostei	Clupeiformes	Clupeidae			Clupeidae	family	CACCGCGGTTATACGAGAGACCCAAGTTGATAAACTCGGCGTAAAGAGTGGTTATGGGTTGAGTTCAAACTAAAGCTAAAGACCACCCAGGCCGTTATACGCATACGATGGTTCGAACCACCTTAACGAAAGTAGCTTTACTCCCTCCAGCCAGAACCCACGACAGCTGGGAAA
+asv.862								Incertae_sedis	kingdom	AGCCGCGGTAAGACGGGAGATGCAAGCGTTATTCGGAATCATTGGGCGTAAAGTGTCTGTAGGTGGCTTATTAAGTCTGCAGTTAAATACCGAAGCTTAACTTCGGACAGGCGGTAGAAACTAATAAGCTTGAGTGTGTTAGGGGCAGGGGGAATTCCCAGTGTAGCGGTGAAATGCGTAAAGATTGGGAGGAATACCAAAGGCGAAGGCACCCTGCTGGGCCAACACTGACACTCAAAGACGAAAGCTAGGGGAG
+asv.864	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGAAGGGGGCTAGCGTTGTTCGGAATCACTGGGCGTAAAGCGTATGTAGGCGGATCAAAAAGTTAGATGTGAAATCCCTGGGCTCAACCCAGGAACTGCATTTAAAACTAGTGATCTAGAATTTGGTAAGGGTTAGTAGAATTTCCAGTGTAGAGGTGAAATTCGTAGATATTGGAAAGAATACCAGAAGCGAAGGCGACTAACTAGGCCATTTTTGACGCTGAGATACGAAAGCGTGGGTAG
+asv.865	Animalia							Metazoa	subkingdom	AGCCGCGGTAATACGGAGGGTGCGAGCGTTAATCGGAATTACTGGGCGTAAAGCGCGCGTAGGTGGTTTTATAAGCTAGCTGTGAAAGCCCCGGGCTCAACCTGGGAACTGCAGTTAGAACTGTTTGACTAGAGTATAATAGAGGGTGGCGGAATTTCCTGTGTAGCGGTGAAATGCGTAGATATAGGAAGGAACATCAGTGGCGAAGGCGGCCACCTGGATTAATACTGACACTGAGGTGCGAAAGCGTGGGGAG
+asv.866	Animalia	Chordata	Teleostei	Anguilliformes				Anguilliformes	order	CACCGCGGTTATACGAGAGGCTCAAATTGAAGTTTCACGGCGTAAAGTGTGATTAGAGGAAACAAAAACTAAAGCCAAACATCTCCCAAGCTGTCATACGCTAACGGAACCAGAGGCCCCCCAACGAAAGTAGCTTTAAAATTCTTGAACTCACGACCATTAAGAAACAA
+asv.867	Animalia	Chordata	Elasmobranchii	Carcharhiniformes	Carcharhinidae	Triaenodon	Triaenodon_obesus	Triaenodon_obesus	species	CACCGCGGTTATACGAGTAACTCATATTAACACATCCCGGCGTAAAGAGTGATTAAAGAATGACCTTCAACTACTAAAGTTTAGACCTCATAAAACTGTTATACGTACCCATGAGTAGAATAAACAACAACGAAAGTGACTTTATAAAATAAGGAACCTTGATGACACGACAGTTAGGACC
