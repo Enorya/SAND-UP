@@ -130,13 +130,13 @@ site3
 
 ### Taxonomy tables
 Your file should look like one of the `*_tax_table.tsv` available in the `test/` directory
-| ASV_name | superkingdom | kingdom | phylum | class | order | family | genus | species | scientificName | taxonRank |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| asv.1 | | Animalia | Chordata | Teleostei | Clupeiformes | Spratelloididae | Jenkinsia | Jenkinsia lamprotaenia | Jenkinsia lamprotaenia | species |
-| asv.2 | Eukaryota | | | | | | | | Incertae sedis | kingdom |
-| asv.3 | | Animalia | Chordata | Elasmobranchii | Myliobatiformes | | | | Myliobatiformes | order |
+| ASV_name | superkingdom | kingdom | phylum | class | order | family | genus | species | scientificName | taxonRank | DNA_sequence
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| asv.1 | | Animalia | Chordata | Teleostei | Clupeiformes | Spratelloididae | Jenkinsia | Jenkinsia lamprotaenia | Jenkinsia lamprotaenia | species | GTTGGTAAATCTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC |
+| asv.2 | Eukaryota | | | | | | | | Incertae sedis | kingdom | CACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC |
+| asv.3 | | Animalia | Chordata | Elasmobranchii | Myliobatiformes | | | | Myliobatiformes | order | GGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTCCCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAGACTACGAAAGTGGCTTTAACATATCTGAACACACAATAGCTAAGACC |
 
-### Sequence tables
+### Sequence/Occurence tables
 Your file should look like one of the `*_seq_table.tsv` available in the `test/` directory
 | target_gene | pcr_primer_forward | pcr_primer_reverse | DNA_sequence | occurrenceID |
 | :---: | :---: | :---: | :---: | :---: |
@@ -209,7 +209,7 @@ family_tree_creation.sh -n Dasyatidae -t 'test/${site}_${amplicon}_tax_table.tsv
 
 If you want to use a different maximum length of the amplicon than the one listed in `list_primers.tsv`:
 ```
-family_tree_creation.sh -n Dasyatidae -t 'test/${site}_${amplicon}_tax_table.tsv' -s 'test/${site}_${amplicon}_seq_table.tsv' -a CO1 -l 380 -o '../outgroup_sequences/petromyzon_marinus_16S.fa'
+family_tree_creation.sh -n Dasyatidae -t 'test/${site}_${amplicon}_tax_table.tsv' -s 'test/${site}_${amplicon}_seq_table.tsv' -a CO1 -l 380 -o '../outgroup_sequences/petromyzon_marinus_CO1.fa'
 ```
 > [!TIP]
 > Each parameter listed in the help message can be modified, even when using default amplicons, but if you want to change the primers' sequences, you need to change both, otherwise the default sequences will be used.
