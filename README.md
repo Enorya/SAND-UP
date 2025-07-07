@@ -218,5 +218,44 @@ family_tree_creation.sh -n Dasyatidae -t 'test/${site}_${amplicon}_tax_table.tsv
 > The single quotation marks around the table's names are mandatory for proper results, don't forget to put them!
 
 ## Usage of Location tree script
-> [!CAUTION]
-> This script is not finalised for the moment, please take this into consideration if you wish to use it.
+Here is a description of all the parameters of this tool:
+```
+This script create a phylogenetic tree by taking as input a location name, the name of the used amplicon, a taxonomy and a sequence table.
+
+Syntax: location_tree_creation.sh [-t|s|a|u|f|r|g|l|o|h]
+
+Options:
+	-n	name of location you want to study (mandatory)
+	-t	taxonomy table (mandatory)
+	-s	occurence table (mandatory)
+	-u	unwanted taxa list
+	-a	amplicon name (mandatory)
+	-f	forward primer sequence
+	-r	reverse primer sequence
+	-g	gene name (if different than amplicon name)
+	-l	maximum length of the amplicon (advice: length of the amplicon for outgroup + 100bp)
+	-o	outgroup fasta file already formatted
+	-h	display this help message.
+```
+
+For example, if you want to use an amplicon from the default list called `list_primers.tsv`:
+```
+location_tree_creation.sh -n location_name -t 'test/tax_table.tsv' -s 'test/seq_table.tsv' -a 12SMifish
+```
+The available amplicons are the same as for the family tree creation script.
+
+
+If you want to use your own amplicon:
+```
+location_tree_creation.sh -n location_name -t 'test/${site}_${amplicon}_tax_table.tsv' -s 'test/${site}_${amplicon}_seq_table.tsv' -a 16SVert -f AGTCCCGAAATATAAT -r GCTGTTGTGCCCGAAG -g 16S -l 350 -o '../outgroup_sequences/petromyzon_marinus_12SMifish.fa'
+```
+
+If you want to use a different maximum length of the amplicon than the one listed in `list_primers.tsv`:
+```
+location_tree_creation.sh -n location_name -t 'test/${site}_${amplicon}_tax_table.tsv' -s 'test/${site}_${amplicon}_seq_table.tsv' -a CO1 -l 380 -o '../outgroup_sequences/petromyzon_marinus_CO1.fa'
+```
+> [!TIP]
+> Each parameter listed in the help message can be modified, even when using default amplicons, but if you want to change the primers' sequences, you need to change both, otherwise the default sequences will be used.
+
+> [!WARNING]
+> The single quotation marks around the table's names are mandatory for proper results, don't forget to put them!
