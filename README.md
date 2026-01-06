@@ -106,11 +106,9 @@ gunzip nt.gz
 grep "^>" nt.fsa > all_nt_db_acc.txt
 ```
 > [!NOTE]
-> A similar file is already provided in this repository but it might be good to redo this step if the file is too old.
+> A similar file can be provided on request but it might be good to redo this step in order to get the latest sequences available.
 > 
-> If you want to use the provided version don't forget to decompress it first using `xz -d all_nt_db_acc.txt.xz` ( **/!\\** you need to have xz installed)
-> 
-> (last update: 19 June 2024 with 102960590 sequences)
+> (last update of the file available on request: 19 June 2024 with 102960590 sequences)
 
 You can use the following command to test the installation (it should take around 10 minutes to run):
 ```
